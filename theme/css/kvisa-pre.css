@@ -1,0 +1,36 @@
+/* Korea Entry Desk */ .post-title, .post-title a, h3.post-title a { color: #1E3A5F; } .post-body a, .post-body a:visited, .snippet-item a, .jump-link a { color: #2563EB; } .post-body a:hover { text-decoration: underline; }
+/* header contrast (same as Seoul AI Stocks, 2026-09-21) */
+.header-widget, .header-widget > div, .Header, #header, .header-outer {
+background-image:
+linear-gradient(180deg, rgba(4,8,18,.62) 0%, rgba(4,8,18,.40) 46%, rgba(4,8,18,.74) 100%),
+none !important;
+background-color: transparent !important;
+background-size: cover !important;
+background-position: center 52% !important;
+background-repeat: no-repeat !important;
+background-attachment: scroll !important;
+}
+.header-widget .title, .header-widget h1, .header-widget h1 a,
+#header h1, #header h1 a {
+color: #FFFFFF !important;
+text-shadow: 0 2px 20px rgba(0,0,0,.9), 0 1px 3px rgba(0,0,0,.95) !important;
+}
+.header-widget .description, .header-widget .descriptionwrapper,
+#header .description, .header-widget .description span {
+color: #EAF0F8 !important;
+text-shadow: 0 1px 12px rgba(0,0,0,.95) !important;
+opacity: 1 !important;
+}
+/* menu contrast */
+.tabs .widget li a, .PageList li a, .tabs-inner .widget li a,
+.centered-top .PageList li a, .centered-top-container .PageList li a {
+color: #FFFFFF !important;
+text-shadow: 0 1px 12px rgba(0,0,0,.98) !important;
+font-weight: 600 !important;
+opacity: 1 !important;
+}
+.tabs .widget li a:hover, .PageList li a:hover,
+.centered-top .PageList li a:hover { border-bottom: 2px solid #FFFFFF !important; }
+.header-widget svg, #header svg, .centered-top svg,
+.centered-top-container svg { fill: #FFFFFF !important; }
+
