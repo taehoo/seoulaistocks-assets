@@ -1,0 +1,13 @@
+{
+  "filing": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102000293",
+  "secondary_verify": "https://samara.kr/disclosure/20261102000293",
+  "filing_date": "2026-11-02",
+  "prior_cutoff": "2026-07-31",
+  "new_cutoff": "2026-10-13",
+  "prior_shares": 7720460,
+  "new_shares": 6609724,
+  "total_vote_shares": 109142293,
+  "prior_pct": 7.07,
+  "new_pct": 6.06,
+  "data_note": "Do not infer which specific trade dates or one-day sale volume; report-date change reflects aggregate holdings."
+}
