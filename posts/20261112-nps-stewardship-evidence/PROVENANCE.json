@@ -1,0 +1,6 @@
+{
+  "equity_data_source": "https://fund.nps.or.kr/tctrspn/tctrspnacvt/getOHEE0007M0.do",
+  "stewardship_rule": "https://fund.nps.or.kr/tctrspn/tctrspnplcy/getOHEE0006M0.do",
+  "committee": "https://fund.nps.or.kr/tctrspn/tctrspnsyst/getOHEE0003M0.do",
+  "voting_change": "https://fund.nps.or.kr/impa/nscvrgdatadtl/getOHEF0014M0.do?hmpgBbsCd=BS20240174&pstId=ZZ202600000000000234"
+}
