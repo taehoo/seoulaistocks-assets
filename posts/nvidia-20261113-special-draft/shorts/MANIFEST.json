@@ -1,0 +1,20 @@
+[
+  {
+    "lang": "en",
+    "file": "nvidia_special_20261113_en_green_v4.mp4",
+    "duration": 57.683333,
+    "sha256": "2211f98097da8ae3134fc5bb80ef7f583583fab7f61cb4a9655b06ae6011978d",
+    "youtube_published": false,
+    "platform_status": "uploadLimitExceeded for semiconductor YouTube account",
+    "source_cover": "Anders Eidesvik / CC BY-SA 4.0"
+  },
+  {
+    "lang": "ko",
+    "file": "nvidia_special_20261113_ko_green_v4.mp4",
+    "duration": 55.85197,
+    "sha256": "69bea0a5c20ca3bca91b2b3887efc661f9eb658c2056db414412272cba0616ff",
+    "youtube_published": false,
+    "platform_status": "uploadLimitExceeded for semiconductor YouTube account",
+    "source_cover": "Anders Eidesvik / CC BY-SA 4.0"
+  }
+]
