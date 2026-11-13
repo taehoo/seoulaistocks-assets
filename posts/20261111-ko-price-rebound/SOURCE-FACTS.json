@@ -28,5 +28,27 @@
   "sources": [
     "https://en.yna.co.kr/view/AEN20261111008000320",
     "https://www.koreatimes.co.kr/economy/20261110/korean-stocks-surge-over-4-as-risk-appetite-returns"
+  ],
+  "additional_charts": [
+    {
+      "image": "03_ko_1111_pct_kospi.webp",
+      "type": "verified_source_data_visual"
+    },
+    {
+      "image": "04_ko_1111_price_vs_return.webp",
+      "type": "verified_source_data_visual"
+    },
+    {
+      "image": "05_ko_filing_trading_timeline.webp",
+      "type": "verified_source_data_visual"
+    },
+    {
+      "image": "06_ko_q3_operating_income.webp",
+      "type": "verified_source_data_visual"
+    }
+  ],
+  "official_sources": [
+    "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results",
+    "https://news.skhynix.com/en/q3-2026-business-results/"
   ]
 }
