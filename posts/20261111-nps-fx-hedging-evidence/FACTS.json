@@ -1,0 +1,6 @@
+{
+  "policy": "https://fund.nps.or.kr/oprtplcy/astaprtplcy/getOHEC0007M0.do",
+  "portfolio": "https://www.nps.or.kr/pnsinfo/ntpsklg/getOHAF0098M0.do",
+  "basis": "https://fund.nps.or.kr/fileDown.do?atchFileId=FL25001965&atchFileSn=1",
+  "status": "all historical percentages explicitly attributed, hypothetical FX math explicitly labeled"
+}
