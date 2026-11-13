@@ -1,0 +1,20 @@
+{
+  "original": "https://customs.go.kr/kcs/na/ntt/selectNttInfo.do?bbsId=1362&mi=2891&nttSn=10182926&nttSnUrl=f245ffc86cc10295d215ed0379c4a630",
+  "release_date": "2026-11-11",
+  "status": "preliminary",
+  "currency": "USD millions in primary table; graphs convert to USD billions",
+  "data": {
+    "exports_2025_11_1_10": 15794,
+    "exports_2026_11_1_10": 33460,
+    "imports_2025_11_1_10": 17035,
+    "imports_2026_11_1_10": 24710,
+    "balance_2025_11_1_10": -1241,
+    "balance_2026_11_1_10": 8751,
+    "exports_2026_oct_1_10": 26141,
+    "ytd_exports": 963663,
+    "ytd_imports": 659924,
+    "ytd_surplus": 303739
+  },
+  "secondary_destination": "https://en.yna.co.kr/view/AEN20261111002651320",
+  "source_license": "Korea government public announcement; original simple data charts not copied photograph"
+}
