@@ -1,0 +1,92 @@
+{
+  "generated_at": "2026-11-13",
+  "design": "Original premium editorial typographic layout over Wikimedia original photography, not documentary photos of the Nov 2026 event",
+  "covers": [
+    {
+      "slug": "en13-chip-exports",
+      "post_id": "9188198144926223266",
+      "source_photos": [
+        {
+          "file": "/home/ubuntu/tp-work/hermes-blog__published-content-recovery-1112/cover-redesign-20261113/input/03_busan-container-terminal-2006-jpg.jpg",
+          "title": "Busan Container Terminal 2006.jpg",
+          "commons": "https://commons.wikimedia.org/wiki/File:Busan_Container_Terminal_2006.jpg",
+          "licence": "CC BY-SA 4.0",
+          "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Niels Johannes",
+          "orig_width": 2048,
+          "orig_height": 1360,
+          "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Busan_Container_Terminal_2006.jpg/1920px-Busan_Container_Terminal_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "stored_width": 1450,
+          "stored_height": 963
+        },
+        {
+          "file": "/home/ubuntu/tp-work/hermes-blog__published-content-recovery-1112/cover-redesign-20261113/input/04_12-inch-silicon-wafer-jpg.jpg",
+          "title": "12-inch silicon wafer.jpg",
+          "commons": "https://commons.wikimedia.org/wiki/File:12-inch_silicon_wafer.jpg",
+          "licence": "CC BY-SA 3.0",
+          "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "artist": "Peellden",
+          "orig_width": 2000,
+          "orig_height": 2000,
+          "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/12-inch_silicon_wafer.jpg/1920px-12-inch_silicon_wafer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "stored_width": 1000,
+          "stored_height": 1000
+        }
+      ],
+      "alt": "Editorial cover photo collage of Busan container terminal and a silicon wafer, with title Korea chip export boom; photographs are archival illustrative material, not a November 2026 shipment."
+    },
+    {
+      "slug": "en12-semiconductor-earnings",
+      "post_id": "5021338723734702592",
+      "source_photos": [
+        {
+          "file": "/home/ubuntu/tp-work/hermes-blog__published-content-recovery-1112/cover-redesign-20261113/input/00_silicon-wafer-researcher-jpg.jpg",
+          "title": "Silicon wafer researcher.jpg",
+          "commons": "https://commons.wikimedia.org/wiki/File:Silicon_wafer_researcher.jpg",
+          "licence": "Public domain",
+          "licence_url": "",
+          "artist": "U.S. Department of Energy",
+          "orig_width": 5760,
+          "orig_height": 3840,
+          "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Silicon_wafer_researcher.jpg/1920px-Silicon_wafer_researcher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "stored_width": 1450,
+          "stored_height": 967
+        }
+      ],
+      "alt": "Editorial photo of semiconductor wafer cleanroom researcher under the title Revenue, Operating Profit and Net Income; not a photo of a particular 2026 earnings event."
+    },
+    {
+      "slug": "ko12-corporate-filings",
+      "post_id": "866194627745782693",
+      "source_photos": [
+        {
+          "file": "/home/ubuntu/tp-work/hermes-blog__published-content-recovery-1112/cover-redesign-20261113/input/01_multicrystalline-silicon-wafer-with-thin.jpg",
+          "title": "Multicrystalline silicon wafer with thin film iridescence.jpg",
+          "commons": "https://commons.wikimedia.org/wiki/File:Multicrystalline_silicon_wafer_with_thin_film_iridescence.jpg",
+          "licence": "CC BY-SA 4.0",
+          "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "artist": "Radiotrefoil",
+          "orig_width": 3286,
+          "orig_height": 2041,
+          "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Multicrystalline_silicon_wafer_with_thin_film_iridescence.jpg/1920px-Multicrystalline_silicon_wafer_with_thin_film_iridescence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "stored_width": 1450,
+          "stored_height": 901
+        },
+        {
+          "file": "/home/ubuntu/tp-work/hermes-blog__published-content-recovery-1112/cover-redesign-20261113/input/06_ic-circuit-chip-board-jpg.jpg",
+          "title": "IC circuit chip board.JPG",
+          "commons": "https://commons.wikimedia.org/wiki/File:IC_circuit_chip_board.JPG",
+          "licence": "Public domain",
+          "licence_url": "",
+          "artist": "Kimmo Palosaari",
+          "orig_width": 1600,
+          "orig_height": 1200,
+          "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/82/IC_circuit_chip_board.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "stored_width": 1333,
+          "stored_height": 1000
+        }
+      ],
+      "alt": "기업 실적 공시 읽는 순서 표지: 다색 웨이퍼 및 반도체 칩 사진을 바탕으로 구성한 편집 디자인으로 2026년 특정 실적을 촬영한 사진이 아님."
+    }
+  ]
+}
