@@ -1,0 +1,110 @@
+{
+  "sources": {
+    "Samsung": "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results",
+    "SK hynix": "https://news.skhynix.com/en/q3-2026-business-results/"
+  },
+  "figures": [
+    {
+      "file": "01_samsung_rev_op.webp",
+      "labels": [
+        "Revenue",
+        "Operating income"
+      ],
+      "values_trillion_krw": [
+        195.3,
+        107.4
+      ],
+      "source": "Samsung Electronics 3Q26 release, 29 Oct 2026"
+    },
+    {
+      "file": "02_skhynix_rev_op_net.webp",
+      "labels": [
+        "Revenue",
+        "Operating profit",
+        "Net profit"
+      ],
+      "values_trillion_krw": [
+        104.6155,
+        83.3338,
+        39.7756
+      ],
+      "source": "SK hynix 3Q26 release, 28 Oct 2026"
+    },
+    {
+      "file": "03_hynix_q2_q3_revenue.webp",
+      "labels": [
+        "2Q26 sales",
+        "3Q26 sales"
+      ],
+      "values_trillion_krw": [
+        79.3187,
+        104.6155
+      ],
+      "source": "SK hynix 3Q26 release, 28 Oct 2026"
+    },
+    {
+      "file": "04_hynix_q2_q3_operating.webp",
+      "labels": [
+        "2Q26 op. profit",
+        "3Q26 op. profit"
+      ],
+      "values_trillion_krw": [
+        60.5426,
+        83.3338
+      ],
+      "source": "SK hynix 3Q26 release, 28 Oct 2026"
+    },
+    {
+      "file": "05_hynix_q2_q3_net.webp",
+      "labels": [
+        "2Q26 net income",
+        "3Q26 net income"
+      ],
+      "values_trillion_krw": [
+        93.9226,
+        39.7756
+      ],
+      "source": "SK hynix 3Q26 release, 28 Oct 2026"
+    },
+    {
+      "file": "06_samsung_capex_period.webp",
+      "labels": [
+        "Q3 actual",
+        "Jan-Sep actual",
+        "2026 plan"
+      ],
+      "values_trillion_krw": [
+        29.0,
+        56.9,
+        84.4
+      ],
+      "source": "Samsung Electronics 3Q26 release, 29 Oct 2026"
+    },
+    {
+      "file": "07_samsung_ds_consolidated.webp",
+      "labels": [
+        "Consolidated",
+        "Device Solutions"
+      ],
+      "values_trillion_krw": [
+        195.3,
+        147.1
+      ],
+      "source": "Samsung Electronics 3Q26 release, 29 Oct 2026"
+    },
+    {
+      "file": "08_hynix_cash_borrowings.webp",
+      "labels": [
+        "Cash/equivalents",
+        "Borrowings",
+        "Net cash"
+      ],
+      "values_trillion_krw": [
+        114.5,
+        15.8,
+        98.7
+      ],
+      "source": "SK hynix 3Q26 release, 28 Oct 2026"
+    }
+  ]
+}
