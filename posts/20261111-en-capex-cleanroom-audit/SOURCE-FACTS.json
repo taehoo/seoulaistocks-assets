@@ -1,0 +1,29 @@
+{
+  "chart_y2_m17": {
+    "source": "https://news.skhynix.com/en/fab-facility-investment-2026/",
+    "date": "2026-08-07",
+    "Y2_KRW_trillion": 35.2,
+    "M17_KRW_trillion": 19.1,
+    "sum": 54.3
+  },
+  "cleanroom": {
+    "source": "https://news.skhynix.com/en/fab-facility-investment-2026/",
+    "Y1": "2027-02",
+    "M17": "2028-12",
+    "Y2": "2029-06"
+  },
+  "samsung_capex": {
+    "source": "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results",
+    "Q3_actual": 29.0,
+    "9M_actual": 56.9,
+    "FY_expected": 84.4,
+    "FY_DS_expected": 76.8
+  },
+  "strategy": {
+    "source": "https://news.skhynix.com/en/fact-05/",
+    "Yongin": 600,
+    "Cheongju": 100,
+    "Southwestern": 400,
+    "total": 1100
+  }
+}
