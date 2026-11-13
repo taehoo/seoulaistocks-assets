@@ -1,0 +1,145 @@
+{
+  "source": "Korea Immigration Service F-5 card and eligibility rules",
+  "visuals": [
+    {
+      "file": "01_f5_f_5_status_versus_residence_card.webp",
+      "title": "F-5 status versus residence card",
+      "subtitle": "Do not confuse permanent residency status with card renewal",
+      "items": [
+        [
+          "F-5 status",
+          "Legal permission|to reside"
+        ],
+        [
+          "Residence card",
+          "Identity document|renewal duty"
+        ]
+      ],
+      "credit": "Source: Korea Immigration Service official policy"
+    },
+    {
+      "file": "02_f5_10_year_milestone_2_year_card_window.webp",
+      "title": "10-year milestone, 2-year card window",
+      "subtitle": "Official guidance distinguishes card renewal from loss of permanent status",
+      "items": [
+        [
+          "Anniversary",
+          "10 years after|F-5 acquisition"
+        ],
+        [
+          "Card window",
+          "Within following|2-year period"
+        ],
+        [
+          "Late filing",
+          "Penalty risk|check latest rule"
+        ]
+      ],
+      "credit": "Source: Immigration Service administrative guidance"
+    },
+    {
+      "file": "03_f5_three_f_5_review_dimensions.webp",
+      "title": "Three F-5 review dimensions",
+      "subtitle": "Actual eligibility depends on the specific legal route",
+      "items": [
+        [
+          "Good conduct",
+          "Background and|law compliance"
+        ],
+        [
+          "Livelihood",
+          "Financial ability|where applicable"
+        ],
+        [
+          "Integration",
+          "Language and|society requirements"
+        ]
+      ],
+      "credit": "Source: Immigration Service F-5 rules"
+    },
+    {
+      "file": "04_f5_multiple_eligibility_routes.webp",
+      "title": "Multiple eligibility routes",
+      "subtitle": "One applicant route must be verified from official guidance",
+      "items": [
+        [
+          "General route",
+          "Residence history|and requirements"
+        ],
+        [
+          "Special routes",
+          "Professional, family|or categories"
+        ],
+        [
+          "Evidence",
+          "Specific papers|and current criteria"
+        ]
+      ],
+      "credit": "Source: Immigration Service / HiKorea"
+    },
+    {
+      "file": "05_f5_kiip_is_not_an_approval_letter.webp",
+      "title": "KIIP is not an approval letter",
+      "subtitle": "Integration program completion is distinct from residency permission",
+      "items": [
+        [
+          "Program",
+          "Social integration|course pathway"
+        ],
+        [
+          "Assessment",
+          "Official records|where required"
+        ],
+        [
+          "Immigration",
+          "Final eligibility|review still needed"
+        ]
+      ],
+      "credit": "Source: Korea Immigration Service / KIIP"
+    },
+    {
+      "file": "06_f5_where_to_ask_about_f_5.webp",
+      "title": "Where to ask about F-5",
+      "subtitle": "Use authorized immigration channels",
+      "items": [
+        [
+          "HiKorea",
+          "Booking and|procedures"
+        ],
+        [
+          "Immigration",
+          "Official eligibility|and records"
+        ],
+        [
+          "1345",
+          "Korean immigration|contact center"
+        ]
+      ],
+      "credit": "Source: Immigration Service, Visa & Travel FAQs"
+    },
+    {
+      "file": "07_f5_f_5_pre_filing_source_checklist.webp",
+      "title": "F-5 pre-filing source checklist",
+      "subtitle": "Check rule version and evidence before paying a fee",
+      "items": [
+        [
+          "Legal basis",
+          "Current immigration|requirements"
+        ],
+        [
+          "Personal record",
+          "Status, residence|and documents"
+        ],
+        [
+          "Appointment",
+          "Office and|procedure"
+        ],
+        [
+          "Receipt",
+          "Save proof of|submission"
+        ]
+      ],
+      "credit": "Source: Official Korea Immigration Service"
+    }
+  ]
+}

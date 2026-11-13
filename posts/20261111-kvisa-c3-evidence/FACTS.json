@@ -1,0 +1,113 @@
+{
+  "source": "Korea Visa Portal and official 2026 K-ETA exemption",
+  "visuals": [
+    {
+      "file": "01_c3_c_3_starts_with_the_trip_purpose.webp",
+      "title": "C-3 starts with the trip purpose",
+      "subtitle": "Not every traveler uses the same entry route",
+      "items": [
+        [
+          "Passport",
+          "Nationality|and document"
+        ],
+        [
+          "Purpose",
+          "Tourism, business|or other visit"
+        ],
+        [
+          "Category",
+          "C-3 subcategory|or alternate route"
+        ]
+      ],
+      "credit": "Source: Korea Visa Portal"
+    },
+    {
+      "file": "02_c3_a_visa_is_not_k_eta.webp",
+      "title": "A visa is not K-ETA",
+      "subtitle": "Different eligibility and approval systems",
+      "items": [
+        [
+          "C-3 visa",
+          "Consular visa|for applicable route"
+        ],
+        [
+          "K-ETA",
+          "Authorization for|visa-free nationals"
+        ],
+        [
+          "Exemption",
+          "Eligible K-ETA|countries in 2026"
+        ]
+      ],
+      "credit": "Source: Visa Portal / K-ETA Ministry notice"
+    },
+    {
+      "file": "03_c3_2026_k_eta_temporary_exemption.webp",
+      "title": "2026 K-ETA temporary exemption",
+      "subtitle": "Eligible countries only; not a visa-free policy for every nationality",
+      "items": [
+        [
+          "Start",
+          "2026-01-01"
+        ],
+        [
+          "End",
+          "2026-12-31"
+        ],
+        [
+          "Who",
+          "Existing eligible|exemption countries"
+        ]
+      ],
+      "credit": "Source: K-ETA official 2025-12-23 notice"
+    },
+    {
+      "file": "04_c3_where_official_instructions_live.webp",
+      "title": "Where official instructions live",
+      "subtitle": "Avoid third-party portals that promise guaranteed approval",
+      "items": [
+        [
+          "Visa Portal",
+          "Korea visa|application rules"
+        ],
+        [
+          "K-ETA",
+          "Travel authorization|exemption test"
+        ],
+        [
+          "Embassy",
+          "Document list|local appointment"
+        ],
+        [
+          "HiKorea",
+          "Domestic stay|and immigration"
+        ]
+      ],
+      "credit": "Sources: Official government sites"
+    },
+    {
+      "file": "05_c3_prepare_evidence_before_you_submit.webp",
+      "title": "Prepare evidence before you submit",
+      "subtitle": "A successful web-form is not a grant of a visa",
+      "items": [
+        [
+          "Document check",
+          "Passport validity|photo, purpose"
+        ],
+        [
+          "Application",
+          "Correct visa type|truthful details"
+        ],
+        [
+          "Status check",
+          "Official status|and consulate"
+        ],
+        [
+          "Travel",
+          "Verify entry|conditions"
+        ]
+      ],
+      "credit": "Source: Korea Visa Portal / consular guidance"
+    }
+  ]
+}
