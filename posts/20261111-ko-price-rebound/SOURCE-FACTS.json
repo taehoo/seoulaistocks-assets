@@ -1,0 +1,32 @@
+{
+  "dates": [
+    "2026-11-09",
+    "2026-11-10",
+    "2026-11-11"
+  ],
+  "data": {
+    "Samsung": [
+      189900,
+      198900,
+      206000
+    ],
+    "SK hynix": [
+      1136000,
+      1212000,
+      1277000
+    ]
+  },
+  "intraday": {
+    "samsung": 205000,
+    "skhynix": 1279000
+  },
+  "close": {
+    "samsung": 206000,
+    "skhynix": 1277000
+  },
+  "notes": "Intraday report lacks minute timestamp. Labels do not infer an intraday path.",
+  "sources": [
+    "https://en.yna.co.kr/view/AEN20261111008000320",
+    "https://www.koreatimes.co.kr/economy/20261110/korean-stocks-surge-over-4-as-risk-appetite-returns"
+  ]
+}
