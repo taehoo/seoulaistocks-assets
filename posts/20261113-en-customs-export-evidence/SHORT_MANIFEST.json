@@ -1,0 +1,13 @@
+{
+  "status": "FILE_CREATED_NOT_YOUTUBE_UPLOADED",
+  "path": "/home/ubuntu/tp-work/hermes-blog__published-content-recovery-1112/shorts/20261113-en-customs/korea_customs_export_20261113_en_short.mp4",
+  "sha256": "da512bd0e05c753564c1bf0241cc8ad5250fb70cfe8eaa35146fc6466bb3f8ad",
+  "seconds": 68.834,
+  "resolution": "720x1280",
+  "narration": "Supertonic 3 locally generated generic synthetic voice, BigScience OpenRAIL-M conditions apply",
+  "commercial_license": "https://huggingface.co/supertone-oss-archive/supertonic-3/blob/main/LICENSE",
+  "charts": "Original author-created graphics derived from Korean Customs Service public preliminary release",
+  "primary_source": "https://customs.go.kr/kcs/na/ntt/selectNttInfo.do?bbsId=1362&mi=2891&nttSn=10182926&nttSnUrl=f245ffc86cc10295d215ed0379c4a630",
+  "disclosure": "AI-generated narration and self-produced charts; no stock photo or music",
+  "youtube_status": "Blocked by upload limit, not attempted"
+}
