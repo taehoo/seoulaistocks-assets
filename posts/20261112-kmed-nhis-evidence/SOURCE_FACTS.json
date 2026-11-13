@@ -1,0 +1,12 @@
+{
+  "nhis_foreigners": "https://www.nhis.or.kr/english/wbheaa02900m01.do",
+  "nhis_center": "https://www.nhis.or.kr/english/wbheaa02100m01.do",
+  "nhis_rules": "https://www.nhis.or.kr/lm/lmxsrv/law/lawFullContent.do?SEQ=41",
+  "medical_korea": "https://www.medicalkorea.or.kr/en/global",
+  "patients": {
+    "2023": 605768,
+    "2024": 1170467,
+    "2025": 2011822
+  },
+  "notes": "Patient count != insured count; 6 months rule has worker and visa exceptions; no exact individual coverage guarantee"
+}
