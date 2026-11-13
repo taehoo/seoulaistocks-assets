@@ -1,0 +1,163 @@
+{
+  "desk": "kpop",
+  "day": "12",
+  "post": "1873081616523616131",
+  "source_urls": [
+    "https://newsroom.caesars.com/press-releases/press-release-details/2026/LISA-ADDS-TWO-NEW-DATES-TO-HER-SOLD-OUT-LAS-VEGAS-RESIDENCY-DUE-TO-OVERWHELMING-DEMAND-VIVA-LA-LISA-AT-THE-COLOSSEUM-AT-CAESARS-PALACE--NOV-12-13-14-27-28--29-2026--2026-eGkXjvCgqE/default.aspx",
+    "https://www.ticketmaster.com/lisa-tickets/artist/3172543",
+    "https://english.visitseoul.net/",
+    "https://english.visitkorea.or.kr/",
+    "https://www.weather.go.kr/w/index.do",
+    "https://commons.wikimedia.org/"
+  ],
+  "image_manifest": [
+    {
+      "name": "01_evidence_viva_la_lisa_has_six_dates.webp",
+      "title": "VIVA LA LISA has six dates",
+      "subtitle": "Official Caesars September 29 update adds two shows",
+      "url": "https://newsroom.caesars.com/press-releases/press-release-details/2026/LISA-ADDS-TWO-NEW-DATES-TO-HER-SOLD-OUT-LAS-VEGAS-RESIDENCY-DUE-TO-OVERWHELMING-DEMAND-VIVA-LA-LISA-AT-THE-COLOSSEUM-AT-CAESARS-PALACE--NOV-12-13-14-27-28--29-2026--2026-eGkXjvCgqE/default.aspx",
+      "type": "timeline",
+      "items": [
+        [
+          "Nov 12",
+          "Las Vegas|The Colosseum"
+        ],
+        [
+          "Nov 13-14",
+          "Las Vegas|The Colosseum"
+        ],
+        [
+          "Nov 27-29",
+          "Las Vegas|The Colosseum"
+        ]
+      ]
+    },
+    {
+      "name": "02_evidence_original_announcement_then_expansion.webp",
+      "title": "Original announcement then expansion",
+      "subtitle": "March four shows became September six",
+      "url": "https://newsroom.caesars.com/press-releases/press-release-details/2026/LISA-ADDS-TWO-NEW-DATES-TO-HER-SOLD-OUT-LAS-VEGAS-RESIDENCY-DUE-TO-OVERWHELMING-DEMAND-VIVA-LA-LISA-AT-THE-COLOSSEUM-AT-CAESARS-PALACE--NOV-12-13-14-27-28--29-2026--2026-eGkXjvCgqE/default.aspx",
+      "type": "timeline",
+      "items": [
+        [
+          "30 Mar",
+          "Four residency|dates announced"
+        ],
+        [
+          "29 Sep",
+          "Two more|dates added"
+        ],
+        [
+          "November",
+          "Six Las Vegas|show dates"
+        ]
+      ]
+    },
+    {
+      "name": "03_evidence_city_is_las_vegas_not_seoul.webp",
+      "title": "City is Las Vegas, not Seoul",
+      "subtitle": "An unrelated Seoul trip must be planned separately",
+      "url": "https://newsroom.caesars.com/press-releases/press-release-details/2026/LISA-ADDS-TWO-NEW-DATES-TO-HER-SOLD-OUT-LAS-VEGAS-RESIDENCY-DUE-TO-OVERWHELMING-DEMAND-VIVA-LA-LISA-AT-THE-COLOSSEUM-AT-CAESARS-PALACE--NOV-12-13-14-27-28--29-2026--2026-eGkXjvCgqE/default.aspx",
+      "type": "compare",
+      "items": [
+        [
+          "Concert venue",
+          "The Colosseum|Caesars Palace"
+        ],
+        [
+          "Host city",
+          "Las Vegas,|Nevada, USA"
+        ],
+        [
+          "Korea itinerary",
+          "Independent trip|and event search"
+        ]
+      ]
+    },
+    {
+      "name": "04_evidence_official_ticket_evidence.webp",
+      "title": "Official ticket evidence",
+      "subtitle": "A live artist page is not guaranteed seating availability",
+      "url": "https://www.ticketmaster.com/lisa-tickets/artist/3172543",
+      "type": "steps",
+      "items": [
+        [
+          "Organizer",
+          "Official Caesars|press release"
+        ],
+        [
+          "Ticket seller",
+          "Ticketmaster|specific show"
+        ],
+        [
+          "Price and seat",
+          "Check latest|checkout details"
+        ]
+      ]
+    },
+    {
+      "name": "05_evidence_plan_by_local_show_date.webp",
+      "title": "Plan by local show date",
+      "subtitle": "A Seoul date conversion is not the venue time",
+      "url": "https://newsroom.caesars.com/press-releases/press-release-details/2026/LISA-ADDS-TWO-NEW-DATES-TO-HER-SOLD-OUT-LAS-VEGAS-RESIDENCY-DUE-TO-OVERWHELMING-DEMAND-VIVA-LA-LISA-AT-THE-COLOSSEUM-AT-CAESARS-PALACE--NOV-12-13-14-27-28--29-2026--2026-eGkXjvCgqE/default.aspx",
+      "type": "timeline",
+      "items": [
+        [
+          "Las Vegas",
+          "Venue local date|and time"
+        ],
+        [
+          "Seoul",
+          "Different time|zone and calendar"
+        ],
+        [
+          "Travel",
+          "Flights and|entry rules"
+        ]
+      ]
+    },
+    {
+      "name": "06_evidence_six_nights_not_six_seoul_shows.webp",
+      "title": "Six nights, not six Seoul shows",
+      "subtitle": "Separate verified performances and fan tourism",
+      "url": "https://newsroom.caesars.com/press-releases/press-release-details/2026/LISA-ADDS-TWO-NEW-DATES-TO-HER-SOLD-OUT-LAS-VEGAS-RESIDENCY-DUE-TO-OVERWHELMING-DEMAND-VIVA-LA-LISA-AT-THE-COLOSSEUM-AT-CAESARS-PALACE--NOV-12-13-14-27-28--29-2026--2026-eGkXjvCgqE/default.aspx",
+      "type": "compare",
+      "items": [
+        [
+          "First weekend",
+          "12, 13, 14|November"
+        ],
+        [
+          "Second weekend",
+          "27, 28, 29|November"
+        ],
+        [
+          "Location",
+          "All listed in|Las Vegas"
+        ]
+      ]
+    },
+    {
+      "name": "07_evidence_archive_photograph_attribution.webp",
+      "title": "Archive photograph attribution",
+      "subtitle": "A press image requires its own re-use permission",
+      "url": "https://commons.wikimedia.org/",
+      "type": "steps",
+      "items": [
+        [
+          "Image identity",
+          "Verify Lisa|original file"
+        ],
+        [
+          "License",
+          "Check Commons|attribution"
+        ],
+        [
+          "Date",
+          "Do not depict|old photo as current"
+        ]
+      ]
+    }
+  ],
+  "notes": "Original diagram with no third-party photo assets. Quantitative charts require explicit source-confirmed value rows."
+}

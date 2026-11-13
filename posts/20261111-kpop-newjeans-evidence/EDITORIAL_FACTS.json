@@ -1,0 +1,143 @@
+{
+  "desk": "kpop",
+  "day": "11",
+  "post": "4439555781524789260",
+  "source_urls": [
+    "https://musicbrainz.org/artist/49204a7a-ed85-407a-828f-6fd46f1d8126",
+    "https://www.wikidata.org/wiki/Q113189277",
+    "https://english.visitseoul.net/",
+    "https://english.visitkorea.or.kr/",
+    "https://english.visitseoul.net/tourist-Information-center",
+    "https://www.weather.go.kr/w/index.do",
+    "https://commons.wikimedia.org/"
+  ],
+  "image_manifest": [
+    {
+      "name": "01_evidence_search_interest_is_not_a_confirmed_show.webp",
+      "title": "Search interest is not a confirmed show",
+      "subtitle": "Trending queries and booked Seoul concerts require different evidence",
+      "url": "https://musicbrainz.org/artist/49204a7a-ed85-407a-828f-6fd46f1d8126",
+      "type": "compare",
+      "items": [
+        [
+          "Searches",
+          "Interest and|news headlines"
+        ],
+        [
+          "Official schedule",
+          "Artist or promoter|announcement"
+        ],
+        [
+          "Ticketing",
+          "Valid event and|sale record"
+        ]
+      ]
+    },
+    {
+      "name": "02_evidence_newjeans_profile_source_map.webp",
+      "title": "NewJeans profile source map",
+      "subtitle": "Discography and member information need dated references",
+      "url": "https://musicbrainz.org/artist/49204a7a-ed85-407a-828f-6fd46f1d8126",
+      "type": "steps",
+      "items": [
+        [
+          "MusicBrainz",
+          "Artist/release|catalogue records"
+        ],
+        [
+          "Wikidata",
+          "Structured entity|identifiers"
+        ],
+        [
+          "Official channels",
+          "Current news and|actual schedule"
+        ]
+      ]
+    },
+    {
+      "name": "03_evidence_music_history_versus_live_dates.webp",
+      "title": "Music history versus live dates",
+      "subtitle": "Past release metadata is not a 2026 appearance",
+      "url": "https://musicbrainz.org/artist/49204a7a-ed85-407a-828f-6fd46f1d8126",
+      "type": "timeline",
+      "items": [
+        [
+          "Release",
+          "Album and|recording date"
+        ],
+        [
+          "Past event",
+          "Historical|appearance"
+        ],
+        [
+          "Future event",
+          "Requires fresh|promoter proof"
+        ]
+      ]
+    },
+    {
+      "name": "04_evidence_seoul_travel_does_not_certify_a_concert.webp",
+      "title": "Seoul travel does not certify a concert",
+      "subtitle": "Use official visitor guidance for trip planning",
+      "url": "https://english.visitseoul.net/",
+      "type": "steps",
+      "items": [
+        [
+          "Visit Seoul",
+          "Attractions and|local transport"
+        ],
+        [
+          "Weather",
+          "KMA forecast|near departure"
+        ],
+        [
+          "Venue",
+          "Only if an official|event is verified"
+        ]
+      ]
+    },
+    {
+      "name": "05_evidence_checking_fan_created_concert_posts.webp",
+      "title": "Checking fan-created concert posts",
+      "subtitle": "Do not amplify a speculative reunion rumor",
+      "url": "https://english.visitseoul.net/",
+      "type": "matrix",
+      "items": [
+        [
+          "Post",
+          "Identify original|account"
+        ],
+        [
+          "Promoter",
+          "Search official|confirmation"
+        ],
+        [
+          "Ticket",
+          "Check authorized|seller listing"
+        ]
+      ]
+    },
+    {
+      "name": "06_evidence_keep_photos_in_the_right_time_context.webp",
+      "title": "Keep photos in the right time context",
+      "subtitle": "Archived photos cannot stand in for a new 2026 show",
+      "url": "https://commons.wikimedia.org/",
+      "type": "timeline",
+      "items": [
+        [
+          "Image date",
+          "Check original|Commons metadata"
+        ],
+        [
+          "License",
+          "File-specific|commercial use"
+        ],
+        [
+          "Caption",
+          "Describe when and|where captured"
+        ]
+      ]
+    }
+  ],
+  "notes": "Original diagram with no third-party photo assets. Quantitative charts require explicit source-confirmed value rows."
+}

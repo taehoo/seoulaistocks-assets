@@ -1,0 +1,162 @@
+{
+  "desk": "kprop",
+  "day": "12",
+  "post": "8119880766333174892",
+  "source_urls": [
+    "https://www.law.go.kr/",
+    "https://www.easylaw.go.kr/",
+    "https://www.fss.or.kr/eng/main/main.do",
+    "https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=11065825&programType=newsDataEng&relate=Y",
+    "https://www.reb.or.kr/r-one/"
+  ],
+  "image_manifest": [
+    {
+      "name": "01_evidence_mortgage_rate_versus_contract_terms.webp",
+      "title": "Mortgage rate versus contract terms",
+      "subtitle": "The rate quote alone does not establish an exit right",
+      "url": "https://www.easylaw.go.kr/",
+      "type": "compare",
+      "items": [
+        [
+          "Rate",
+          "Fixed, variable|or mixed"
+        ],
+        [
+          "Drawdown",
+          "Date funds|are advanced"
+        ],
+        [
+          "Cancel or repay",
+          "Different terms|and costs"
+        ]
+      ]
+    },
+    {
+      "name": "02_evidence_three_loan_contract_dates.webp",
+      "title": "Three loan contract dates",
+      "subtitle": "Approval, signing and disbursement are not the same",
+      "url": "https://www.easylaw.go.kr/",
+      "type": "timeline",
+      "items": [
+        [
+          "Approval",
+          "Bank review|of borrower"
+        ],
+        [
+          "Execution",
+          "Signed final|agreement"
+        ],
+        [
+          "Disbursement",
+          "Funds actually|received"
+        ]
+      ]
+    },
+    {
+      "name": "03_evidence_cooling_off_versus_prepayment.webp",
+      "title": "Cooling off versus prepayment",
+      "subtitle": "Different statutory or contract pathways",
+      "url": "https://www.law.go.kr/",
+      "type": "compare",
+      "items": [
+        [
+          "Withdrawal",
+          "Legal conditions|and notice"
+        ],
+        [
+          "Early repayment",
+          "Fee and|remaining balance"
+        ],
+        [
+          "Cancellation",
+          "Contract-specific|conditions"
+        ]
+      ]
+    },
+    {
+      "name": "04_evidence_floating_or_fixed_rate_risks.webp",
+      "title": "Floating or fixed rate risks",
+      "subtitle": "Contract index and reset date determine cash flow",
+      "url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=11065825&programType=newsDataEng&relate=Y",
+      "type": "steps",
+      "items": [
+        [
+          "Floating",
+          "Reference rate|can reset"
+        ],
+        [
+          "Fixed",
+          "Specified period|and conditions"
+        ],
+        [
+          "Mixed",
+          "Rate changes|at defined stage"
+        ]
+      ]
+    },
+    {
+      "name": "05_evidence_cash_flow_sensitivity.webp",
+      "title": "Cash flow sensitivity",
+      "subtitle": "Illustration not a bank approval or actual charge",
+      "url": "https://www.fss.or.kr/eng/main/main.do",
+      "type": "matrix",
+      "items": [
+        [
+          "Principal",
+          "Outstanding balance|at cutoff"
+        ],
+        [
+          "Interest",
+          "Product rate|and accrual period"
+        ],
+        [
+          "Fees",
+          "Repayment or|administrative costs"
+        ]
+      ]
+    },
+    {
+      "name": "06_evidence_housing_contracts_interact.webp",
+      "title": "Housing contracts interact",
+      "subtitle": "Mortgage settlement and rental deposit duties differ",
+      "url": "https://www.easylaw.go.kr/",
+      "type": "steps",
+      "items": [
+        [
+          "Mortgage",
+          "Borrower and|secured debt"
+        ],
+        [
+          "Deposit",
+          "Landlord-tenant|contract"
+        ],
+        [
+          "Verify",
+          "Ownership and|release records"
+        ]
+      ]
+    },
+    {
+      "name": "07_evidence_three_original_verification_tools.webp",
+      "title": "Three original verification tools",
+      "subtitle": "Check law, bank terms and public property data",
+      "url": "https://www.reb.or.kr/r-one/",
+      "type": "timeline",
+      "items": [
+        [
+          "Law",
+          "Current rule|and exception"
+        ],
+        [
+          "Bank",
+          "Product contract|and fee sheet"
+        ],
+        [
+          "REB",
+          "Property market|context"
+        ]
+      ]
+    }
+  ],
+  "notes": "Original diagram with no third-party photo assets. Quantitative charts require explicit source-confirmed value rows."
+}

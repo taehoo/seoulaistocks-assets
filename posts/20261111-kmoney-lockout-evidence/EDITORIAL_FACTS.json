@@ -1,0 +1,162 @@
+{
+  "desk": "kmoney",
+  "day": "11",
+  "post": "9014949507833136843",
+  "source_urls": [
+    "https://www.kftc.or.kr/eng/main/main.do",
+    "https://www.kbstar.com/",
+    "https://www.shinhan.com/",
+    "https://www.fss.or.kr/eng/main/main.do",
+    "https://www.kca.go.kr/eng/"
+  ],
+  "image_manifest": [
+    {
+      "name": "01_evidence_three_independent_bank_locks.webp",
+      "title": "Three independent bank locks",
+      "subtitle": "An app login, transaction PIN and certificate are distinct",
+      "url": "https://www.kftc.or.kr/eng/main/main.do",
+      "type": "compare",
+      "items": [
+        [
+          "App login",
+          "Device/password|authentication"
+        ],
+        [
+          "Transaction PIN",
+          "Payment or transfer|authorization"
+        ],
+        [
+          "Certificate",
+          "Digital identity|credential"
+        ]
+      ]
+    },
+    {
+      "name": "02_evidence_reset_route_depends_on_issue.webp",
+      "title": "Reset route depends on issue",
+      "subtitle": "Do not assume one failure counter or universal limit",
+      "url": "https://www.kbstar.com/",
+      "type": "steps",
+      "items": [
+        [
+          "App reset",
+          "Official bank|recovery options"
+        ],
+        [
+          "Strong identity",
+          "KYC, phone|or biometric check"
+        ],
+        [
+          "Branch",
+          "Staff verification|and necessary ID"
+        ]
+      ]
+    },
+    {
+      "name": "03_evidence_digital_recovery_evidence.webp",
+      "title": "Digital recovery evidence",
+      "subtitle": "Avoid sending credentials over an unofficial chat",
+      "url": "https://www.fss.or.kr/eng/main/main.do",
+      "type": "matrix",
+      "items": [
+        [
+          "App",
+          "Install from|official publisher"
+        ],
+        [
+          "Site",
+          "Check bank|domain"
+        ],
+        [
+          "Support",
+          "Dial verified|contact number"
+        ]
+      ]
+    },
+    {
+      "name": "04_evidence_scams_exploit_lockout_fear.webp",
+      "title": "Scams exploit lockout fear",
+      "subtitle": "A timed emergency message is not proof of bank authority",
+      "url": "https://www.fss.or.kr/eng/main/main.do",
+      "type": "compare",
+      "items": [
+        [
+          "Phishing",
+          "Unknown link or|attachment"
+        ],
+        [
+          "Vishing",
+          "False bank|staff call"
+        ],
+        [
+          "Protection",
+          "Contact bank|independently"
+        ]
+      ]
+    },
+    {
+      "name": "05_evidence_foreign_resident_id_check.webp",
+      "title": "Foreign resident ID check",
+      "subtitle": "Bring current documents for in-branch verification",
+      "url": "https://www.kbstar.com/",
+      "type": "steps",
+      "items": [
+        [
+          "Passport",
+          "Current identity|document"
+        ],
+        [
+          "Residence card",
+          "If required for|bank record"
+        ],
+        [
+          "Account",
+          "Account number|or bank card"
+        ]
+      ]
+    },
+    {
+      "name": "06_evidence_lost_phone_and_sim.webp",
+      "title": "Lost phone and SIM",
+      "subtitle": "Bank recovery can depend on authorized device ownership",
+      "url": "https://www.shinhan.com/",
+      "type": "timeline",
+      "items": [
+        [
+          "Device",
+          "Secure account|and lost phone"
+        ],
+        [
+          "SIM",
+          "Contact operator|for replacement"
+        ],
+        [
+          "Bank",
+          "Re-register secure|device with checks"
+        ]
+      ]
+    },
+    {
+      "name": "07_evidence_record_outcomes_not_passwords.webp",
+      "title": "Record outcomes not passwords",
+      "subtitle": "A support log should never expose account secrets",
+      "url": "https://www.kca.go.kr/eng/",
+      "type": "matrix",
+      "items": [
+        [
+          "Date/time",
+          "When lock|first appeared"
+        ],
+        [
+          "Error type",
+          "Exact category|without PIN"
+        ],
+        [
+          "Outcome",
+          "Confirmation from|official bank"
+        ]
+      ]
+    }
+  ],
+  "notes": "Original diagram with no third-party photo assets. Quantitative charts require explicit source-confirmed value rows."
+}

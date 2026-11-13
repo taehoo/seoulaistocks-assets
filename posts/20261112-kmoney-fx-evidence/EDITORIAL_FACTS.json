@@ -1,0 +1,162 @@
+{
+  "desk": "kmoney",
+  "day": "12",
+  "post": "7719194320817053851",
+  "source_urls": [
+    "https://www.bok.or.kr/eng/main/main.do",
+    "https://ecos.bok.or.kr/",
+    "https://www.kftc.or.kr/eng/main/main.do",
+    "https://www.fss.or.kr/eng/main/main.do",
+    "https://www.kca.go.kr/eng/"
+  ],
+  "image_manifest": [
+    {
+      "name": "01_evidence_usd_per_krw_versus_krw_per_usd.webp",
+      "title": "USD per KRW versus KRW per USD",
+      "subtitle": "Reciprocals are not the same exchange-rate quotation",
+      "url": "https://ecos.bok.or.kr/",
+      "type": "compare",
+      "items": [
+        [
+          "USD/KRW",
+          "Won for|one dollar"
+        ],
+        [
+          "KRW/USD",
+          "Dollars for|one won"
+        ],
+        [
+          "Quote label",
+          "Currency pair|and direction"
+        ]
+      ]
+    },
+    {
+      "name": "02_evidence_indicative_and_transaction_rates.webp",
+      "title": "Indicative and transaction rates",
+      "subtitle": "Different customers face different effective prices",
+      "url": "https://www.bok.or.kr/eng/main/main.do",
+      "type": "steps",
+      "items": [
+        [
+          "Mid-market",
+          "Reference rate|not a bank quote"
+        ],
+        [
+          "Buy USD",
+          "Bank selling|price and fee"
+        ],
+        [
+          "Sell USD",
+          "Bank buying|price and fee"
+        ]
+      ]
+    },
+    {
+      "name": "03_evidence_example_krw_1_million_conversion.webp",
+      "title": "Example KRW 1 million conversion",
+      "subtitle": "Illustrative assumed rate, NOT live November quote",
+      "url": "https://ecos.bok.or.kr/",
+      "type": "compare",
+      "items": [
+        [
+          "1,200 KRW/USD",
+          "~$833.33|before fees"
+        ],
+        [
+          "1,300 KRW/USD",
+          "~$769.23|before fees"
+        ],
+        [
+          "1,400 KRW/USD",
+          "~$714.29|before fees"
+        ]
+      ]
+    },
+    {
+      "name": "04_evidence_total_cost_of_a_transfer.webp",
+      "title": "Total cost of a transfer",
+      "subtitle": "Fees can matter more than small market fluctuations",
+      "url": "https://www.kftc.or.kr/eng/main/main.do",
+      "type": "matrix",
+      "items": [
+        [
+          "Bank spread",
+          "Buy-sell|difference"
+        ],
+        [
+          "Transfer",
+          "Sender/receiver|charges"
+        ],
+        [
+          "Timing",
+          "Execution and|settlement date"
+        ]
+      ]
+    },
+    {
+      "name": "05_evidence_bok_policy_and_currency_markets.webp",
+      "title": "BOK policy and currency markets",
+      "subtitle": "Base rate is one variable, not an exchange forecast",
+      "url": "https://www.bok.or.kr/eng/main/main.do",
+      "type": "compare",
+      "items": [
+        [
+          "Rates",
+          "Policy and|yield differences"
+        ],
+        [
+          "Trade",
+          "Export and|import payments"
+        ],
+        [
+          "Flows",
+          "Investors and|risk sentiment"
+        ]
+      ]
+    },
+    {
+      "name": "06_evidence_a_market_chart_needs_its_date.webp",
+      "title": "A market chart needs its date",
+      "subtitle": "Do not draw invented hourly won rates from two quotations",
+      "url": "https://ecos.bok.or.kr/",
+      "type": "timeline",
+      "items": [
+        [
+          "Quote",
+          "Source and|market timestamp"
+        ],
+        [
+          "Series",
+          "Actual observations|by interval"
+        ],
+        [
+          "Revision",
+          "Corrected data|and holiday effects"
+        ]
+      ]
+    },
+    {
+      "name": "07_evidence_household_fx_decision_checklist.webp",
+      "title": "Household FX decision checklist",
+      "subtitle": "Verify actual transaction before conversion",
+      "url": "https://www.fss.or.kr/eng/main/main.do",
+      "type": "steps",
+      "items": [
+        [
+          "Amount",
+          "KRW to|receive or send"
+        ],
+        [
+          "Currency",
+          "Original and|target units"
+        ],
+        [
+          "Bank quote",
+          "Live spread, fees|and confirmation"
+        ]
+      ]
+    }
+  ],
+  "notes": "Original diagram with no third-party photo assets. Quantitative charts require explicit source-confirmed value rows."
+}

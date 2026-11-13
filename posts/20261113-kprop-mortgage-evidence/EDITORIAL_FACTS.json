@@ -1,0 +1,162 @@
+{
+  "desk": "kprop",
+  "day": "13",
+  "post": "3495648767564356065",
+  "source_urls": [
+    "https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=11065825&programType=newsDataEng&relate=Y",
+    "https://ecos.bok.or.kr/",
+    "https://www.reb.or.kr/r-one/",
+    "https://www.fss.or.kr/eng/main/main.do",
+    "https://data.kbland.kr/kbstats/wmh?tIdx=HT01&tsIdx=weekAptSalePriceInx"
+  ],
+  "image_manifest": [
+    {
+      "name": "01_evidence_policy_rate_is_not_a_mortgage_quote.webp",
+      "title": "Policy rate is not a mortgage quote",
+      "subtitle": "BOK held 3.00 percent at its October 22 meeting",
+      "url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=11065825&programType=newsDataEng&relate=Y",
+      "type": "compare",
+      "items": [
+        [
+          "BOK base rate",
+          "3.00%|22 Oct 2026"
+        ],
+        [
+          "Bank loan rate",
+          "Customer and|product-specific"
+        ],
+        [
+          "Spread",
+          "Not fixed by|the BOK"
+        ]
+      ]
+    },
+    {
+      "name": "02_evidence_bank_funding_versus_loan_pricing.webp",
+      "title": "Bank funding versus loan pricing",
+      "subtitle": "Mortgage pricing reflects more than the base rate",
+      "url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=11065825&programType=newsDataEng&relate=Y",
+      "type": "steps",
+      "items": [
+        [
+          "Funding",
+          "Bank bonds and|deposits"
+        ],
+        [
+          "Credit",
+          "Risk and capital|requirements"
+        ],
+        [
+          "Competition",
+          "Product pricing|and promotions"
+        ]
+      ]
+    },
+    {
+      "name": "03_evidence_three_distinct_rate_clocks.webp",
+      "title": "Three distinct rate clocks",
+      "subtitle": "A policy announcement precedes individual loan resets",
+      "url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=11065825&programType=newsDataEng&relate=Y",
+      "type": "timeline",
+      "items": [
+        [
+          "Policy date",
+          "Official BOK|meeting"
+        ],
+        [
+          "Offer date",
+          "Bank quote|and validity"
+        ],
+        [
+          "Reset date",
+          "Contract benchmark|and timing"
+        ]
+      ]
+    },
+    {
+      "name": "04_evidence_what_does_the_spread_measure.webp",
+      "title": "What does the spread measure?",
+      "subtitle": "A headline difference must use comparable periods",
+      "url": "https://ecos.bok.or.kr/",
+      "type": "compare",
+      "items": [
+        [
+          "Mortgage rate",
+          "Specific bank|and customer"
+        ],
+        [
+          "Policy rate",
+          "Defined BOK|day"
+        ],
+        [
+          "Difference",
+          "Percentage points|not percent growth"
+        ]
+      ]
+    },
+    {
+      "name": "05_evidence_loan_rates_and_housing_prices.webp",
+      "title": "Loan rates and housing prices",
+      "subtitle": "Co-movement does not automatically prove causation",
+      "url": "https://www.reb.or.kr/r-one/",
+      "type": "matrix",
+      "items": [
+        [
+          "Mortgage",
+          "Financing cost|and supply"
+        ],
+        [
+          "Price index",
+          "Different geography|and base"
+        ],
+        [
+          "Volume",
+          "Sales and|transaction date"
+        ]
+      ]
+    },
+    {
+      "name": "06_evidence_consumer_rate_comparison.webp",
+      "title": "Consumer rate comparison",
+      "subtitle": "Published average and offered price may be different",
+      "url": "https://www.fss.or.kr/eng/main/main.do",
+      "type": "steps",
+      "items": [
+        [
+          "APR context",
+          "Fees and|conditions"
+        ],
+        [
+          "Fixed duration",
+          "End of fixed|period"
+        ],
+        [
+          "Prepay",
+          "Contract fee|and waiver terms"
+        ]
+      ]
+    },
+    {
+      "name": "07_evidence_evidence_before_a_conclusion.webp",
+      "title": "Evidence before a conclusion",
+      "subtitle": "Match source institution, rate type and timestamp",
+      "url": "https://ecos.bok.or.kr/",
+      "type": "timeline",
+      "items": [
+        [
+          "BOK",
+          "Policy announcement|primary source"
+        ],
+        [
+          "ECOS",
+          "Historical statistics|series and units"
+        ],
+        [
+          "Bank",
+          "Current binding|loan quotation"
+        ]
+      ]
+    }
+  ],
+  "notes": "Original diagram with no third-party photo assets. Quantitative charts require explicit source-confirmed value rows."
+}

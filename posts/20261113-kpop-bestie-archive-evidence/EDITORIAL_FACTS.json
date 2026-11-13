@@ -1,0 +1,184 @@
+{
+  "desk": "kpop",
+  "day": "13",
+  "post": "9041000048131340931",
+  "source_urls": [
+    "https://musicbrainz.org/artist/4618910b-4eed-459d-9ab1-69cedc76b634",
+    "https://www.wikidata.org/wiki/Q13813305",
+    "https://english.visitseoul.net/",
+    "https://english.visitseoul.net/tourist-Information-center",
+    "https://english.visitkorea.or.kr/",
+    "https://commons.wikimedia.org/"
+  ],
+  "image_manifest": [
+    {
+      "name": "01_evidence_bestie_archival_profile_versus_reunion.webp",
+      "title": "BESTie archival profile versus reunion",
+      "subtitle": "The existence of older content does not confirm a 2026 show",
+      "url": "https://musicbrainz.org/artist/4618910b-4eed-459d-9ab1-69cedc76b634",
+      "type": "compare",
+      "items": [
+        [
+          "Archive",
+          "Historical music|and photographs"
+        ],
+        [
+          "2026 event",
+          "Needs official|new announcement"
+        ],
+        [
+          "Conclusion",
+          "Mark unverified|if none found"
+        ]
+      ]
+    },
+    {
+      "name": "02_evidence_historic_photo_dates_matter.webp",
+      "title": "Historic photo dates matter",
+      "subtitle": "The Commons originals point to archived performances",
+      "url": "https://commons.wikimedia.org/",
+      "type": "timeline",
+      "items": [
+        [
+          "2014 photo",
+          "Historic festival|not new concert"
+        ],
+        [
+          "Original page",
+          "Verify photographer|and venue"
+        ],
+        [
+          "Re-use",
+          "Attribution license|and context"
+        ]
+      ]
+    },
+    {
+      "name": "03_evidence_identity_records_are_not_tour_calendars.webp",
+      "title": "Identity records are not tour calendars",
+      "subtitle": "MusicBrainz and Wikidata serve a different purpose",
+      "url": "https://musicbrainz.org/artist/4618910b-4eed-459d-9ab1-69cedc76b634",
+      "type": "steps",
+      "items": [
+        [
+          "MusicBrainz",
+          "Artist identity|and releases"
+        ],
+        [
+          "Wikidata",
+          "Structured profile|cross-check"
+        ],
+        [
+          "Promoter",
+          "Current event|schedule if issued"
+        ]
+      ]
+    },
+    {
+      "name": "04_evidence_avoid_fabricated_ticket_links.webp",
+      "title": "Avoid fabricated ticket links",
+      "subtitle": "A venue listing should identify event and seller",
+      "url": "https://english.visitseoul.net/",
+      "type": "matrix",
+      "items": [
+        [
+          "Announcement",
+          "Organizer, date|and location"
+        ],
+        [
+          "Ticket",
+          "Authorized seller|and purchase terms"
+        ],
+        [
+          "Update",
+          "Cancellation or|schedule changes"
+        ]
+      ]
+    },
+    {
+      "name": "05_evidence_seoul_sightseeing_independent_of_band_news.webp",
+      "title": "Seoul sightseeing independent of band news",
+      "subtitle": "A fan can still plan a trip without a confirmed reunion",
+      "url": "https://english.visitseoul.net/",
+      "type": "compare",
+      "items": [
+        [
+          "Attractions",
+          "Visit Seoul|official routes"
+        ],
+        [
+          "Transport",
+          "Subway and|local schedules"
+        ],
+        [
+          "Weather",
+          "KMA forecast|near travel"
+        ]
+      ]
+    },
+    {
+      "name": "06_evidence_archived_performance_vs_new_booking.webp",
+      "title": "Archived performance vs new booking",
+      "subtitle": "Two event classes need different labels",
+      "url": "https://musicbrainz.org/artist/4618910b-4eed-459d-9ab1-69cedc76b634",
+      "type": "timeline",
+      "items": [
+        [
+          "Archival",
+          "Recorded date|and venue"
+        ],
+        [
+          "Rumored",
+          "Unverified|social mention"
+        ],
+        [
+          "Confirmed",
+          "Current official|show record"
+        ]
+      ]
+    },
+    {
+      "name": "07_evidence_commercial_photo_license_checklist.webp",
+      "title": "Commercial photo license checklist",
+      "subtitle": "One image may have different rights from another",
+      "url": "https://commons.wikimedia.org/",
+      "type": "steps",
+      "items": [
+        [
+          "Original",
+          "Specific Commons|file page"
+        ],
+        [
+          "License",
+          "Verify BY terms|and photographer"
+        ],
+        [
+          "Caption",
+          "Avoid current|event implication"
+        ]
+      ]
+    },
+    {
+      "name": "08_evidence_where_to_check_a_korea_concert.webp",
+      "title": "Where to check a Korea concert",
+      "subtitle": "Research should stop at the level that is supportable",
+      "url": "https://english.visitseoul.net/",
+      "type": "matrix",
+      "items": [
+        [
+          "Official channels",
+          "Promoter or|artist notice"
+        ],
+        [
+          "Venue",
+          "Verified listing|in Seoul"
+        ],
+        [
+          "Ticket seller",
+          "Matching date|and access terms"
+        ]
+      ]
+    }
+  ],
+  "notes": "Original diagram with no third-party photo assets. Quantitative charts require explicit source-confirmed value rows."
+}

@@ -1,0 +1,204 @@
+{
+  "desk": "kmoney",
+  "day": "13",
+  "post": "4202607322933941091",
+  "source_urls": [
+    "https://www.kbstar.com/",
+    "https://www.shinhan.com/",
+    "https://www.fss.or.kr/eng/main/main.do",
+    "https://www.kca.go.kr/eng/",
+    "https://www.kftc.or.kr/eng/main/main.do"
+  ],
+  "image_manifest": [
+    {
+      "name": "01_evidence_safe_deposit_rental_is_a_service.webp",
+      "title": "Safe deposit rental is a service",
+      "subtitle": "It is not a deposit account with a stated yield",
+      "url": "https://www.fss.or.kr/eng/main/main.do",
+      "type": "compare",
+      "items": [
+        [
+          "Box rental",
+          "Use of physical|secure space"
+        ],
+        [
+          "Deposit account",
+          "Financial claim|on a bank"
+        ],
+        [
+          "Insurance",
+          "Separate coverage|terms may apply"
+        ]
+      ]
+    },
+    {
+      "name": "02_evidence_availability_is_branch_specific.webp",
+      "title": "Availability is branch specific",
+      "subtitle": "Do not invent a nationwide box inventory",
+      "url": "https://www.kbstar.com/",
+      "type": "steps",
+      "items": [
+        [
+          "Branch",
+          "Check whether boxes|are offered"
+        ],
+        [
+          "Size",
+          "Available capacity|and access"
+        ],
+        [
+          "Schedule",
+          "Opening times|and appointments"
+        ]
+      ]
+    },
+    {
+      "name": "03_evidence_rental_fee_needs_a_written_sheet.webp",
+      "title": "Rental fee needs a written sheet",
+      "subtitle": "No standard fee or deposit valid at every bank",
+      "url": "https://www.kbstar.com/",
+      "type": "matrix",
+      "items": [
+        [
+          "Annual rent",
+          "Ask branch for|current tariff"
+        ],
+        [
+          "Key deposit",
+          "If applicable|written terms"
+        ],
+        [
+          "Late or lost",
+          "Replacement and|access fees"
+        ]
+      ]
+    },
+    {
+      "name": "04_evidence_identity_and_authorization.webp",
+      "title": "Identity and authorization",
+      "subtitle": "Access may require account ownership and credentials",
+      "url": "https://www.shinhan.com/",
+      "type": "steps",
+      "items": [
+        [
+          "Applicant",
+          "Bank KYC|and eligibility"
+        ],
+        [
+          "Representative",
+          "Authorization if|bank permits"
+        ],
+        [
+          "Access",
+          "Follow vault|security rules"
+        ]
+      ]
+    },
+    {
+      "name": "05_evidence_insurance_of_contents_is_separate.webp",
+      "title": "Insurance of contents is separate",
+      "subtitle": "A vault location does not imply unlimited compensation",
+      "url": "https://www.fss.or.kr/eng/main/main.do",
+      "type": "compare",
+      "items": [
+        [
+          "Contract",
+          "Read liability|clauses"
+        ],
+        [
+          "Contents",
+          "Restrictions and|inventory evidence"
+        ],
+        [
+          "Claims",
+          "Verify coverage|and exceptions"
+        ]
+      ]
+    },
+    {
+      "name": "06_evidence_what_should_not_go_in_the_box.webp",
+      "title": "What should not go in the box?",
+      "subtitle": "Follow storage agreement and law",
+      "url": "https://www.kca.go.kr/eng/",
+      "type": "matrix",
+      "items": [
+        [
+          "Prohibited",
+          "Dangerous or|illegal material"
+        ],
+        [
+          "Perishable",
+          "Spoilage and|hygiene risks"
+        ],
+        [
+          "Documents",
+          "Check access|needs and copies"
+        ]
+      ]
+    },
+    {
+      "name": "07_evidence_access_after_emergencies.webp",
+      "title": "Access after emergencies",
+      "subtitle": "Verify replacement and heir procedures in advance",
+      "url": "https://www.kbstar.com/",
+      "type": "timeline",
+      "items": [
+        [
+          "Lost key",
+          "Bank’s official|replacement method"
+        ],
+        [
+          "Joint access",
+          "Contract rules|and authorized users"
+        ],
+        [
+          "Death or dispute",
+          "Applicable legal|documents"
+        ]
+      ]
+    },
+    {
+      "name": "08_evidence_compare_total_holding_cost.webp",
+      "title": "Compare total holding cost",
+      "subtitle": "Rental price alone does not price total use",
+      "url": "https://www.kca.go.kr/eng/",
+      "type": "compare",
+      "items": [
+        [
+          "Rent",
+          "Annual or term|charges"
+        ],
+        [
+          "Travel",
+          "Branch trips|and schedule"
+        ],
+        [
+          "Security",
+          "Access, records|and liability"
+        ]
+      ]
+    },
+    {
+      "name": "09_evidence_practical_source_verification.webp",
+      "title": "Practical source verification",
+      "subtitle": "Treat online anecdotes as nonbinding",
+      "url": "https://www.fss.or.kr/eng/main/main.do",
+      "type": "steps",
+      "items": [
+        [
+          "Branch",
+          "Written current|terms"
+        ],
+        [
+          "FSS",
+          "Consumer rights|information"
+        ],
+        [
+          "Records",
+          "Keep agreement|and receipt"
+        ]
+      ]
+    }
+  ],
+  "notes": "Original diagram with no third-party photo assets. Quantitative charts require explicit source-confirmed value rows."
+}

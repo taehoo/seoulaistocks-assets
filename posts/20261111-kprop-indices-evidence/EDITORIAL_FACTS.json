@@ -1,0 +1,141 @@
+{
+  "desk": "kprop",
+  "day": "11",
+  "post": "8106792256233488001",
+  "source_urls": [
+    "https://www.reb.or.kr/r-one/",
+    "https://www.reb.or.kr/reb/na/ntt/selectNttInfo.do?mi=9565&nttSn=118203",
+    "https://data.kbland.kr/kbstats/wmh?tIdx=HT01&tsIdx=weekAptSalePriceInx",
+    "https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=11065825&programType=newsDataEng&relate=Y",
+    "https://ecos.bok.or.kr/"
+  ],
+  "image_manifest": [
+    {
+      "name": "01_evidence_two_real_estate_index_families.webp",
+      "title": "Two real estate index families",
+      "subtitle": "A KB index is not directly interchangeable with REB",
+      "url": "https://data.kbland.kr/kbstats/wmh?tIdx=HT01&tsIdx=weekAptSalePriceInx",
+      "type": "compare",
+      "items": [
+        [
+          "KB Land",
+          "Private index|methodology"
+        ],
+        [
+          "REB R-ONE",
+          "Official transaction|and survey statistics"
+        ],
+        [
+          "Compare",
+          "Match geography,|base and frequency"
+        ]
+      ]
+    },
+    {
+      "name": "02_evidence_index_level_and_percentage_change.webp",
+      "title": "Index level and percentage change",
+      "subtitle": "A headline gap needs a denominator and base period",
+      "url": "https://www.reb.or.kr/r-one/",
+      "type": "steps",
+      "items": [
+        [
+          "Base 100",
+          "Reference point|for level"
+        ],
+        [
+          "Period change",
+          "Current versus|comparison date"
+        ],
+        [
+          "Gap",
+          "Subtract only|matching indices"
+        ]
+      ]
+    },
+    {
+      "name": "03_evidence_nationwide_versus_seoul.webp",
+      "title": "Nationwide versus Seoul",
+      "subtitle": "Regional basket differences matter",
+      "url": "https://data.kbland.kr/kbstats/wmh?tIdx=HT01&tsIdx=weekAptSalePriceInx",
+      "type": "compare",
+      "items": [
+        [
+          "Seoul",
+          "District mix and|building types"
+        ],
+        [
+          "Nationwide",
+          "Other regions and|composition"
+        ],
+        [
+          "Weighting",
+          "Match index|method"
+        ]
+      ]
+    },
+    {
+      "name": "04_evidence_weekly_versus_monthly_reporting.webp",
+      "title": "Weekly versus monthly reporting",
+      "subtitle": "A release date is not the data cutoff",
+      "url": "https://www.reb.or.kr/reb/na/ntt/selectNttInfo.do?mi=9565&nttSn=118203",
+      "type": "timeline",
+      "items": [
+        [
+          "Observation",
+          "Survey reference|week or month"
+        ],
+        [
+          "Publication",
+          "Later release|timestamp"
+        ],
+        [
+          "Revision",
+          "Check corrected|series"
+        ]
+      ]
+    },
+    {
+      "name": "05_evidence_price_levels_and_transactions.webp",
+      "title": "Price levels and transactions",
+      "subtitle": "A higher index does not count the number of deals",
+      "url": "https://www.reb.or.kr/r-one/",
+      "type": "matrix",
+      "items": [
+        [
+          "Index",
+          "Price movement|relative base"
+        ],
+        [
+          "Transactions",
+          "Actual deals|and reported dates"
+        ],
+        [
+          "Sentiment",
+          "News and|expectations"
+        ]
+      ]
+    },
+    {
+      "name": "06_evidence_interest_rates_as_context.webp",
+      "title": "Interest rates as context",
+      "subtitle": "BOK 3.00 percent 22 October base is not mortgage price",
+      "url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=11065825&programType=newsDataEng&relate=Y",
+      "type": "compare",
+      "items": [
+        [
+          "Policy rate",
+          "3.00% held|22 Oct 2026"
+        ],
+        [
+          "Mortgage rate",
+          "Different bank|product and timing"
+        ],
+        [
+          "Home index",
+          "Different real|estate series"
+        ]
+      ]
+    }
+  ],
+  "notes": "Original diagram with no third-party photo assets. Quantitative charts require explicit source-confirmed value rows."
+}
