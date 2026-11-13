@@ -1,0 +1,65 @@
+{
+  "created": "2026-11-13",
+  "editorial_purpose": "Replace three unrelated/generic covers, preserve contents and Shorts",
+  "format": "1600x900 16:9, WEBP",
+  "references": {
+    "ship": {
+      "url": "https://images.unsplash.com/photo-1768913737603-fe3f3d6bf8e2?auto=format&fit=crop&w=1800&q=87",
+      "page": "https://unsplash.com/photos/ships-docked-at-a-brightly-lit-industrial-port-at-night-mcWi2r2tP-o",
+      "author": "You Le",
+      "context": "Photograph of an industrial port in Kota Kinabalu, Malaysia, January 2026; NOT Korean port or chip export shipment"
+    },
+    "wafer": {
+      "url": "https://images.unsplash.com/photo-1649649089599-59782dff8d04?auto=format&fit=crop&w=1100&q=87",
+      "page": "https://unsplash.com/photos/a-close-up-of-a-metal-plate-with-squares-on-it-0Gw_p-RQq8k",
+      "author": "Laura Ockel",
+      "context": "Macro of a generic silicon wafer, April 2022; NOT a factory related to the Korean Customs Service data"
+    },
+    "en_fin": {
+      "url": "https://images.unsplash.com/photo-1707157284454-553ef0a4ed0d?auto=format&fit=crop&w=1800&q=85",
+      "page": "https://unsplash.com/photos/office-desk-with-smartphone-and-financial-charts-heiYgqp0Tsk",
+      "author": "Jakub Żerdzicki",
+      "context": "Generic financial analysis office photograph, February 2024; NOT actual Samsung or SK hynix statements"
+    },
+    "ko_fin": {
+      "url": "https://images.unsplash.com/photo-1779729686198-117c1307894d?auto=format&fit=crop&w=1800&q=85",
+      "page": "https://unsplash.com/photos/a-desk-with-a-calculator-papers-eyeglasses-and-office-supplies-QV5VoI18Ld8",
+      "author": "Berke Citak",
+      "context": "Generic stockbroker/financial analyst desk, May 2026; NOT real company filing pages"
+    }
+  },
+  "rights": {
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "commercial_and_editing": "Permitted under Unsplash License, excluding sale of unmodified files and compilation as a competing image service. Personality/trademark rights separately apply.",
+    "attribution": "Author/source links in each post caption; photos are illustrative not documenting the specific event or company.",
+    "file_level_verification": "Each chosen source page explicitly says Free to use under Unsplash License."
+  },
+  "images": [
+    {
+      "file": "en13-customs-cover-20261113.webp",
+      "sha256": "0e77d27de36343e4eb8afecdc2e7ef6965f7290b3a4c23f869d12d322c9c356a",
+      "source_keys": [
+        "ship",
+        "wafer"
+      ],
+      "purpose": "Composite licensed source photographs, original editorial text overlay"
+    },
+    {
+      "file": "en12-financial-cover-20261112.webp",
+      "sha256": "edd6f22a36ffe7bc380c9a366087ca915dbb7ec320e3b44e9d1ba670da0d2119",
+      "source_keys": [
+        "en_fin"
+      ],
+      "purpose": "Composite licensed source photographs, original editorial text overlay"
+    },
+    {
+      "file": "ko12-financial-cover-20261112.webp",
+      "sha256": "1ed4caede705cdd9fa03041c205d916c23b42724c36609506a2ac4ab95a9fa2f",
+      "source_keys": [
+        "ko_fin"
+      ],
+      "purpose": "Composite licensed source photographs, original editorial text overlay"
+    }
+  ]
+}
