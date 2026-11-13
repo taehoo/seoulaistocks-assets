@@ -1,0 +1,142 @@
+[
+  {
+    "file": "01_ship_carrier_label_is_not_a_contract.webp",
+    "title": "Carrier label is not a contract",
+    "subtitle": "Check cargo type before inferring order volumes",
+    "points": [
+      [
+        "LCO2",
+        "Liquefied CO2|carriage"
+      ],
+      [
+        "Ammonia",
+        "Different chemical|cargo class"
+      ],
+      [
+        "Disclosure",
+        "Check vessel model|and yard filing"
+      ]
+    ],
+    "source": "DART Korean official corporate filings"
+  },
+  {
+    "file": "02_ship_what_an_order_filing_contains.webp",
+    "title": "What an order filing contains",
+    "subtitle": "Each reported field has different accounting significance",
+    "points": [
+      [
+        "Amount",
+        "Contract value|and currency"
+      ],
+      [
+        "Period",
+        "Signing date|delivery window"
+      ],
+      [
+        "Counterparty",
+        "Buyer identity|may be withheld"
+      ]
+    ],
+    "source": "DART Korean official corporate filings"
+  },
+  {
+    "file": "03_ship_contract_vs_future_revenue.webp",
+    "title": "Contract vs future revenue",
+    "subtitle": "A signed contract is not instant recognized earnings",
+    "points": [
+      [
+        "Contract",
+        "Potential orders|and obligations"
+      ],
+      [
+        "Production",
+        "Milestone and|construction"
+      ],
+      [
+        "Revenue",
+        "Accounting recognition|over period"
+      ]
+    ],
+    "source": "DART Korean official corporate filings"
+  },
+  {
+    "file": "04_ship_option_and_firm_orders_differ.webp",
+    "title": "Option and firm orders differ",
+    "subtitle": "Do not count option vessels as awarded ships",
+    "points": [
+      [
+        "Firm award",
+        "Agreement in|filing"
+      ],
+      [
+        "Optional",
+        "Right to order|if exercised"
+      ],
+      [
+        "Backlog",
+        "Check actual|order counts"
+      ]
+    ],
+    "source": "DART Korean official corporate filings"
+  },
+  {
+    "file": "05_ship_compare_ships_by_role.webp",
+    "title": "Compare ships by role",
+    "subtitle": "LCO2 and ammonia transport have distinct handling needs",
+    "points": [
+      [
+        "Cargo",
+        "CO2 or NH3|characteristics"
+      ],
+      [
+        "Design",
+        "Tank and|safety systems"
+      ],
+      [
+        "Rules",
+        "Class and|statutory checks"
+      ]
+    ],
+    "source": "IMO Integrated Ship Identification Number Scheme"
+  },
+  {
+    "file": "06_ship_reported_schedule_is_not_delivery.webp",
+    "title": "Reported schedule is not delivery",
+    "subtitle": "Track actual milestones with sources",
+    "points": [
+      [
+        "Announce",
+        "Date of|contract"
+      ],
+      [
+        "Construct",
+        "Building and|testing"
+      ],
+      [
+        "Deliver",
+        "Acceptance|and handover"
+      ]
+    ],
+    "source": "DART Korean official corporate filings"
+  },
+  {
+    "file": "07_ship_cross_check_changing_disclosures.webp",
+    "title": "Cross-check changing disclosures",
+    "subtitle": "Latest correction supersedes outdated contract terms",
+    "points": [
+      [
+        "Original",
+        "DART receipt|date"
+      ],
+      [
+        "Amended",
+        "Changed terms|and values"
+      ],
+      [
+        "Company IR",
+        "Reconcile|public statements"
+      ]
+    ],
+    "source": "DART Korean official corporate filings"
+  }
+]

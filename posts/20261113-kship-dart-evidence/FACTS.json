@@ -1,0 +1,202 @@
+[
+  {
+    "file": "01_ship_start_with_the_actual_dart_receipt.webp",
+    "title": "Start with the actual DART receipt",
+    "subtitle": "An article summary is not the legal filing itself",
+    "points": [
+      [
+        "Receipt",
+        "Issuer and|submission date"
+      ],
+      [
+        "Form",
+        "Supply contract|disclosure"
+      ],
+      [
+        "Original",
+        "Source link|and changes"
+      ]
+    ],
+    "source": "DART Korean official corporate filings"
+  },
+  {
+    "file": "02_ship_read_contract_value_correctly.webp",
+    "title": "Read contract value correctly",
+    "subtitle": "The contract currency and duration affect comparisons",
+    "points": [
+      [
+        "Amount",
+        "Won or foreign|currency"
+      ],
+      [
+        "FX basis",
+        "Avoid arbitrary|conversion"
+      ],
+      [
+        "Schedule",
+        "Multi-year|delivery period"
+      ]
+    ],
+    "source": "DART Korean official corporate filings"
+  },
+  {
+    "file": "03_ship_a_counterparty_may_be_withheld.webp",
+    "title": "A counterparty may be withheld",
+    "subtitle": "Do not guess private buyers or commercial terms",
+    "points": [
+      [
+        "Disclosed",
+        "Name in|company filing"
+      ],
+      [
+        "Withheld",
+        "Trade secret|where allowed"
+      ],
+      [
+        "Unknown",
+        "Do not invent|client identity"
+      ]
+    ],
+    "source": "DART Korean official corporate filings"
+  },
+  {
+    "file": "04_ship_separate_contract_from_option.webp",
+    "title": "Separate contract from option",
+    "subtitle": "One option is not a firm order",
+    "points": [
+      [
+        "Signed",
+        "Confirmed|contract"
+      ],
+      [
+        "Optional",
+        "Buyer may|elect later"
+      ],
+      [
+        "Amendment",
+        "Check follow-on|report"
+      ]
+    ],
+    "source": "DART Korean official corporate filings"
+  },
+  {
+    "file": "05_ship_read_the_delivery_date_field.webp",
+    "title": "Read the delivery date field",
+    "subtitle": "Scheduled completion can move after signing",
+    "points": [
+      [
+        "Sign",
+        "Contract agreed"
+      ],
+      [
+        "Expected",
+        "Target delivery|according to filing"
+      ],
+      [
+        "Actual",
+        "Delivery evidence|needed"
+      ]
+    ],
+    "source": "DART Korean official corporate filings"
+  },
+  {
+    "file": "06_ship_backlog_is_a_stock_measure.webp",
+    "title": "Backlog is a stock measure",
+    "subtitle": "A company orderbook is not the same as revenue",
+    "points": [
+      [
+        "New orders",
+        "Add to book|when valid"
+      ],
+      [
+        "Completed",
+        "Recognized over|time"
+      ],
+      [
+        "Backlog",
+        "Outstanding|contract amount"
+      ]
+    ],
+    "source": "DART Korean official corporate filings"
+  },
+  {
+    "file": "07_ship_ship_type_matters_in_comparison.webp",
+    "title": "Ship type matters in comparison",
+    "subtitle": "Container ships and gas carriers are not equivalent units",
+    "points": [
+      [
+        "Container",
+        "TEU capacity|different market"
+      ],
+      [
+        "LNG or LCO2",
+        "Cargo systems|and safety"
+      ],
+      [
+        "Tankers",
+        "DWT and|cargo rules"
+      ]
+    ],
+    "source": "Korea Offshore Shipbuilding Association"
+  },
+  {
+    "file": "08_ship_avoid_arithmetic_double_counts.webp",
+    "title": "Avoid arithmetic double counts",
+    "subtitle": "Only compare same units and reporting boundaries",
+    "points": [
+      [
+        "Company",
+        "Consolidated or|subsidiary"
+      ],
+      [
+        "Period",
+        "Date cutoffs|aligned"
+      ],
+      [
+        "Value",
+        "Currency and|recognition"
+      ]
+    ],
+    "source": "DART Korean official corporate filings"
+  },
+  {
+    "file": "09_ship_cross_reference_imo_where_known.webp",
+    "title": "Cross-reference IMO where known",
+    "subtitle": "Newbuild reports may lack a permanent IMO link",
+    "points": [
+      [
+        "Yard",
+        "Internal hull|designation"
+      ],
+      [
+        "IMO",
+        "Permanent ID|if assigned"
+      ],
+      [
+        "Ship name",
+        "May change|on delivery"
+      ]
+    ],
+    "source": "IMO Integrated Ship Identification Number Scheme"
+  },
+  {
+    "file": "10_ship_revision_tracker_for_a_report.webp",
+    "title": "Revision tracker for a report",
+    "subtitle": "Later corrections can materially alter a reported order",
+    "points": [
+      [
+        "Original",
+        "Receipt number|saved"
+      ],
+      [
+        "Amended",
+        "Compare changed|fields"
+      ],
+      [
+        "Final",
+        "Update source and|article date"
+      ]
+    ],
+    "source": "DART Korean official corporate filings"
+  }
+]

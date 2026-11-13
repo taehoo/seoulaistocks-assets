@@ -1,0 +1,162 @@
+[
+  {
+    "file": "01_ship_imo_and_hull_id_are_distinct.webp",
+    "title": "IMO and hull ID are distinct",
+    "subtitle": "Permanent ship number versus shipyard internal code",
+    "points": [
+      [
+        "IMO number",
+        "Vessel lifetime|identity"
+      ],
+      [
+        "Hull number",
+        "Builder project|reference"
+      ],
+      [
+        "Name",
+        "May change|over time"
+      ]
+    ],
+    "source": "IMO Integrated Ship Identification Number Scheme"
+  },
+  {
+    "file": "02_ship_a_global_imo_identifier.webp",
+    "title": "A global IMO identifier",
+    "subtitle": "The current scheme uses IMO plus a seven-digit number",
+    "points": [
+      [
+        "Prefix",
+        "IMO"
+      ],
+      [
+        "Digits",
+        "Seven assigned|digits"
+      ],
+      [
+        "Lifetime",
+        "Not recycled|to other ships"
+      ]
+    ],
+    "source": "IMO Integrated Ship Identification Number Scheme"
+  },
+  {
+    "file": "03_ship_ship_details_can_change.webp",
+    "title": "Ship details can change",
+    "subtitle": "The IMO identity survives renaming and refl agging",
+    "points": [
+      [
+        "Vessel name",
+        "May be changed"
+      ],
+      [
+        "Flag",
+        "Can move between|registries"
+      ],
+      [
+        "Owner",
+        "May transfer|rights"
+      ]
+    ],
+    "source": "IMO Integrated Ship Identification Number Scheme"
+  },
+  {
+    "file": "04_ship_a_builder_assigns_a_hull_code.webp",
+    "title": "A builder assigns a hull code",
+    "subtitle": "Do not assume hull numbers are globally unique",
+    "points": [
+      [
+        "Builder",
+        "Project-specific|code"
+      ],
+      [
+        "Yard series",
+        "Multiple yards|use own IDs"
+      ],
+      [
+        "Crosswalk",
+        "Link to IMO when|verified"
+      ]
+    ],
+    "source": "Korea Offshore Shipbuilding Association"
+  },
+  {
+    "file": "05_ship_ship_timeline_has_stages.webp",
+    "title": "Ship timeline has stages",
+    "subtitle": "Order confirmation is not ship delivery",
+    "points": [
+      [
+        "Order",
+        "DART contract|report"
+      ],
+      [
+        "Build",
+        "Keel/launch|progress"
+      ],
+      [
+        "Delivery",
+        "Handover|record"
+      ]
+    ],
+    "source": "DART Korean official corporate filings"
+  },
+  {
+    "file": "06_ship_registry_and_ais_are_different.webp",
+    "title": "Registry and AIS are different",
+    "subtitle": "MMSI and IMO serve different roles",
+    "points": [
+      [
+        "IMO",
+        "Permanent ship|identifier"
+      ],
+      [
+        "MMSI",
+        "Radio-related|identifier"
+      ],
+      [
+        "Name",
+        "Operating label|can change"
+      ]
+    ],
+    "source": "IMO Integrated Ship Identification Number Scheme"
+  },
+  {
+    "file": "07_ship_record_matches_require_evidence.webp",
+    "title": "Record matches require evidence",
+    "subtitle": "One field cannot prove complete newbuild identity",
+    "points": [
+      [
+        "DART",
+        "Contract and yard|data"
+      ],
+      [
+        "IMO",
+        "Ship ID and|certificates"
+      ],
+      [
+        "Yard",
+        "Hull reference|and schedule"
+      ]
+    ],
+    "source": "DART Korean official corporate filings"
+  },
+  {
+    "file": "08_ship_ship_identity_fact_check.webp",
+    "title": "Ship identity fact-check",
+    "subtitle": "Avoid inventing records before assignment",
+    "points": [
+      [
+        "Known",
+        "Cite source|and date"
+      ],
+      [
+        "Unknown",
+        "Mark not|disclosed"
+      ],
+      [
+        "Changed",
+        "Update when new|documents appear"
+      ]
+    ],
+    "source": "IMO Integrated Ship Identification Number Scheme"
+  }
+]
