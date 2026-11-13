@@ -1,0 +1,182 @@
+{
+  "desk": "kbeauty",
+  "day": "13",
+  "post": "7804944499289551616",
+  "source_urls": [
+    "https://www.mfds.go.kr/eng/wpge/m_24/de011014l001.do",
+    "https://mfds.go.kr/wpge/m_639/de050601l001.do",
+    "https://www.law.go.kr/",
+    "https://www.kca.go.kr/eng/"
+  ],
+  "image_manifest": [
+    {
+      "name": "01_evidence_shade_number_is_brand_specific.webp",
+      "title": "Shade number is brand specific",
+      "subtitle": "A numeric shade does not identify one worldwide color",
+      "url": "https://www.mfds.go.kr/eng/wpge/m_24/de011014l001.do",
+      "type": "compare",
+      "items": [
+        [
+          "Brand A 01",
+          "Internal shade label|for that range"
+        ],
+        [
+          "Brand B 01",
+          "Different product|and undertone"
+        ],
+        [
+          "Comparison",
+          "Check actual maker|and line"
+        ]
+      ]
+    },
+    {
+      "name": "02_evidence_color_name_versus_shade_code.webp",
+      "title": "Color name versus shade code",
+      "subtitle": "Retail names and inventory identifiers can differ",
+      "url": "https://mfds.go.kr/wpge/m_639/de050601l001.do",
+      "type": "steps",
+      "items": [
+        [
+          "Name",
+          "Brand marketing|description"
+        ],
+        [
+          "Code",
+          "Product option|reference"
+        ],
+        [
+          "Lot",
+          "Production batch|not a shade"
+        ]
+      ]
+    },
+    {
+      "name": "03_evidence_read_the_full_product_identity.webp",
+      "title": "Read the full product identity",
+      "subtitle": "The label identifies more than a color name",
+      "url": "https://www.mfds.go.kr/eng/wpge/m_24/de011014l001.do",
+      "type": "matrix",
+      "items": [
+        [
+          "Brand",
+          "Maker or responsible|seller"
+        ],
+        [
+          "Line",
+          "Product family|and finish"
+        ],
+        [
+          "Shade",
+          "Name and number|within the line"
+        ]
+      ]
+    },
+    {
+      "name": "04_evidence_warm_cool_neutral_undertones.webp",
+      "title": "Warm cool neutral undertones",
+      "subtitle": "Lighting and skin tone affect visual appearance",
+      "url": "https://www.kca.go.kr/eng/",
+      "type": "compare",
+      "items": [
+        [
+          "Warm",
+          "Visual comparison|under same light"
+        ],
+        [
+          "Cool",
+          "Test without|camera color cast"
+        ],
+        [
+          "Neutral",
+          "Evaluate texture|on actual skin"
+        ]
+      ]
+    },
+    {
+      "name": "05_evidence_pigments_and_ingredient_labels.webp",
+      "title": "Pigments and ingredient labels",
+      "subtitle": "One shade name cannot prove its exact composition",
+      "url": "https://mfds.go.kr/wpge/m_639/de050601l001.do",
+      "type": "steps",
+      "items": [
+        [
+          "Pigments",
+          "Read full|ingredient declaration"
+        ],
+        [
+          "Fragrance",
+          "Check individual|product list"
+        ],
+        [
+          "Allergy",
+          "Review cautions|and reactions"
+        ]
+      ]
+    },
+    {
+      "name": "06_evidence_batch_or_expiry_is_not_shade.webp",
+      "title": "Batch or expiry is not shade",
+      "subtitle": "Keep traceability identifiers distinct from color options",
+      "url": "https://www.mfds.go.kr/eng/wpge/m_24/de011014l001.do",
+      "type": "matrix",
+      "items": [
+        [
+          "Shade code",
+          "Retail color|selection"
+        ],
+        [
+          "Lot or batch",
+          "Manufacturing|traceability"
+        ],
+        [
+          "Period",
+          "Use by date|after opening"
+        ]
+      ]
+    },
+    {
+      "name": "07_evidence_compare_shades_fairly.webp",
+      "title": "Compare shades fairly",
+      "subtitle": "Photo processing can make swatches deceptive",
+      "url": "https://www.kca.go.kr/eng/",
+      "type": "timeline",
+      "items": [
+        [
+          "Same light",
+          "Avoid mixed|color temperatures"
+        ],
+        [
+          "Same surface",
+          "Swatch on comparable|material"
+        ],
+        [
+          "No filter",
+          "Prefer unaltered|reference"
+        ]
+      ]
+    },
+    {
+      "name": "08_evidence_international_purchase_checks.webp",
+      "title": "International purchase checks",
+      "subtitle": "Do not infer import legality from a shade code",
+      "url": "https://www.mfds.go.kr/eng/wpge/m_24/de011014l001.do",
+      "type": "steps",
+      "items": [
+        [
+          "Korean label",
+          "Check maker and|instructions"
+        ],
+        [
+          "Retailer",
+          "Confirm authentic|distribution"
+        ],
+        [
+          "Local rule",
+          "Check destination|cosmetic policies"
+        ]
+      ]
+    }
+  ],
+  "notes": "Original diagram with no third-party photo assets. Quantitative charts require explicit source-confirmed value rows."
+}

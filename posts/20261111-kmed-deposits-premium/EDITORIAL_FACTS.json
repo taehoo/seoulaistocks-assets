@@ -1,0 +1,182 @@
+{
+  "desk": "kmed",
+  "day": "11",
+  "post": "7075371726661423373",
+  "source_urls": [
+    "https://www.medicalkorea.or.kr/en",
+    "https://www.medicalkorea.or.kr/en/registeredhospitals",
+    "https://www.medicalkorea.or.kr/en/convenient",
+    "https://www.kca.go.kr/eng/"
+  ],
+  "image_manifest": [
+    {
+      "name": "01_evidence_booking_fee_versus_procedure_price.webp",
+      "title": "Booking fee versus procedure price",
+      "subtitle": "A deposit may be only one part of the final bill",
+      "url": "https://www.medicalkorea.or.kr/en",
+      "type": "compare",
+      "items": [
+        [
+          "Reservation",
+          "Amount and|appointment date"
+        ],
+        [
+          "Treatment",
+          "Quoted scope|and exclusions"
+        ],
+        [
+          "Final invoice",
+          "Itemized charges|and payments"
+        ]
+      ]
+    },
+    {
+      "name": "02_evidence_who_receives_the_deposit.webp",
+      "title": "Who receives the deposit?",
+      "subtitle": "Different payment recipients can have different terms",
+      "url": "https://www.medicalkorea.or.kr/en/registeredhospitals",
+      "type": "steps",
+      "items": [
+        [
+          "Hospital",
+          "Named registered|medical provider"
+        ],
+        [
+          "Facilitator",
+          "Separate service|contract and fees"
+        ],
+        [
+          "Platform",
+          "Review actual|payment recipient"
+        ]
+      ]
+    },
+    {
+      "name": "03_evidence_cancellation_evidence_checklist.webp",
+      "title": "Cancellation evidence checklist",
+      "subtitle": "Refund depends on written conditions and relevant law",
+      "url": "https://www.kca.go.kr/eng/",
+      "type": "matrix",
+      "items": [
+        [
+          "Deadline",
+          "Request to change|or cancel"
+        ],
+        [
+          "Policy",
+          "Written refund|conditions"
+        ],
+        [
+          "Proof",
+          "Save messages|and receipts"
+        ]
+      ]
+    },
+    {
+      "name": "04_evidence_cross_border_booking_workflow.webp",
+      "title": "Cross-border booking workflow",
+      "subtitle": "A booking confirmation is not clinical consent",
+      "url": "https://www.medicalkorea.or.kr/en",
+      "type": "timeline",
+      "items": [
+        [
+          "Quote",
+          "Document service|and total cost"
+        ],
+        [
+          "Appointment",
+          "Confirm facility|and physician"
+        ],
+        [
+          "Arrival",
+          "Discuss clinical|benefits and risk"
+        ]
+      ]
+    },
+    {
+      "name": "05_evidence_clinic_registration_lookup.webp",
+      "title": "Clinic registration lookup",
+      "subtitle": "Use a named institutional record before prepaying",
+      "url": "https://www.medicalkorea.or.kr/en/registeredhospitals",
+      "type": "steps",
+      "items": [
+        [
+          "Institution",
+          "Verify name and|address"
+        ],
+        [
+          "Registration",
+          "Check official|provider status"
+        ],
+        [
+          "Contact",
+          "Reach provider by|official channel"
+        ]
+      ]
+    },
+    {
+      "name": "06_evidence_different_payment_methods.webp",
+      "title": "Different payment methods",
+      "subtitle": "Refund may be processed through different parties",
+      "url": "https://www.kca.go.kr/eng/",
+      "type": "compare",
+      "items": [
+        [
+          "Card",
+          "Keep issuer|transaction record"
+        ],
+        [
+          "Bank transfer",
+          "Retain recipient|account evidence"
+        ],
+        [
+          "Agent payment",
+          "Clarify contractual|responsibility"
+        ]
+      ]
+    },
+    {
+      "name": "07_evidence_aftercare_affects_travel_budget.webp",
+      "title": "Aftercare affects travel budget",
+      "subtitle": "The initial price may omit later care",
+      "url": "https://www.medicalkorea.or.kr/en",
+      "type": "steps",
+      "items": [
+        [
+          "Tests",
+          "Pre-op assessment|and screening"
+        ],
+        [
+          "Follow-up",
+          "Post-care visits|and medication"
+        ],
+        [
+          "Changes",
+          "Complication plan|and extra stays"
+        ]
+      ]
+    },
+    {
+      "name": "08_evidence_protect_sensitive_patient_data.webp",
+      "title": "Protect sensitive patient data",
+      "subtitle": "A claim of guaranteed medical care is not verification",
+      "url": "https://www.medicalkorea.or.kr/en/convenient",
+      "type": "matrix",
+      "items": [
+        [
+          "Identity",
+          "Use authenticated|hospital contact"
+        ],
+        [
+          "Medical records",
+          "Disclose minimally|and securely"
+        ],
+        [
+          "Consent",
+          "Confirm rights, risks|and confidentiality"
+        ]
+      ]
+    }
+  ],
+  "notes": "Original diagram with no third-party photo assets. Quantitative charts require explicit source-confirmed value rows."
+}

@@ -1,0 +1,185 @@
+{
+  "desk": "kbeauty",
+  "day": "12",
+  "post": "865341343014086335",
+  "source_urls": [
+    "https://english.visitseoul.net/tourist-Information-center",
+    "https://english.visitseoul.net/",
+    "https://english.visitseoul.net/area/HONGDAE-R3/ENPc8w958",
+    "https://english.visitseoul.net/City-Hall-Area/Myeong-dong/ENP000067",
+    "https://english.visitkorea.or.kr/",
+    "https://www.kca.go.kr/eng/",
+    "https://www.customs.go.kr/english/main.do"
+  ],
+  "image_manifest": [
+    {
+      "name": "01_evidence_seoul_official_information_network.webp",
+      "title": "Seoul official information network",
+      "subtitle": "Information centers are not sponsored beauty vendors",
+      "url": "https://english.visitseoul.net/tourist-Information-center",
+      "type": "steps",
+      "items": [
+        [
+          "Visit Seoul",
+          "Official municipal|visitor listings"
+        ],
+        [
+          "Tourist center",
+          "Hours language support|and location"
+        ],
+        [
+          "Retail shops",
+          "Separate commercial|purchase decisions"
+        ]
+      ]
+    },
+    {
+      "name": "02_evidence_myeongdong_or_hongdae.webp",
+      "title": "Myeongdong or Hongdae",
+      "subtitle": "Choose areas from verified municipal descriptions",
+      "url": "https://english.visitseoul.net/City-Hall-Area/Myeong-dong/ENP000067",
+      "type": "compare",
+      "items": [
+        [
+          "Myeongdong",
+          "Shopping streets and|cosmetic retailers"
+        ],
+        [
+          "Hongdae R3",
+          "Fashion and cosmetic|shops near Hongik Univ."
+        ],
+        [
+          "Other centers",
+          "Use official Seoul|information directory"
+        ]
+      ]
+    },
+    {
+      "name": "03_evidence_language_help_before_a_purchase.webp",
+      "title": "Language help before a purchase",
+      "subtitle": "Different info services handle different questions",
+      "url": "https://english.visitseoul.net/tourist-Information-center",
+      "type": "steps",
+      "items": [
+        [
+          "Tourist staff",
+          "Directions and|visitor assistance"
+        ],
+        [
+          "Store team",
+          "Stock return policy|and product use"
+        ],
+        [
+          "Consumer help",
+          "Complaints and|purchase records"
+        ]
+      ]
+    },
+    {
+      "name": "04_evidence_verify_opening_hours_each_trip.webp",
+      "title": "Verify opening hours each trip",
+      "subtitle": "Site-specific schedule is a time-sensitive detail",
+      "url": "https://english.visitseoul.net/tourist-Information-center",
+      "type": "timeline",
+      "items": [
+        [
+          "Center page",
+          "Check latest|published hours"
+        ],
+        [
+          "Holiday date",
+          "Look for closure|notes"
+        ],
+        [
+          "Departure",
+          "Recheck before|traveling"
+        ]
+      ]
+    },
+    {
+      "name": "05_evidence_myeongdong_shopping_research.webp",
+      "title": "Myeongdong shopping research",
+      "subtitle": "Use municipal route information not copied ads",
+      "url": "https://english.visitseoul.net/City-Hall-Area/Myeong-dong/ENP000067",
+      "type": "matrix",
+      "items": [
+        [
+          "District map",
+          "Identify station|and stores"
+        ],
+        [
+          "Label checks",
+          "Review ingredients|and categories"
+        ],
+        [
+          "Purchase proof",
+          "Retain dated|receipts"
+        ]
+      ]
+    },
+    {
+      "name": "06_evidence_hongdae_travel_orientation.webp",
+      "title": "Hongdae travel orientation",
+      "subtitle": "A shopping guide is not a price guarantee",
+      "url": "https://english.visitseoul.net/area/HONGDAE-R3/ENPc8w958",
+      "type": "steps",
+      "items": [
+        [
+          "Station exit",
+          "Confirm Hongik Univ.|area"
+        ],
+        [
+          "Retail area",
+          "Use Visit Seoul|R3 listing"
+        ],
+        [
+          "Before buying",
+          "Confirm hours, tax|and returns"
+        ]
+      ]
+    },
+    {
+      "name": "07_evidence_tax_free_versus_duty_free.webp",
+      "title": "Tax-free versus duty-free",
+      "subtitle": "Two mechanisms with different rules and counters",
+      "url": "https://www.customs.go.kr/english/main.do",
+      "type": "compare",
+      "items": [
+        [
+          "Tax refund",
+          "Ask retailer about|eligibility"
+        ],
+        [
+          "Duty-free",
+          "Different sales|arrangements"
+        ],
+        [
+          "Customs",
+          "Declare as required|at destination"
+        ]
+      ]
+    },
+    {
+      "name": "08_evidence_retail_dispute_evidence.webp",
+      "title": "Retail dispute evidence",
+      "subtitle": "Preserve the facts needed if a product is defective",
+      "url": "https://www.kca.go.kr/eng/",
+      "type": "timeline",
+      "items": [
+        [
+          "Receipt",
+          "Record merchant,|date and amount"
+        ],
+        [
+          "Product",
+          "Keep lot label|and packaging"
+        ],
+        [
+          "Resolution",
+          "Use retailer terms|and consumer support"
+        ]
+      ]
+    }
+  ],
+  "notes": "Original diagram with no third-party photo assets. Quantitative charts require explicit source-confirmed value rows."
+}

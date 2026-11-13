@@ -1,0 +1,204 @@
+{
+  "desk": "kmed",
+  "day": "13",
+  "post": "1196660481113708827",
+  "source_urls": [
+    "https://www.hira.or.kr/main.do",
+    "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11896&pageIndex=1&pageIndex2=1",
+    "https://www.medicalkorea.or.kr/en",
+    "https://www.bok.or.kr/eng/main/main.do",
+    "https://www.kca.go.kr/eng/"
+  ],
+  "image_manifest": [
+    {
+      "name": "01_evidence_lasik_and_lasek_are_different.webp",
+      "title": "LASIK and LASEK are different",
+      "subtitle": "Do not substitute a generic eye treatment quote",
+      "url": "https://www.hira.or.kr/main.do",
+      "type": "compare",
+      "items": [
+        [
+          "LASIK",
+          "Flap-based corneal|refractive procedure"
+        ],
+        [
+          "LASEK",
+          "Surface-based corneal|approach"
+        ],
+        [
+          "Eligibility",
+          "Requires an ophthalmic|assessment"
+        ]
+      ]
+    },
+    {
+      "name": "02_evidence_hira_non_covered_fee_disclosures.webp",
+      "title": "HIRA non-covered fee disclosures",
+      "subtitle": "Published fee information is not a personal invoice",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11896&pageIndex=1&pageIndex2=1",
+      "type": "steps",
+      "items": [
+        [
+          "Hospital figure",
+          "Published amount|and measurement date"
+        ],
+        [
+          "Service definition",
+          "Specific procedure|and coverage class"
+        ],
+        [
+          "Patient quote",
+          "Actual tests, extra|care and eligibility"
+        ]
+      ]
+    },
+    {
+      "name": "03_evidence_cross_hospital_price_comparisons.webp",
+      "title": "Cross-hospital price comparisons",
+      "subtitle": "Only compare the same service and units",
+      "url": "https://www.hira.or.kr/main.do",
+      "type": "matrix",
+      "items": [
+        [
+          "Base price",
+          "Procedure and|whether both eyes"
+        ],
+        [
+          "Included care",
+          "Tests, drugs and|follow-up scope"
+        ],
+        [
+          "Date",
+          "Price may change|by provider"
+        ]
+      ]
+    },
+    {
+      "name": "04_evidence_cost_items_beyond_the_surgery.webp",
+      "title": "Cost items beyond the surgery",
+      "subtitle": "Low headline price may hide excluded services",
+      "url": "https://www.medicalkorea.or.kr/en",
+      "type": "steps",
+      "items": [
+        [
+          "Pre-op",
+          "Eye examination|and measurements"
+        ],
+        [
+          "Procedure",
+          "Surgeon, facility|and technique"
+        ],
+        [
+          "Aftercare",
+          "Drops, follow-up|and complications"
+        ]
+      ]
+    },
+    {
+      "name": "05_evidence_usd_conversion_is_only_arithmetic.webp",
+      "title": "USD conversion is only arithmetic",
+      "subtitle": "An exchange-rate illustration does not equal a bank quote",
+      "url": "https://www.bok.or.kr/eng/main/main.do",
+      "type": "timeline",
+      "items": [
+        [
+          "Hospital price",
+          "Korean won|written estimate"
+        ],
+        [
+          "FX reference",
+          "BOK published|dated exchange rate"
+        ],
+        [
+          "Card fee",
+          "Issuer spread, fees|and settlement"
+        ]
+      ]
+    },
+    {
+      "name": "06_evidence_public_data_has_limits.webp",
+      "title": "Public data has limits",
+      "subtitle": "A fee table does not predict clinical outcome",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11896&pageIndex=1&pageIndex2=1",
+      "type": "compare",
+      "items": [
+        [
+          "Method",
+          "Procedure-type|coverage"
+        ],
+        [
+          "Outcome",
+          "Patient factors and|risk assessment"
+        ],
+        [
+          "Suitability",
+          "Medical consultation|needed"
+        ]
+      ]
+    },
+    {
+      "name": "07_evidence_pre_decision_questions.webp",
+      "title": "Pre-decision questions",
+      "subtitle": "Safety and eligibility come before comparing sticker prices",
+      "url": "https://www.medicalkorea.or.kr/en",
+      "type": "matrix",
+      "items": [
+        [
+          "Eye health",
+          "Cornea, dry eye|and prescription"
+        ],
+        [
+          "Alternatives",
+          "Non-surgical|options"
+        ],
+        [
+          "Consent",
+          "Risks, recovery|and follow-up"
+        ]
+      ]
+    },
+    {
+      "name": "08_evidence_provider_research_sources.webp",
+      "title": "Provider research sources",
+      "subtitle": "Verify licensure and written treatment information",
+      "url": "https://www.medicalkorea.or.kr/en",
+      "type": "steps",
+      "items": [
+        [
+          "HIRA",
+          "Non-covered fee|publication"
+        ],
+        [
+          "Medical Korea",
+          "Registered hospitals|and services"
+        ],
+        [
+          "Hospital",
+          "Current quote|and clinical details"
+        ]
+      ]
+    },
+    {
+      "name": "09_evidence_travel_planning_for_recovery.webp",
+      "title": "Travel planning for recovery",
+      "subtitle": "Do not schedule flights solely from marketing claims",
+      "url": "https://www.medicalkorea.or.kr/en",
+      "type": "timeline",
+      "items": [
+        [
+          "Before",
+          "Complete required|consultations"
+        ],
+        [
+          "During",
+          "Follow physician|aftercare"
+        ],
+        [
+          "After",
+          "Plan follow-up|and contact options"
+        ]
+      ]
+    }
+  ],
+  "notes": "Original diagram with no third-party photo assets. Quantitative charts require explicit source-confirmed value rows."
+}

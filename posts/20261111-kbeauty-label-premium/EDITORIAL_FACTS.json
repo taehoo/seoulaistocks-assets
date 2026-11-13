@@ -1,0 +1,161 @@
+{
+  "desk": "kbeauty",
+  "day": "11",
+  "post": "4335565645209860343",
+  "source_urls": [
+    "https://www.mfds.go.kr/eng/wpge/m_24/de011014l001.do",
+    "https://mfds.go.kr/wpge/m_639/de050601l001.do",
+    "https://www.law.go.kr/",
+    "https://www.kca.go.kr/eng/"
+  ],
+  "image_manifest": [
+    {
+      "name": "01_evidence_functional_versus_ordinary_cosmetics.webp",
+      "title": "Functional versus ordinary cosmetics",
+      "subtitle": "Product legal classification and claimed function",
+      "url": "https://www.mfds.go.kr/eng/wpge/m_24/de011014l001.do",
+      "type": "compare",
+      "items": [
+        [
+          "Functional",
+          "Defined functions reviewed|under Korean cosmetics law"
+        ],
+        [
+          "Ordinary",
+          "Cosmetic without a|regulated function claim"
+        ],
+        [
+          "Drug",
+          "A different category|requiring its own review"
+        ]
+      ]
+    },
+    {
+      "name": "02_evidence_mfds_skin_function_examples.webp",
+      "title": "MFDS skin function examples",
+      "subtitle": "Do not convert a cosmetics claim into medical therapy",
+      "url": "https://www.mfds.go.kr/eng/wpge/m_24/de011014l001.do",
+      "type": "compare",
+      "items": [
+        [
+          "Brightening",
+          "Skin whitening-related|recognized function"
+        ],
+        [
+          "Wrinkles",
+          "Improving the appearance|of wrinkles"
+        ],
+        [
+          "UV protection",
+          "Sunscreen and|protection claims"
+        ]
+      ]
+    },
+    {
+      "name": "03_evidence_hair_related_functional_examples.webp",
+      "title": "Hair-related functional examples",
+      "subtitle": "Regulated hair categories are not all the same",
+      "url": "https://mfds.go.kr/wpge/m_639/de050601l001.do",
+      "type": "steps",
+      "items": [
+        [
+          "Hair dye",
+          "Except specified|temporary color"
+        ],
+        [
+          "Bleaching",
+          "Lightening hair|under category rules"
+        ],
+        [
+          "Hair loss",
+          "Helping alleviate symptoms|not disease cure"
+        ]
+      ]
+    },
+    {
+      "name": "04_evidence_cosmeceutical_is_not_a_license.webp",
+      "title": "Cosmeceutical is not a license",
+      "subtitle": "Marketing vocabulary versus recognized regulatory class",
+      "url": "https://www.mfds.go.kr/eng/wpge/m_24/de011014l001.do",
+      "type": "steps",
+      "items": [
+        [
+          "Claim",
+          "Read exact promise|on retail package"
+        ],
+        [
+          "Category",
+          "Find legal classification|and reported function"
+        ],
+        [
+          "Evidence",
+          "Cross-check MFDS|and the actual product"
+        ]
+      ]
+    },
+    {
+      "name": "05_evidence_label_content_inspection.webp",
+      "title": "Label content inspection",
+      "subtitle": "Read the package before treating an item as regulated",
+      "url": "https://mfds.go.kr/wpge/m_639/de050601l001.do",
+      "type": "matrix",
+      "items": [
+        [
+          "Brand and maker",
+          "Check responsible seller|or manufacturer"
+        ],
+        [
+          "Ingredient list",
+          "Read disclosed|formula labeling"
+        ],
+        [
+          "Usage warnings",
+          "Follow relevant|precautions"
+        ]
+      ]
+    },
+    {
+      "name": "06_evidence_spot_risky_therapeutic_promises.webp",
+      "title": "Spot risky therapeutic promises",
+      "subtitle": "A cosmetic claim and an illness claim are different",
+      "url": "https://www.mfds.go.kr/eng/wpge/m_24/de011014l001.do",
+      "type": "compare",
+      "items": [
+        [
+          "Cosmetic",
+          "Appearance and|routine skin care"
+        ],
+        [
+          "Treatment",
+          "Cure or prevention|requires stronger basis"
+        ],
+        [
+          "Verification",
+          "Check MFDS classification|and evidence"
+        ]
+      ]
+    },
+    {
+      "name": "07_evidence_foreign_shoppers_verification_path.webp",
+      "title": "Foreign shoppers verification path",
+      "subtitle": "Korean packaging may need independent translation",
+      "url": "https://www.mfds.go.kr/eng/wpge/m_24/de011014l001.do",
+      "type": "timeline",
+      "items": [
+        [
+          "Identify",
+          "Official product name|and type"
+        ],
+        [
+          "Translate",
+          "Separate claims|from marketing copy"
+        ],
+        [
+          "Check",
+          "Use MFDS and|KCA information"
+        ]
+      ]
+    }
+  ],
+  "notes": "Original diagram with no third-party photo assets. Quantitative charts require explicit source-confirmed value rows."
+}
