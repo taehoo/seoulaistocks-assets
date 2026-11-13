@@ -1,0 +1,81 @@
+{
+  "article": "충청권 메가프로젝트 11월 12일 착공: 삼성 온양 HBM 공장과 지역 소부장 공급망의 실질 변화",
+  "article_id": "3041035242312250418",
+  "desk": "ko",
+  "source_html_sha256": "a2949a3e66242eb6171089d68e79c03b03ded4dadeaec0c78ee794e4e2b8ea92",
+  "photo_rights": {
+    "file": "licensed-photo.webp",
+    "sha256": "64893de0f44a409c7ed6eca40cbf3ea282efa3770e416ee48fca7498c649a607",
+    "filename": "semiconductor_staff.webp",
+    "original_source": "https://commons.wikimedia.org/wiki/File:Inside_the_Cleanroom_III.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Niftyfiftycat",
+    "conversion": "to WebP, content unchanged",
+    "caption": "illustrative only"
+  },
+  "images": [
+    {
+      "name": "feature-06.webp",
+      "sha256": "c9871191e3ecd3071ac181984bb5c662e7a671fa39e6fc18945823904ee51bc4",
+      "size": 21006
+    },
+    {
+      "name": "feature-07.webp",
+      "sha256": "f6711340a6dc85086b646224a49c05b83750bef153d2aaa961026790af1f79d8",
+      "size": 26984
+    },
+    {
+      "name": "feature-08.webp",
+      "sha256": "c89c839516401e55ff70df656940fb9ac846f2a681c6bcce05c7a5d8a9458aad",
+      "size": 32524
+    },
+    {
+      "name": "feature-09.webp",
+      "sha256": "94557a4da0ab3fb2eddc763e992f2fa6a49b578b10738084caea35ac4ac4dede",
+      "size": 34482
+    },
+    {
+      "name": "feature-10.webp",
+      "sha256": "948c39982656052bd09d894b4d494262d5dc063a183a20951a175aa79dc60d63",
+      "size": 36848
+    },
+    {
+      "name": "feature-11.webp",
+      "sha256": "9bb9c97b7174913de58ca3a9ccc9d086929b0cd02db8eed0a5fb4c480f0922ff",
+      "size": 37094
+    },
+    {
+      "name": "feature-12.webp",
+      "sha256": "810058d8314a7c9191f3d2dc8924c8c82bd228b2fee03878bc6822f792fe78b4",
+      "size": 34306
+    },
+    {
+      "name": "figure-01.webp",
+      "sha256": "0de768f249b8ae4ed1fb4e79894341ef0b1862a9972c79acc63af18d2ab690a0",
+      "size": 69626
+    },
+    {
+      "name": "figure-02.webp",
+      "sha256": "8ff7198a70134b15776ffb9dc44e0e946d8c4771228ec8a8258dd69c4dd879a1",
+      "size": 24612
+    },
+    {
+      "name": "figure-03.webp",
+      "sha256": "b26fe547b2c7e1745b28e315d608c0d68c543bc22e038c9313e4ddd412dcc2e8",
+      "size": 35270
+    },
+    {
+      "name": "figure-04.webp",
+      "sha256": "1a31fab453d23a5abd3fefdab8d094e0f699fb192710adeaa2aff73a7a6124eb",
+      "size": 37444
+    },
+    {
+      "name": "licensed-photo.webp",
+      "sha256": "64893de0f44a409c7ed6eca40cbf3ea282efa3770e416ee48fca7498c649a607",
+      "size": 52330
+    }
+  ],
+  "public_deployment_status": "NOT_RELEASED_PENDING_FACT_COPYRIGHT_MOTION200",
+  "prepared_at": "2026-11-13T19:44:24.786864+09:00"
+}

@@ -1,0 +1,81 @@
+{
+  "article": "Korea’s New G-1-3 Stay Route in Parentage Cases: Six Months, Documents and a Separate Work Permit",
+  "article_id": "8630554961992454015",
+  "desk": "kvisa",
+  "source_html_sha256": "f3d5ab82354f939a471b2a52def3ebe04a589d3f6402f03244cdc605bd5bc3d7",
+  "photo_rights": {
+    "file": "licensed-photo.webp",
+    "sha256": "80290c7cbd64293ec214b342bbe6f830fa3417d8023ad006098a23362f170592",
+    "filename": "korean_passport.webp",
+    "original_source": "https://commons.wikimedia.org/wiki/File:2025_South_Korean_passport_Visas_Page_24_-_25.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Ranch9613",
+    "conversion": "to WebP, content unchanged",
+    "caption": "illustrative only"
+  },
+  "images": [
+    {
+      "name": "feature-06.webp",
+      "sha256": "e77e90b732dfd757ef4dcf2f8dc50fd9541c5e885d67751173db7e669f760391",
+      "size": 42794
+    },
+    {
+      "name": "feature-07.webp",
+      "sha256": "d539fcc46dffaa6f4073f43f8b0412ebac1213b43b835146c9bb5a7951078683",
+      "size": 45826
+    },
+    {
+      "name": "feature-08.webp",
+      "sha256": "4dc39ab249221e944ba0f17c7d49bc75d3ae3ea11d5cda3d6719af45fde33196",
+      "size": 51718
+    },
+    {
+      "name": "feature-09.webp",
+      "sha256": "ec3354d3b613408c9054e46abb05324437ce79dff8bbc42e6100d38a99090580",
+      "size": 45960
+    },
+    {
+      "name": "feature-10.webp",
+      "sha256": "d958d50efbc1aceba6e5a5d36defb3eb1ca89be415159d39244866b981526e0e",
+      "size": 46738
+    },
+    {
+      "name": "feature-11.webp",
+      "sha256": "111212403d6e18f9440d50cf5dcba05dba6d515e6f5421f48db825c14d4ae0d8",
+      "size": 41556
+    },
+    {
+      "name": "feature-12.webp",
+      "sha256": "3435afa4e40d41a2e3fb0030583063ba12a37080fc7e1726431602e73a8d35f1",
+      "size": 47484
+    },
+    {
+      "name": "figure-01.webp",
+      "sha256": "c6f4573daed62633c780ced17877f4f8fd83d94e5c61fb2c5696a8e559251a88",
+      "size": 201858
+    },
+    {
+      "name": "figure-02.webp",
+      "sha256": "d10c814f4a465d4deea0215959cf5eed266939cbce1e6c76328277171c4a4ed5",
+      "size": 34418
+    },
+    {
+      "name": "figure-03.webp",
+      "sha256": "5133059241b6764c0f44f6ed5681781f63bfa0a4836d024e4748c0f542e5b46f",
+      "size": 40904
+    },
+    {
+      "name": "figure-04.webp",
+      "sha256": "4a2f3136b7c3039a3553223993e29c8b3a1274ec0d2c05a90b87319364d9a30a",
+      "size": 45442
+    },
+    {
+      "name": "licensed-photo.webp",
+      "sha256": "80290c7cbd64293ec214b342bbe6f830fa3417d8023ad006098a23362f170592",
+      "size": 263726
+    }
+  ],
+  "public_deployment_status": "NOT_RELEASED_PENDING_FACT_COPYRIGHT_MOTION200",
+  "prepared_at": "2026-11-13T19:44:24.819361+09:00"
+}

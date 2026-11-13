@@ -1,0 +1,86 @@
+{
+  "article": "Where Korea’s NPS KRW 1,684.4tn Fund Came From: Contributions, Investment Income and Benefits",
+  "article_id": "7130406415824928648",
+  "desk": "nps",
+  "source_html_sha256": "b96aacde93a74d4ed96c5e05f00103224f0196fdcccca6f5d92bab30d3acf317",
+  "photo_rights": {
+    "file": "licensed-photo.webp",
+    "sha256": "69faca0637eead828c832431aad071c087aa0599ec13c8dbacf9e6f0b50da5d9",
+    "filename": "NY stock exchange traders floor LC-U9-10548-6.jpg",
+    "original_source": "https://commons.wikimedia.org/wiki/File:NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "author": "Thomas J. O'Halloran",
+    "conversion": "16:9 crop, resize to WebP (editorial adaptation)",
+    "caption": "historical New York Stock Exchange trading floor, illustrative only; not an image of NPS trading or the reported 2026 event",
+    "illustrative_only": true,
+    "source_original_dimensions": [
+      4537,
+      3004
+    ]
+  },
+  "images": [
+    {
+      "name": "feature-06.webp",
+      "sha256": "31a80f312072b72322a0d824b0b03eec7e8bc10cc1c36dc9a8fe8793b3a5e263",
+      "size": 38336
+    },
+    {
+      "name": "feature-07.webp",
+      "sha256": "7163525a164d3a6e07edcd61cc6ba968a862e49f8415336a9fdf7e2ad5632fe9",
+      "size": 45948
+    },
+    {
+      "name": "feature-08.webp",
+      "sha256": "19b3d9a81a3fdbb65a4c53779abcfa1c0bd60d6cb6cc74cdbdd02d3a283f2c94",
+      "size": 44464
+    },
+    {
+      "name": "feature-09.webp",
+      "sha256": "f0cecd6b7b94f1c37ca36616acb5f396977a130c0b9ced8998593917d1b3d7e8",
+      "size": 44908
+    },
+    {
+      "name": "feature-10.webp",
+      "sha256": "246208f0440777c6b03a1bbe12f9e6a25046b239e6e32ea7c750306404372813",
+      "size": 45960
+    },
+    {
+      "name": "feature-11.webp",
+      "sha256": "a856ebdf914630548f1e9efea408bd9d1b27da4aa7cb53a29a945e0153b31fa4",
+      "size": 40960
+    },
+    {
+      "name": "feature-12.webp",
+      "sha256": "6281030d58f72e3a541bd8173cd547a26b866968b34241b7506c305b8529f764",
+      "size": 46336
+    },
+    {
+      "name": "figure-01.webp",
+      "sha256": "bdaa4cddb6c6aea2baf5c95ed0a7028663959fab38057cee541aa4ac468a2b39",
+      "size": 181640
+    },
+    {
+      "name": "figure-02.webp",
+      "sha256": "000ff4f37d3472c47ef673c59210b71ddaf70522ac56b7669c990f5eca3ad37b",
+      "size": 41648
+    },
+    {
+      "name": "figure-03.webp",
+      "sha256": "e3a2b8f091c35cae624ba3caab17cb43d2f9f9ffadfe54faf2beda0cdb5ddc08",
+      "size": 37732
+    },
+    {
+      "name": "figure-04.webp",
+      "sha256": "48f242f252f36ce06376717c2325ff81064dc973fb76fc6624c1047818a70493",
+      "size": 45024
+    },
+    {
+      "name": "licensed-photo.webp",
+      "sha256": "69faca0637eead828c832431aad071c087aa0599ec13c8dbacf9e6f0b50da5d9",
+      "size": 254512
+    }
+  ],
+  "public_deployment_status": "NOT_RELEASED_PENDING_FACT_COPYRIGHT_MOTION200",
+  "prepared_at": "2026-11-13T19:44:24.902943+09:00"
+}

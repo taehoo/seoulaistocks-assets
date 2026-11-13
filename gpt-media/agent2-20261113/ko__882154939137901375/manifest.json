@@ -1,0 +1,83 @@
+{
+  "article": "11월 12일 코스피 5,342.73: 외국인 순매수에도 기관 매도로 하락한 배경",
+  "article_id": "882154939137901375",
+  "desk": "ko",
+  "source_html_sha256": "0e309e767e7f636d0b59fc8399e84845ef4228843b50ad4407eaead3a7fb81d4",
+  "photo_rights": {
+    "file": "licensed-photo.webp",
+    "sha256": "caa580a397a6c647b7d3ca2a4f3ed6fba3f44520f745a4d3b70d6c87198cab3d",
+    "filename": "Korea exchange.JPG",
+    "original_source": "https://commons.wikimedia.org/wiki/File:Korea_exchange.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "hyolee2",
+    "conversion": "cropped to 16:9; resized to WebP for editorial background",
+    "caption": "한국거래소 부산 사옥 자료사진. 2026년 11월 12일 거래 현장 촬영사진 아님",
+    "illustrative_only": true,
+    "derivative_share_alike": true
+  },
+  "images": [
+    {
+      "name": "feature-06.webp",
+      "sha256": "fd25c29053c00e3d514c2a81f85a3fcebda3e1ac7b1fae2da15ed212d9b63633",
+      "size": 25482
+    },
+    {
+      "name": "feature-07.webp",
+      "sha256": "ef806bd1c1c3ff3bd4b34aae1c249dfcc95328be9537ad3ad6865d7683010b92",
+      "size": 31098
+    },
+    {
+      "name": "feature-08.webp",
+      "sha256": "87656f5008a1c9b65087aa21aaf729ea334ee0a2e80b6492caf89e665c2c7a3c",
+      "size": 33726
+    },
+    {
+      "name": "feature-09.webp",
+      "sha256": "f5cd3712feb994378c8e31c08d770243d71dcbd47ad6d8cf5592450e221b1d95",
+      "size": 34056
+    },
+    {
+      "name": "feature-10.webp",
+      "sha256": "4021880797843b48e9b83e5364b6bcad4eb09c91490a0b39b04de8c7bd975499",
+      "size": 31318
+    },
+    {
+      "name": "feature-11.webp",
+      "sha256": "29d368ce97e1dca13715472cb27ee2cb609d9e7fe21424e94502625d04263657",
+      "size": 47212
+    },
+    {
+      "name": "feature-12.webp",
+      "sha256": "6b8dbb6a63048e0e42640298f21a0072310aa331424f19eac86df75dea69e82e",
+      "size": 33678
+    },
+    {
+      "name": "figure-01.webp",
+      "sha256": "aa6e70f0583031d8a3a8d813b5497e42c93774d466a3e18e7fd6d8ecde88d274",
+      "size": 126660
+    },
+    {
+      "name": "figure-02.webp",
+      "sha256": "88cbb79a6153b82a0e819a17fb053d4ce895da0b1706372429a8388f60ce5a2b",
+      "size": 23662
+    },
+    {
+      "name": "figure-03.webp",
+      "sha256": "8b631112ad15849a119b966c373cb3ce7c1256055555e99f7c0e92a17bcc2c67",
+      "size": 29426
+    },
+    {
+      "name": "figure-04.webp",
+      "sha256": "cd1f5d81681c6c9262284e65ef84b4609aee1e121898b9dd11b85af9f5a9596d",
+      "size": 36976
+    },
+    {
+      "name": "licensed-photo.webp",
+      "sha256": "caa580a397a6c647b7d3ca2a4f3ed6fba3f44520f745a4d3b70d6c87198cab3d",
+      "size": 182638
+    }
+  ],
+  "public_deployment_status": "NOT_RELEASED_PENDING_FACT_COPYRIGHT_MOTION200",
+  "prepared_at": "2026-11-13T19:44:24.743544+09:00"
+}

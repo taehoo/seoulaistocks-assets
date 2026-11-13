@@ -1,0 +1,81 @@
+{
+  "article": "Korea’s 2027 Dental Insurance Expansion: Who Qualifies for Two Implants and Resin Treatment?",
+  "article_id": "8580105256658057512",
+  "desk": "kmed",
+  "source_html_sha256": "748c9e7300e9037621c7ea81fd682cef2a54a796656e1364581f77d72cf31477",
+  "photo_rights": {
+    "file": "licensed-photo.webp",
+    "sha256": "94a118ebb0485795e5920f038ff75eb17a3cdd6fd938e91479cf0c09bdfe845a",
+    "filename": "dental_clinic.webp",
+    "original_source": "https://commons.wikimedia.org/wiki/File:A_dental_professional_in_protective_gear_is_preparing_to_use_an_orange_dental_device.jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Shixart1985",
+    "conversion": "to WebP, content unchanged",
+    "caption": "illustrative only"
+  },
+  "images": [
+    {
+      "name": "feature-06.webp",
+      "sha256": "9e6907ede51077be19607689e6977354b89403f036afbda8788c1360e75f67e1",
+      "size": 43864
+    },
+    {
+      "name": "feature-07.webp",
+      "sha256": "b2de4f6fa88143f81d68b9660c7316a2deb6e54f2d1f2579c84bcdf8669f2127",
+      "size": 46210
+    },
+    {
+      "name": "feature-08.webp",
+      "sha256": "a1e9ad0dce51eb4a7656e0a5de84735aa9768546c1c2436f263e5d2fb21345ce",
+      "size": 52248
+    },
+    {
+      "name": "feature-09.webp",
+      "sha256": "4dacda8dbec705460c5c2c014d00c8cbe31bcf1e796dd979c2bd22fb3c7ae841",
+      "size": 48670
+    },
+    {
+      "name": "feature-10.webp",
+      "sha256": "d455d718d49303fb1abeb72c62fe6b9893b49e4289c9f4f861034278d3a283c7",
+      "size": 49952
+    },
+    {
+      "name": "feature-11.webp",
+      "sha256": "fe0564227c24a0baec2b7673f2627685cd4b0464a608945d85a45f93054561ab",
+      "size": 44554
+    },
+    {
+      "name": "feature-12.webp",
+      "sha256": "039f529e8f9c6fc9ffd3c379f0cca3d3e5598da68992845f14b13ae8e308a783",
+      "size": 45882
+    },
+    {
+      "name": "figure-01.webp",
+      "sha256": "4be118e8659616f6e63fd8d14ee20ec31d6acbfe10d69e01184e020cc2dd939f",
+      "size": 59560
+    },
+    {
+      "name": "figure-02.webp",
+      "sha256": "e20d5969c76e00057d5bcc8d55cd10c43a30ec7e4180a20235556e3382b3b5c9",
+      "size": 61072
+    },
+    {
+      "name": "figure-03.webp",
+      "sha256": "53f7ffb925600d80bb42e40210af1a82ef2badaf18df7279ad64c7503a3aff12",
+      "size": 41192
+    },
+    {
+      "name": "figure-04.webp",
+      "sha256": "787081891fe76b4e2c489cf0811bef999a7a0c8cc75b506323ce42d4c2f4259c",
+      "size": 47384
+    },
+    {
+      "name": "licensed-photo.webp",
+      "sha256": "94a118ebb0485795e5920f038ff75eb17a3cdd6fd938e91479cf0c09bdfe845a",
+      "size": 38976
+    }
+  ],
+  "public_deployment_status": "NOT_RELEASED_PENDING_FACT_COPYRIGHT_MOTION200",
+  "prepared_at": "2026-11-13T19:44:24.686840+09:00"
+}

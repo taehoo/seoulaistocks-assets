@@ -1,0 +1,81 @@
+{
+  "article": "Samsung's KRW 46 Trillion Onyang HBM Project: What Begins in 2026 and What Waits Until 2028",
+  "article_id": "1291566359027959982",
+  "desk": "en",
+  "source_html_sha256": "f6be22926df8e8ba3a677a5caa4b5f0acf609ed715a37eb79aaada13c4bb22cf",
+  "photo_rights": {
+    "file": "licensed-photo.webp",
+    "sha256": "e8c0ab3305a616ea7159cbbf37281769e9be73d276fb0a1a9210ae88913d6b14",
+    "filename": "semiconductor_cleanroom.webp",
+    "original_source": "https://commons.wikimedia.org/wiki/File:Clean_room.jpg",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "author": "Uploaded by  Duk  08:45, 16 Feb 2005 (UTC)",
+    "conversion": "to WebP, content unchanged",
+    "caption": "illustrative only"
+  },
+  "images": [
+    {
+      "name": "feature-06.webp",
+      "sha256": "acc2f774c8f0746a3635569a68bac2366640130d5b3827ed0fd86ba61ae634b4",
+      "size": 33980
+    },
+    {
+      "name": "feature-07.webp",
+      "sha256": "3f233869a61439986754069fd782b12d3eb599306529f59d0026ad4baa8c2ed2",
+      "size": 42556
+    },
+    {
+      "name": "feature-08.webp",
+      "sha256": "4db179f9f5adf891bacaebd4c700d7e003f54b40c1b921fa7506c299d6455353",
+      "size": 48752
+    },
+    {
+      "name": "feature-09.webp",
+      "sha256": "832cbda378b8d0440388698438ebc9d03cdb2b41fae5c00ad10fe487d3882905",
+      "size": 52048
+    },
+    {
+      "name": "feature-10.webp",
+      "sha256": "44d53879bf428e3fa1f78b620ef6f68bc6822a61507c2b1e2f0609c8bdc8db0a",
+      "size": 52302
+    },
+    {
+      "name": "feature-11.webp",
+      "sha256": "984c206f6fbc3536932821f0e34aca59bc500ba2c16a927a0f0dd4e79803723f",
+      "size": 36118
+    },
+    {
+      "name": "feature-12.webp",
+      "sha256": "41c613a1179a6037a82ba97261d82428e6f372a9e765daefee3c307ac34c449d",
+      "size": 48718
+    },
+    {
+      "name": "figure-01.webp",
+      "sha256": "19b00fc11abdba9194756bfde9f16ff21e346cc3773211b689f5f0913f57adf2",
+      "size": 196820
+    },
+    {
+      "name": "figure-02.webp",
+      "sha256": "ea6177512e87ead13cddc083f817881653aa1aa6f5056990719bceeea851d20c",
+      "size": 30372
+    },
+    {
+      "name": "figure-03.webp",
+      "sha256": "a046a57ddcee866c29a8491633bf5287f532885471b22aae5612e1e92d160023",
+      "size": 41200
+    },
+    {
+      "name": "figure-04.webp",
+      "sha256": "b8b452535797b9ff29ce42310b1c9d01a343f238b983abdb3b2050dca418592e",
+      "size": 39160
+    },
+    {
+      "name": "licensed-photo.webp",
+      "sha256": "e8c0ab3305a616ea7159cbbf37281769e9be73d276fb0a1a9210ae88913d6b14",
+      "size": 250754
+    }
+  ],
+  "public_deployment_status": "NOT_RELEASED_PENDING_FACT_COPYRIGHT_MOTION200",
+  "prepared_at": "2026-11-13T19:44:24.646086+09:00"
+}

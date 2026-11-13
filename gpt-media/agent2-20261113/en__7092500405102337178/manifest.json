@@ -1,0 +1,81 @@
+{
+  "article": "Nvidia CEO Resignation Confirmed by SEC: The Korean HBM Supplier Contract Reality Check",
+  "article_id": "7092500405102337178",
+  "desk": "en",
+  "source_html_sha256": "974d378a105c50c53304db957b35b6771b570fbf9b383e048c63f5910590db74",
+  "photo_rights": {
+    "file": "licensed-photo.webp",
+    "sha256": "94cf75f061b39c19925d97da4a4eb23890ae2c04f817f70a210d67bf8bc7a615",
+    "filename": "data_center.webp",
+    "original_source": "https://commons.wikimedia.org/wiki/File:Rear_of_rack_at_NERSC_data_center_-_closeup.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Derrick Coetzee  from Berkeley, CA, USA",
+    "conversion": "to WebP, content unchanged",
+    "caption": "illustrative only"
+  },
+  "images": [
+    {
+      "name": "feature-06.webp",
+      "sha256": "f90d55d99e149b50761a5a82fe8e87238ed91aed1218ed2aaf343f8917344c3b",
+      "size": 47422
+    },
+    {
+      "name": "feature-07.webp",
+      "sha256": "71a0a8789ee2403669edc5091a29dc87f3254c95a94306b8bb520f45ea86b9d1",
+      "size": 53192
+    },
+    {
+      "name": "feature-08.webp",
+      "sha256": "67d16c05eb3801c591b899288c4b60e9f41375660c87fb297a5a8b3175bc9724",
+      "size": 57578
+    },
+    {
+      "name": "feature-09.webp",
+      "sha256": "f82b84dd4a4d92be286f76086771241ab4372ea29aceadd2009db5006d8d3118",
+      "size": 55524
+    },
+    {
+      "name": "feature-10.webp",
+      "sha256": "6a0cb395f3e346e882862639bdcc490406fbb2c27c508a71e4973d30ffbbe457",
+      "size": 54736
+    },
+    {
+      "name": "feature-11.webp",
+      "sha256": "de202bec7b5c3323f1df061f74d131183bea35fdcfae83f6725581368b11eb1a",
+      "size": 51090
+    },
+    {
+      "name": "feature-12.webp",
+      "sha256": "c5829bab4ffd2f389c8980313811552dd60eb49ead83bb595524f195b7385918",
+      "size": 49402
+    },
+    {
+      "name": "figure-01.webp",
+      "sha256": "9f35376ace9b80b0962b89f458f42057f1d25880469d7c1e93e6b8a9266fb080",
+      "size": 321030
+    },
+    {
+      "name": "figure-02.webp",
+      "sha256": "1a4877acca386827ec1ef11d843c85b9fd3ec3b06da1b7da46c4c56f24d75e86",
+      "size": 40588
+    },
+    {
+      "name": "figure-03.webp",
+      "sha256": "835cd6382fbc39db5670dbf37adb922ee3ccc2b8aa7e3954fb21b711eb0089d9",
+      "size": 41444
+    },
+    {
+      "name": "figure-04.webp",
+      "sha256": "d5e2b22ca9e12e1e8cf5ebf11ac51eaf49b31c34a9a4298aea1f6219e308e5a5",
+      "size": 44558
+    },
+    {
+      "name": "licensed-photo.webp",
+      "sha256": "94cf75f061b39c19925d97da4a4eb23890ae2c04f817f70a210d67bf8bc7a615",
+      "size": 817274
+    }
+  ],
+  "public_deployment_status": "NOT_RELEASED_PENDING_FACT_COPYRIGHT_MOTION200",
+  "prepared_at": "2026-11-13T19:44:24.631248+09:00"
+}

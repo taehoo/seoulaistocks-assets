@@ -1,0 +1,81 @@
+{
+  "article": "KOSPI Closed at 5,342.73 on November 12: Samsung Rose While SK hynix Fell",
+  "article_id": "3062055160566553413",
+  "desk": "en",
+  "source_html_sha256": "62aadcedd9e68f8e88e061aed0a8a527566e4e656a7b8ee62192f889183c8d0f",
+  "photo_rights": {
+    "file": "licensed-photo.webp",
+    "sha256": "8a079af196b00902affc203ff62cc6181cd9990f68423e5829aa550c11cf22ee",
+    "filename": "yeouido_city.webp",
+    "original_source": "https://commons.wikimedia.org/wiki/File:November_2019_Yeouido_02.jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Willem van Valkenburg",
+    "conversion": "to WebP, content unchanged",
+    "caption": "illustrative only"
+  },
+  "images": [
+    {
+      "name": "feature-06.webp",
+      "sha256": "c94640c276925d21fa24ed2771fc37b00a5872c24f912b687d8b931391e02d60",
+      "size": 39476
+    },
+    {
+      "name": "feature-07.webp",
+      "sha256": "f054f302fb115690fa1b45ffce27ab4ef0e761fc36baf925e4e0ddea4ece42be",
+      "size": 51252
+    },
+    {
+      "name": "feature-08.webp",
+      "sha256": "4c017826fd984fd84481e296e93b45d977c1d9293e49c1a926ec1acf2e5592da",
+      "size": 49310
+    },
+    {
+      "name": "feature-09.webp",
+      "sha256": "b88cfc0daba0d2257382dd2b442c812ace21f0481763ecf3a0ee87ddfc9fe468",
+      "size": 51406
+    },
+    {
+      "name": "feature-10.webp",
+      "sha256": "54f46d9b08fa0de96a03534d29ebe199ac0046805edbe3f0356711374a3fa951",
+      "size": 51462
+    },
+    {
+      "name": "feature-11.webp",
+      "sha256": "a13774cfbd6d42548937534b816bb9537c244c3867041a05782bde55fbb33619",
+      "size": 55666
+    },
+    {
+      "name": "feature-12.webp",
+      "sha256": "3c23648a15dfd3212034ddb26d1b7e6178aa1f7de34e689c2d1db75c4579f858",
+      "size": 48202
+    },
+    {
+      "name": "figure-01.webp",
+      "sha256": "5df84c6935fd9e604776718914151f23a919a2323f36dc378197087157964eb8",
+      "size": 160262
+    },
+    {
+      "name": "figure-02.webp",
+      "sha256": "92325f569cdec9f1d62b0fbd1e5661b96986552b747d6225006717e1c47de0c5",
+      "size": 31712
+    },
+    {
+      "name": "figure-03.webp",
+      "sha256": "14c273953f6048422e9030556ddc056da8e654307e8eb7694584f2e9092a36c6",
+      "size": 37492
+    },
+    {
+      "name": "figure-04.webp",
+      "sha256": "affeb3f0c73e3b476594649fe7fe257ac64c0387db42588ee6c3d589fd18e53f",
+      "size": 42390
+    },
+    {
+      "name": "licensed-photo.webp",
+      "sha256": "8a079af196b00902affc203ff62cc6181cd9990f68423e5829aa550c11cf22ee",
+      "size": 173230
+    }
+  ],
+  "public_deployment_status": "NOT_RELEASED_PENDING_FACT_COPYRIGHT_MOTION200",
+  "prepared_at": "2026-11-13T19:44:24.608216+09:00"
+}

@@ -1,0 +1,81 @@
+{
+  "article": "Medical Korea Lists 4,506 Registered Hospitals and 2,939 Facilitators: What a Patient Should Verify",
+  "article_id": "3732809915707735134",
+  "desk": "kmed",
+  "source_html_sha256": "a9a019d5971be8e76d5ad196b491c5226e9617f5ca50dacfbc9a48a27b666ffe",
+  "photo_rights": {
+    "file": "licensed-photo.webp",
+    "sha256": "838f972d41e17c6a85b563eeb4be074461a675b7fe5d5f0ebe10a4d6788db6d4",
+    "filename": "hospital_reception.webp",
+    "original_source": "https://commons.wikimedia.org/wiki/File:Hospital_receptionist_desk.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Fatimah Bello",
+    "conversion": "to WebP, content unchanged",
+    "caption": "illustrative only"
+  },
+  "images": [
+    {
+      "name": "feature-06.webp",
+      "sha256": "ae8ea4eb584450ecfbfe46196509190a4a778d95bec47c728867020c7159595d",
+      "size": 36236
+    },
+    {
+      "name": "feature-07.webp",
+      "sha256": "ceccff12e7bf65ce6ec1852e579b8f1ec865aa36637e0d73b0277d50ceaeeafa",
+      "size": 53494
+    },
+    {
+      "name": "feature-08.webp",
+      "sha256": "4cd235c5f19028c82ef6612e01da670a7d7b350d66f8110947ed3fb6a6d17f2a",
+      "size": 48438
+    },
+    {
+      "name": "feature-09.webp",
+      "sha256": "a78909dbe6d6721bc598787a3721dcc520d1d7e4b556c4f813ad374e05eb5e94",
+      "size": 41528
+    },
+    {
+      "name": "feature-10.webp",
+      "sha256": "02921b8d07ff244537b4dbb8d66cae1f4d9d60c96cc7a48f9b32b2e5b6b37912",
+      "size": 56190
+    },
+    {
+      "name": "feature-11.webp",
+      "sha256": "315bbe5db1a783d9579697c59cbadfa5007d017d68e95607321264263c9edb88",
+      "size": 34730
+    },
+    {
+      "name": "feature-12.webp",
+      "sha256": "fc2eb67b0932a74c3e77f344976af72b77a2b08bf9e3d9258ef3a482988f03d1",
+      "size": 47684
+    },
+    {
+      "name": "figure-01.webp",
+      "sha256": "1b65192cbe803f3f5885b547291baa656154932eb9c4e35128245a10e526d3a3",
+      "size": 75540
+    },
+    {
+      "name": "figure-02.webp",
+      "sha256": "6e73258e050a9d1c6a198f8c994c00be057409b489e8f1d4633860f5348c1432",
+      "size": 39742
+    },
+    {
+      "name": "figure-03.webp",
+      "sha256": "848eeba30268a95406e883899bd51a67131bdbd0d584465a76d85261fbbec154",
+      "size": 36782
+    },
+    {
+      "name": "figure-04.webp",
+      "sha256": "5ba7632e546c397f7573a61a64eb1de133bffd72cbaa85156c8b1babb2d12f6f",
+      "size": 45350
+    },
+    {
+      "name": "licensed-photo.webp",
+      "sha256": "838f972d41e17c6a85b563eeb4be074461a675b7fe5d5f0ebe10a4d6788db6d4",
+      "size": 63160
+    }
+  ],
+  "public_deployment_status": "NOT_RELEASED_PENDING_FACT_COPYRIGHT_MOTION200",
+  "prepared_at": "2026-11-13T19:44:24.712795+09:00"
+}

@@ -1,0 +1,83 @@
+{
+  "article": "미국 CXMT 규제 요구와 한국 D램: 상원 발언·실제 제재·기업 실적을 구별해야 하는 이유",
+  "article_id": "9000659689501756047",
+  "desk": "ko",
+  "source_html_sha256": "9e8ffc85d37c4db37407518d501ba71266d527e97cbfd41125be883f6ccd3d35",
+  "photo_rights": {
+    "file": "licensed-photo.webp",
+    "sha256": "4c0d2bc1b2bdfe6fbb2f5b588fa77c47a9a522f082f69920fcd112862809c5a6",
+    "filename": "U.S. Department of Energy - Science - 463 011 001 (10314800216).jpg",
+    "original_source": "https://commons.wikimedia.org/wiki/File:U.S._Department_of_Energy_-_Science_-_463_011_001_(10314800216).jpg",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "author": "U.S. Department of Energy  from United States",
+    "conversion": "cropped to 16:9; resized to WebP for editorial background",
+    "caption": "미국 반도체 연구장비 자료사진. 중국 CXMT 공장 또는 제재 집행 장면 아님",
+    "illustrative_only": true,
+    "derivative_share_alike": false
+  },
+  "images": [
+    {
+      "name": "feature-06.webp",
+      "sha256": "9f9d03ad60754d71f7c0ee607b0e698d4f25f04a3883e81f1b265684cc9af833",
+      "size": 33116
+    },
+    {
+      "name": "feature-07.webp",
+      "sha256": "0dfc1f4633df85359fb632c3012dc2fabe7652ce7893a19974b94af0109500d1",
+      "size": 33926
+    },
+    {
+      "name": "feature-08.webp",
+      "sha256": "5d7d8eb930910c72b7a3231d2985f2b53072a8a4395c951b829b02f804693dca",
+      "size": 32234
+    },
+    {
+      "name": "feature-09.webp",
+      "sha256": "4e30b5c8e49ab822f9de992737bfb59316a629f06d5c539a5771effe4fc8f5be",
+      "size": 26912
+    },
+    {
+      "name": "feature-10.webp",
+      "sha256": "1bbc51bf3d0bb3e7a98e9cd29682f1ce49b7c55a5d2797a7bd7890285c188b33",
+      "size": 31720
+    },
+    {
+      "name": "feature-11.webp",
+      "sha256": "388b62d257d205a2718059abe835bfdf8dee5b20a63fba555c5e5e7bfe8381dc",
+      "size": 26562
+    },
+    {
+      "name": "feature-12.webp",
+      "sha256": "63bcc7cca486ee5270e442f8585c72315c463f68a0a61986673399938dc8b751",
+      "size": 33506
+    },
+    {
+      "name": "figure-01.webp",
+      "sha256": "1dfc1c73346ee2980623a70392114efbd987e531983e616539f700917e5f324b",
+      "size": 175988
+    },
+    {
+      "name": "figure-02.webp",
+      "sha256": "cdf98184444f5298ac7687ed64814a9f76c06fcd072619a482fc1baa19fe9694",
+      "size": 32516
+    },
+    {
+      "name": "figure-03.webp",
+      "sha256": "16811fa8a28f17b2ffbc3ac0e7893654373c7ac63ebd5be530263ad8a2b267a2",
+      "size": 36966
+    },
+    {
+      "name": "figure-04.webp",
+      "sha256": "1e6dd7407d73a16d802582c3602d7228d12529a4dbb6ad8883eb432888eaff06",
+      "size": 41954
+    },
+    {
+      "name": "licensed-photo.webp",
+      "sha256": "4c0d2bc1b2bdfe6fbb2f5b588fa77c47a9a522f082f69920fcd112862809c5a6",
+      "size": 246316
+    }
+  ],
+  "public_deployment_status": "NOT_RELEASED_PENDING_FACT_COPYRIGHT_MOTION200",
+  "prepared_at": "2026-11-13T19:44:24.771970+09:00"
+}

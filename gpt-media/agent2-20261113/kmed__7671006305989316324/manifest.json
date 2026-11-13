@@ -1,0 +1,81 @@
+{
+  "article": "Korea’s Foreign-Patient Broker Checks: How the 2026 Illegal-Solicitation Reporting Campaign Fits the Registry",
+  "article_id": "7671006305989316324",
+  "desk": "kmed",
+  "source_html_sha256": "a57cfc90f8fc25c09666d3d0fb3a29291719f637587c2093ae2ac8b19c6384a5",
+  "photo_rights": {
+    "file": "licensed-photo.webp",
+    "sha256": "d0e7fa73ba1d96c74775688bf93c6085a4bba4851f25b5b96194ae682cf1b161",
+    "filename": "medical_center.webp",
+    "original_source": "https://commons.wikimedia.org/wiki/File:Seoul_Medical_Center._Gangnam_01.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Exj",
+    "conversion": "to WebP, content unchanged",
+    "caption": "illustrative only"
+  },
+  "images": [
+    {
+      "name": "feature-06.webp",
+      "sha256": "e55d140ee08f2bf4161fc7c7813a13b08dddda886f8c16314d5025e302407e2c",
+      "size": 36768
+    },
+    {
+      "name": "feature-07.webp",
+      "sha256": "8c24ff7a27ea9ecdc218c600079262a404f3af1de10406f880a4fcf3be7e78e8",
+      "size": 47108
+    },
+    {
+      "name": "feature-08.webp",
+      "sha256": "5659aa771e3d38401b70dff870a59d12d7ca8fae152916bd81616a5255513548",
+      "size": 53636
+    },
+    {
+      "name": "feature-09.webp",
+      "sha256": "4c0d969c7ef06f011f44d81b76c8cea63923f767af28d417a0d5a4ac5d10142d",
+      "size": 47446
+    },
+    {
+      "name": "feature-10.webp",
+      "sha256": "c6592b9257d0cc98effef9bed6c7017a0a89d9652076e9c147bd746e5c3d0a19",
+      "size": 50768
+    },
+    {
+      "name": "feature-11.webp",
+      "sha256": "ba3eb0f231f0b1f5406018de1eed521792a5472b4c68809d2f82fa8f89318dc9",
+      "size": 43176
+    },
+    {
+      "name": "feature-12.webp",
+      "sha256": "fc2eb67b0932a74c3e77f344976af72b77a2b08bf9e3d9258ef3a482988f03d1",
+      "size": 47684
+    },
+    {
+      "name": "figure-01.webp",
+      "sha256": "9d5fb18843e332a92459bfe801264f331879b10fd208c33913b724cf05b13270",
+      "size": 222104
+    },
+    {
+      "name": "figure-02.webp",
+      "sha256": "95e49f8c8d108af94216e9113b66aa5ab71b45aa18b8ee59d41ebba720271277",
+      "size": 36234
+    },
+    {
+      "name": "figure-03.webp",
+      "sha256": "84a550b686daee74462c62cba037390f0834a761a66c6bd909b6e93420245bf8",
+      "size": 38304
+    },
+    {
+      "name": "figure-04.webp",
+      "sha256": "8f8d3ad017fe25806a1ecd8444e330f7276af6bee14412eb4b60ac7669c76a10",
+      "size": 46446
+    },
+    {
+      "name": "licensed-photo.webp",
+      "sha256": "d0e7fa73ba1d96c74775688bf93c6085a4bba4851f25b5b96194ae682cf1b161",
+      "size": 182278
+    }
+  ],
+  "public_deployment_status": "NOT_RELEASED_PENDING_FACT_COPYRIGHT_MOTION200",
+  "prepared_at": "2026-11-13T19:44:24.698311+09:00"
+}

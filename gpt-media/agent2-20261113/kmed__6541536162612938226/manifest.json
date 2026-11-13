@@ -1,0 +1,81 @@
+{
+  "article": "What Foreign Patients Actually Sought in Korea, 2009–2025: Dermatology Led at 34%",
+  "article_id": "6541536162612938226",
+  "desk": "kmed",
+  "source_html_sha256": "12062ac69e118c0a9e5766380d03ec48d3868af8a4b08b8e21e26f9cd7c4edda",
+  "photo_rights": {
+    "file": "licensed-photo.webp",
+    "sha256": "5413388443c5004a4ec7075b8594f201223e49bf4a3f0b0360989f0cd83f3d2c",
+    "filename": "hospital_asian.webp",
+    "original_source": "https://commons.wikimedia.org/wiki/File:Asan_Medical_Center.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Edit4567",
+    "conversion": "to WebP, content unchanged",
+    "caption": "illustrative only"
+  },
+  "images": [
+    {
+      "name": "feature-06.webp",
+      "sha256": "7d8e23f7f8039f0aef00ccbc5a5e1f12cc7d4a1cca63e857f6232ff3f9907bb7",
+      "size": 40834
+    },
+    {
+      "name": "feature-07.webp",
+      "sha256": "6519b1b62a9f9fc8d0e9e99acfb76a44722ec031533c50c9ae278b9feca90926",
+      "size": 46970
+    },
+    {
+      "name": "feature-08.webp",
+      "sha256": "dcf718065c806209a7c79865bcb05d6a5f91d34bf6204f666777393eca24167f",
+      "size": 52088
+    },
+    {
+      "name": "feature-09.webp",
+      "sha256": "b0f11198c9b2e1a3cbb460bff6e03cd8731426e0204c728c85a87e22f17350db",
+      "size": 44056
+    },
+    {
+      "name": "feature-10.webp",
+      "sha256": "fb3be25ff8d09de79cb49dfc2435c2a6df802170cad34e3a8f2038cb20b9e125",
+      "size": 57256
+    },
+    {
+      "name": "feature-11.webp",
+      "sha256": "8afdba057bb590fc611f42fc10373993840dcf62fac6eed12336e7398eacc83b",
+      "size": 43240
+    },
+    {
+      "name": "feature-12.webp",
+      "sha256": "fc2eb67b0932a74c3e77f344976af72b77a2b08bf9e3d9258ef3a482988f03d1",
+      "size": 47684
+    },
+    {
+      "name": "figure-01.webp",
+      "sha256": "6992239fc41a7c136fd01fd8547e390904642bcd42f5142cb5da57498e01c868",
+      "size": 347782
+    },
+    {
+      "name": "figure-02.webp",
+      "sha256": "adb8615c175d6014169b7e1c26c1848df1657535769fab6f1151eb5bfa84f80c",
+      "size": 50918
+    },
+    {
+      "name": "figure-03.webp",
+      "sha256": "c862f8b54c3f6e3ddf9e8b3545b1b105ba60150f602d8c0c7d0bcebb2f75e8b7",
+      "size": 37448
+    },
+    {
+      "name": "figure-04.webp",
+      "sha256": "c2e7b3fb537da808d53d4b48874b1b0a765b0420ae93aa2fd371bac8e61e2e02",
+      "size": 48278
+    },
+    {
+      "name": "licensed-photo.webp",
+      "sha256": "5413388443c5004a4ec7075b8594f201223e49bf4a3f0b0360989f0cd83f3d2c",
+      "size": 352688
+    }
+  ],
+  "public_deployment_status": "NOT_RELEASED_PENDING_FACT_COPYRIGHT_MOTION200",
+  "prepared_at": "2026-11-13T19:44:24.728181+09:00"
+}

@@ -1,0 +1,83 @@
+{
+  "article": "Korea’s November 12 Bank Governance Plan: How Far Could the NPS Influence Director Selection?",
+  "article_id": "649298625748864261",
+  "desk": "nps",
+  "source_html_sha256": "4c899b4cfa0bd574c4d9b45a95867def301844e561009055dbe535798820c596",
+  "photo_rights": {
+    "file": "licensed-photo.webp",
+    "sha256": "eafc038fce420e028991801ce79b4eb75108a101e574c92fb9c966abbb0e3954",
+    "filename": "IFC Seoul.jpg",
+    "original_source": "https://commons.wikimedia.org/wiki/File:IFC_Seoul.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "author": "Kimahrikku",
+    "conversion": "cropped to 16:9; resized to WebP for editorial background",
+    "caption": "서울 여의도 국제금융센터 자료사진. 국민연금 정책 발표 현장 아님",
+    "illustrative_only": true,
+    "derivative_share_alike": true
+  },
+  "images": [
+    {
+      "name": "feature-06.webp",
+      "sha256": "fcb16398a751b8280ff32707d8862cf6359018f3e78533093935ea8f777ef073",
+      "size": 45266
+    },
+    {
+      "name": "feature-07.webp",
+      "sha256": "a53124398c8baefe38e922e79e7079fc9254cc7de26a99b7140b56ba5e3b3ed1",
+      "size": 50586
+    },
+    {
+      "name": "feature-08.webp",
+      "sha256": "7e51a47075e631400ebc5c51ef4fd2d3903c7608dbd9d99c1351ab2f32733ef8",
+      "size": 46154
+    },
+    {
+      "name": "feature-09.webp",
+      "sha256": "c7e4205699e4d7978d62cded6b4d006d6eaa324cfa33ae063b191610ab0c2032",
+      "size": 52368
+    },
+    {
+      "name": "feature-10.webp",
+      "sha256": "69082f947fd359e7ad191e2bfea61658649d589c8ff8eb25b3a3d10feb8ffea9",
+      "size": 50516
+    },
+    {
+      "name": "feature-11.webp",
+      "sha256": "b1ff0b84307c9d068bed0b8e35a15a1a8994572a5223204c8c170e719aec7b04",
+      "size": 49074
+    },
+    {
+      "name": "feature-12.webp",
+      "sha256": "034d0cd7280391efb09f685222aa3b3f1a6f453c02b3964d8d1a227b67bb1a2d",
+      "size": 46896
+    },
+    {
+      "name": "figure-01.webp",
+      "sha256": "9a26db0a24994c24ab78daf707dad70af488b3f457f4203143ae5ea76de289c0",
+      "size": 219542
+    },
+    {
+      "name": "figure-02.webp",
+      "sha256": "4c2144cfdec70ad5a2cacffd0aaeea70991475de7c3675a7e38b1ad675e7f86b",
+      "size": 29928
+    },
+    {
+      "name": "figure-03.webp",
+      "sha256": "ead236f96ea53580deba4c18eeac756c9fb9cc08417e423e87c35b75a61f87db",
+      "size": 38564
+    },
+    {
+      "name": "figure-04.webp",
+      "sha256": "1d86f98b279e9823fff5b4afb5919cbe319eba09e1ad19465da36acd751c68ad",
+      "size": 38060
+    },
+    {
+      "name": "licensed-photo.webp",
+      "sha256": "eafc038fce420e028991801ce79b4eb75108a101e574c92fb9c966abbb0e3954",
+      "size": 310842
+    }
+  ],
+  "public_deployment_status": "NOT_RELEASED_PENDING_FACT_COPYRIGHT_MOTION200",
+  "prepared_at": "2026-11-13T19:44:24.833285+09:00"
+}

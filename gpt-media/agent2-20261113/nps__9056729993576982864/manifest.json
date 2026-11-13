@@ -1,0 +1,86 @@
+{
+  "article": "NPS and J.P. Morgan Asset Management Expand Cooperation: What the November 10 MOU Actually Covers",
+  "article_id": "9056729993576982864",
+  "desk": "nps",
+  "source_html_sha256": "10c3600070af290f75ee9f37863b48a6e298488a62349a398cae3ddf85bd6955",
+  "photo_rights": {
+    "file": "licensed-photo.webp",
+    "sha256": "643de1951afef17759f20486ab6533517f31366a68cce5962dfb20472aeb7fab",
+    "filename": "270 Park Avenue under construction 2024.jpg",
+    "original_source": "https://commons.wikimedia.org/wiki/File:270_Park_Avenue_under_construction_2024.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MemeGod27",
+    "conversion": "16:9 crop, resize to WebP (editorial adaptation)",
+    "caption": "historical 2024 J.P. Morgan 270 Park Avenue building photo, not the reported 2026 memorandum event",
+    "illustrative_only": true,
+    "source_original_dimensions": [
+      2316,
+      3088
+    ]
+  },
+  "images": [
+    {
+      "name": "feature-06.webp",
+      "sha256": "fed61ebce83bfbae8cac13b1259d1381e04c3ee96e5e79c2a9024e367202e75c",
+      "size": 45160
+    },
+    {
+      "name": "feature-07.webp",
+      "sha256": "3fdddd3120b3b3206e6fc27df74fb8cc3febb8e66492842a6160ab4efb99fa47",
+      "size": 43162
+    },
+    {
+      "name": "feature-08.webp",
+      "sha256": "936bf92607a6909afe2da2cfe0366a27b3797df78fdb847a367e8f79d7768236",
+      "size": 50754
+    },
+    {
+      "name": "feature-09.webp",
+      "sha256": "23b3a13c5ab4dbd66cd400362fdde90bb568befe87621f7662f08b1f92ad8107",
+      "size": 46920
+    },
+    {
+      "name": "feature-10.webp",
+      "sha256": "48df8a8c3eb7769ecfd0f7f7eeb08beb75f58b783bcf78c4b6341f2676affe69",
+      "size": 47294
+    },
+    {
+      "name": "feature-11.webp",
+      "sha256": "c54dc66599015be3ef005260c507386933ee3cb92d8796e397d2f1ecc74955f1",
+      "size": 42598
+    },
+    {
+      "name": "feature-12.webp",
+      "sha256": "5a25a9ef7a37fc8a215ef72e3bdb6dbdb3b1ae55885d8cf6996c02dda3ec737a",
+      "size": 45944
+    },
+    {
+      "name": "figure-01.webp",
+      "sha256": "915c897e6d934fddf1cfc39f281bf0dd263c5a98a4bf103b486fe30d88a407af",
+      "size": 224760
+    },
+    {
+      "name": "figure-02.webp",
+      "sha256": "3cdac80b792bfa9ec3d4c6766a28bdf7990849bffbb1d8a17f8681f0f0c00885",
+      "size": 41292
+    },
+    {
+      "name": "figure-03.webp",
+      "sha256": "0440e6cfe31ef1a2980e2265932f5a0bba8981666de5ffd8429f043ec0475da9",
+      "size": 37764
+    },
+    {
+      "name": "figure-04.webp",
+      "sha256": "1e6e724f261a1f68eca55d78ccd3473f588f8cf22a14c400c3df4a48fdace701",
+      "size": 48040
+    },
+    {
+      "name": "licensed-photo.webp",
+      "sha256": "643de1951afef17759f20486ab6533517f31366a68cce5962dfb20472aeb7fab",
+      "size": 324708
+    }
+  ],
+  "public_deployment_status": "NOT_RELEASED_PENDING_FACT_COPYRIGHT_MOTION200",
+  "prepared_at": "2026-11-13T19:44:24.868247+09:00"
+}

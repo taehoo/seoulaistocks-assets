@@ -1,0 +1,81 @@
+{
+  "article": "Korea’s ₩800.2bn On-Device AI Chip Program: 10 Designs by 2030 and 21 Samsung Foundry Trial Runs",
+  "article_id": "1670826551536056556",
+  "desk": "en",
+  "source_html_sha256": "ac4c351782b37050a449941b35ce90e71f244f00ef61cdd6998c9f0c09f520f1",
+  "photo_rights": {
+    "file": "licensed-photo.webp",
+    "sha256": "37eca69f388f7a23f509dc2d491270b8a2d8f684017ba59e426f511837624034",
+    "filename": "silicon_wafers.webp",
+    "original_source": "https://commons.wikimedia.org/wiki/File:Silicon_wafers.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "ArticCynda",
+    "conversion": "to WebP, content unchanged",
+    "caption": "illustrative only"
+  },
+  "images": [
+    {
+      "name": "feature-06.webp",
+      "sha256": "148f481018ab36c87196752442fb18fbb5b5cf1a8df8c4df9fd97cc22b1fe884",
+      "size": 35992
+    },
+    {
+      "name": "feature-07.webp",
+      "sha256": "798ab4158546f85c190203d41876d0a91616790af061e3618115a8902418a4f5",
+      "size": 45130
+    },
+    {
+      "name": "feature-08.webp",
+      "sha256": "affbe02626716895c99745430ab35b64972f57831198ec4e5036f30aad93c4e2",
+      "size": 52550
+    },
+    {
+      "name": "feature-09.webp",
+      "sha256": "2e2e5cf350cb67154040908fcbfd12a04ef3d02a08f567f2d87fc613a57c6219",
+      "size": 53764
+    },
+    {
+      "name": "feature-10.webp",
+      "sha256": "552b2b51265eb722f11ff303c13550275c76541ed7fae639cac2a332a8bbd475",
+      "size": 50592
+    },
+    {
+      "name": "feature-11.webp",
+      "sha256": "7192ac4fd5b02d15998d1aec2110ba307434862133de818f3f1387d11ded3e27",
+      "size": 49784
+    },
+    {
+      "name": "feature-12.webp",
+      "sha256": "93777e3c5683f83def5209504172228f8244f2ed8c74cca265761ef548c42db0",
+      "size": 48116
+    },
+    {
+      "name": "figure-01.webp",
+      "sha256": "390b62d729b2011997a4e2c2a91a085b3e75707a394cc9c25b3a9c80dda176ee",
+      "size": 128760
+    },
+    {
+      "name": "figure-02.webp",
+      "sha256": "37b18ddc89ab5b69da8c9f4dc64c2b4714b57b79baaf8441ecfc680000da5728",
+      "size": 50178
+    },
+    {
+      "name": "figure-03.webp",
+      "sha256": "c7a845de8041cb595884ca4934a4a03c2e83425b6aca2d512cedd6c69c11fc35",
+      "size": 40176
+    },
+    {
+      "name": "figure-04.webp",
+      "sha256": "01d09f12dc324a2398038080e3cadcd78e131c3bc2888a7f3d63e1846b4e6ace",
+      "size": 49158
+    },
+    {
+      "name": "licensed-photo.webp",
+      "sha256": "37eca69f388f7a23f509dc2d491270b8a2d8f684017ba59e426f511837624034",
+      "size": 213062
+    }
+  ],
+  "public_deployment_status": "NOT_RELEASED_PENDING_FACT_COPYRIGHT_MOTION200",
+  "prepared_at": "2026-11-13T19:44:24.592735+09:00"
+}

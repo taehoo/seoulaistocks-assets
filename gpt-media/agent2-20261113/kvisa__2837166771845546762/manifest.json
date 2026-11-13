@@ -1,0 +1,81 @@
+{
+  "article": "Korea’s Final 2026 E-9 Hiring Round: 6,699 Permits and the November 23–27 Deadline",
+  "article_id": "2837166771845546762",
+  "desk": "kvisa",
+  "source_html_sha256": "01d01edc66c4749c232f58a3c20e735d2324c1d76c940c3b7c7538e803b1def3",
+  "photo_rights": {
+    "file": "licensed-photo.webp",
+    "sha256": "b721841386dee857314bf92efb98c1e0b94f498a6891e0a4b2657a4173ea1325",
+    "filename": "incheon_arrival.webp",
+    "original_source": "https://commons.wikimedia.org/wiki/File:Incheon_International_Airport_Terminal_1_Arrival_2.jpg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "ノボホショコロトソ",
+    "conversion": "to WebP, content unchanged",
+    "caption": "illustrative only"
+  },
+  "images": [
+    {
+      "name": "feature-06.webp",
+      "sha256": "22e29941ec00e358e6aae569c6a7bdcb5d43aca6b5188c451d15b650d4afd44b",
+      "size": 38110
+    },
+    {
+      "name": "feature-07.webp",
+      "sha256": "7f6325b68e16e41bd80ca381c9ca6e98a4cfb5a1c6a28c7147412e4406c54f99",
+      "size": 41898
+    },
+    {
+      "name": "feature-08.webp",
+      "sha256": "efeddaab12e5274e0f89695a6c90f5155824ad5053396d9142c8a07fe677a5a9",
+      "size": 49058
+    },
+    {
+      "name": "feature-09.webp",
+      "sha256": "1848c1196e5ccad106801abd39eeae3973bbed0ed6027b9ba4daa507ee84ee9d",
+      "size": 39794
+    },
+    {
+      "name": "feature-10.webp",
+      "sha256": "39e4ba11e7bf4d98422a964600e7dacd921a46792979eb819917dde43a61a70f",
+      "size": 44264
+    },
+    {
+      "name": "feature-11.webp",
+      "sha256": "b8c11f69850a4ef4f4e52c72d4e58df54edc5f04c734abde4b3a9e28449d26d3",
+      "size": 38726
+    },
+    {
+      "name": "feature-12.webp",
+      "sha256": "3aa89c3f1bd8d2e0a46c4ef3b9b7055c33d2505fcc529e7299918783afd0b65b",
+      "size": 44210
+    },
+    {
+      "name": "figure-01.webp",
+      "sha256": "d5509b398c612fdc8bdb52306a218c0f690894a308e31a8eee64da5528eebb6e",
+      "size": 222548
+    },
+    {
+      "name": "figure-02.webp",
+      "sha256": "983dd999c8a9189cb906f0f21492f84d65a3d0b09ba8ccc422ac04cac21d5da4",
+      "size": 35724
+    },
+    {
+      "name": "figure-03.webp",
+      "sha256": "a320f24c3a21804c56b6697f8a712551e081c8547fa9f019152d96b649bbe190",
+      "size": 35138
+    },
+    {
+      "name": "figure-04.webp",
+      "sha256": "1b08462fc1fade132784de447e7bdea21cbb22de455af98085838a158931fe1d",
+      "size": 42312
+    },
+    {
+      "name": "licensed-photo.webp",
+      "sha256": "b721841386dee857314bf92efb98c1e0b94f498a6891e0a4b2657a4173ea1325",
+      "size": 259520
+    }
+  ],
+  "public_deployment_status": "NOT_RELEASED_PENDING_FACT_COPYRIGHT_MOTION200",
+  "prepared_at": "2026-11-13T19:44:24.802886+09:00"
+}

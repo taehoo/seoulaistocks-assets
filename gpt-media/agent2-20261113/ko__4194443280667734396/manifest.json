@@ -1,0 +1,81 @@
+{
+  "article": "금융위가 직접 부인한 11월 13일 코스닥 추가대책 소문: 공식 발표와 SNS 풍문을 구별하는 법",
+  "article_id": "4194443280667734396",
+  "desk": "ko",
+  "source_html_sha256": "d3f21cfefbc4752ef84328b5341a137e4a2ddaa9ed4d63f6695aa5d03b899ea0",
+  "photo_rights": {
+    "file": "licensed-photo.webp",
+    "sha256": "a5a56619ae2d43080179273fdf4cd9fc514a5c97c94e587433494835662c6afa",
+    "filename": "yeouido_han.webp",
+    "original_source": "https://commons.wikimedia.org/wiki/File:Yeouido_Han_River_Seoul_Bamseom_Pixabay_1602524.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "pixabay: @heecheol890102",
+    "conversion": "to WebP, content unchanged",
+    "caption": "illustrative only"
+  },
+  "images": [
+    {
+      "name": "feature-06.webp",
+      "sha256": "3042618d19a8fb14ba58f605054d77f35b0d1d5684a35467951eb933f7c611b5",
+      "size": 33150
+    },
+    {
+      "name": "feature-07.webp",
+      "sha256": "d577b43ae9f861f075d5308b055ec33f559a84180d2ecb3bd080d56b339c9cf2",
+      "size": 33440
+    },
+    {
+      "name": "feature-08.webp",
+      "sha256": "b1635646dbb6a7ba37613d808bd8b2b3ac246245773b0783bdf3e638d8a540c2",
+      "size": 35632
+    },
+    {
+      "name": "feature-09.webp",
+      "sha256": "cd510e0462a6f066c8a4a74ca601dd7cc9f937e0680268f751cd97a28bd30a46",
+      "size": 35538
+    },
+    {
+      "name": "feature-10.webp",
+      "sha256": "3267a172392e5be4e430dcc81014a548e71150cbefb644fcbdb04f6ebae809e0",
+      "size": 37256
+    },
+    {
+      "name": "feature-11.webp",
+      "sha256": "095cba1ae1e08420b8a082bbcdba4c4a6c07fee5351e525754b476f494eca65e",
+      "size": 34900
+    },
+    {
+      "name": "feature-12.webp",
+      "sha256": "b8e61280a6f4e4e27569a043ed1e67f3bcd77c991be2609646c7a26df5e7e321",
+      "size": 33782
+    },
+    {
+      "name": "figure-01.webp",
+      "sha256": "253c810243c7857878f6a37c3fcf3bab10606e47cd3af6c347d4253d57410c01",
+      "size": 129348
+    },
+    {
+      "name": "figure-02.webp",
+      "sha256": "d5d4bd97b97a71f757da6313f982c6c2f3cb213ba70e665436178353af6a61a1",
+      "size": 33676
+    },
+    {
+      "name": "figure-03.webp",
+      "sha256": "94a2f72ea5c2c59c72d61ffc2c6756bb3de9c6bc112cdcd3d309a047c8638014",
+      "size": 38012
+    },
+    {
+      "name": "figure-04.webp",
+      "sha256": "f5feb231874e78e6de139e5f7f31465a7ffced79dee87b187fbd6a5b0885c444",
+      "size": 40848
+    },
+    {
+      "name": "licensed-photo.webp",
+      "sha256": "a5a56619ae2d43080179273fdf4cd9fc514a5c97c94e587433494835662c6afa",
+      "size": 150708
+    }
+  ],
+  "public_deployment_status": "NOT_RELEASED_PENDING_FACT_COPYRIGHT_MOTION200",
+  "prepared_at": "2026-11-13T19:44:24.754634+09:00"
+}

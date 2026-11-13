@@ -1,0 +1,81 @@
+{
+  "article": "Korea Treated 2.01 Million Foreign Patients in 2025: What the Official Growth Data Does—and Does Not—Prove",
+  "article_id": "3532807951445770073",
+  "desk": "kmed",
+  "source_html_sha256": "afbb5aecc28f3f34330c85dee319c3df777cff6fc78d95e4cd02c7b3fbff2ef5",
+  "photo_rights": {
+    "file": "licensed-photo.webp",
+    "sha256": "d0e7fa73ba1d96c74775688bf93c6085a4bba4851f25b5b96194ae682cf1b161",
+    "filename": "medical_center.webp",
+    "original_source": "https://commons.wikimedia.org/wiki/File:Seoul_Medical_Center._Gangnam_01.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Exj",
+    "conversion": "to WebP, content unchanged",
+    "caption": "illustrative only"
+  },
+  "images": [
+    {
+      "name": "feature-06.webp",
+      "sha256": "d0ec9452d575079cd5298f7c6340159e7d2d6d161137e8f8404393e4470e98bd",
+      "size": 37386
+    },
+    {
+      "name": "feature-07.webp",
+      "sha256": "954c8c3adeba0e8440833f913c4b452ec3a6ecb8344b22acfc134635398ff4d6",
+      "size": 46060
+    },
+    {
+      "name": "feature-08.webp",
+      "sha256": "28148eef83c298a2e2e2e30bbc0c86ec45f1ff164826f11c4d73b83308f6a07f",
+      "size": 48990
+    },
+    {
+      "name": "feature-09.webp",
+      "sha256": "31aacb198a85e06093a4d18db6dd8d0cb06fdaf2c3ced9e1a724111f37a8acc6",
+      "size": 43586
+    },
+    {
+      "name": "feature-10.webp",
+      "sha256": "570ed5e289d319fc08e163b5edfc0cc0b58803ef7fa23167055465cb24058226",
+      "size": 50582
+    },
+    {
+      "name": "feature-11.webp",
+      "sha256": "92bfab3892cec18e9e054855fad54ed654d7ea6446a91cb0acab022aa38e4fbe",
+      "size": 41646
+    },
+    {
+      "name": "feature-12.webp",
+      "sha256": "fc2eb67b0932a74c3e77f344976af72b77a2b08bf9e3d9258ef3a482988f03d1",
+      "size": 47684
+    },
+    {
+      "name": "figure-01.webp",
+      "sha256": "e530d53bf8f5501843a05067418f33d2ecba773e679c5e514e2a1582c941fe94",
+      "size": 216436
+    },
+    {
+      "name": "figure-02.webp",
+      "sha256": "2022ce66cce58063e2566d4421429c75fe15ca26373eba9c61c4ff340d1d2a20",
+      "size": 29162
+    },
+    {
+      "name": "figure-03.webp",
+      "sha256": "c73bb174e4ad66d48702372989e121765323ce15ab36a62b5ea54d7919bc9c0c",
+      "size": 37382
+    },
+    {
+      "name": "figure-04.webp",
+      "sha256": "a64c7d5dca3c218af340687231244f6e28ff7c7a82081835ad5f707876d46518",
+      "size": 38722
+    },
+    {
+      "name": "licensed-photo.webp",
+      "sha256": "d0e7fa73ba1d96c74775688bf93c6085a4bba4851f25b5b96194ae682cf1b161",
+      "size": 182278
+    }
+  ],
+  "public_deployment_status": "NOT_RELEASED_PENDING_FACT_COPYRIGHT_MOTION200",
+  "prepared_at": "2026-11-13T19:44:24.671568+09:00"
+}

@@ -1,0 +1,81 @@
+{
+  "article": "US Pressure on China’s CXMT: A November 2026 Request Is Not an Export Ban",
+  "article_id": "4589979861282275006",
+  "desk": "en",
+  "source_html_sha256": "ea5d3248d701bb4eec30d517dd387c2fb000bb75f03053b8450569f6c5de4480",
+  "photo_rights": {
+    "file": "licensed-photo.webp",
+    "sha256": "c34bb8e2fadb1b74e670e03c979af18ed34fbeb267721fd699397e59c55311ba",
+    "filename": "wafer_manufacture.webp",
+    "original_source": "https://commons.wikimedia.org/wiki/File:A_semiconductor_wafer_being_removed_from_processing_equipment.jpg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "YouTube — Purdue Engineering",
+    "conversion": "to WebP, content unchanged",
+    "caption": "illustrative only"
+  },
+  "images": [
+    {
+      "name": "feature-06.webp",
+      "sha256": "3f7d1c5a2a37e5ead31a54ff925712fc81a14e7765429262ad503d4dc2e353ba",
+      "size": 47118
+    },
+    {
+      "name": "feature-07.webp",
+      "sha256": "9e6d255ffc09ae4c4af4d48c0dc30fbbfb5ac0cbd4b4dcaf942b18606a8fd2d2",
+      "size": 52414
+    },
+    {
+      "name": "feature-08.webp",
+      "sha256": "21a5582448c12fe60eb6247c1f79a4c15f9cfdbc3f0fff473510cb968992d6de",
+      "size": 57160
+    },
+    {
+      "name": "feature-09.webp",
+      "sha256": "41d408f7fb2c86e84937d7f2ccd895d8cd96e44bed7f75ce6bb50992cd3abc47",
+      "size": 51164
+    },
+    {
+      "name": "feature-10.webp",
+      "sha256": "4efb34f168ffe28cb6cb33961dc695578554be97cefe64b0393f543aa90bb065",
+      "size": 53442
+    },
+    {
+      "name": "feature-11.webp",
+      "sha256": "adf74251ce74b12fcc27abd517d1ff49470c15efb04199c213816a72a9137038",
+      "size": 48284
+    },
+    {
+      "name": "feature-12.webp",
+      "sha256": "63ed530aee3a20ce846f969ec6d6ade086e48a30f8dd56888855dd4abcc93da3",
+      "size": 48078
+    },
+    {
+      "name": "figure-01.webp",
+      "sha256": "40b0133ee15ce035e4045fd706b5bffb5199a48cb6eb3ad5f3beeb3568dc6792",
+      "size": 88746
+    },
+    {
+      "name": "figure-02.webp",
+      "sha256": "58e6fd471e87cbd8c6007148ab250d002950244212ae194e413006bed3b2bda7",
+      "size": 45534
+    },
+    {
+      "name": "figure-03.webp",
+      "sha256": "7a46a21544540bd1d7a7d692338545184b73cea21830065c93f735258fa6bda7",
+      "size": 42738
+    },
+    {
+      "name": "figure-04.webp",
+      "sha256": "9014fb6237a87f5453ff5252abd1aacaf1803cf6ea1320bddb2382621a76e213",
+      "size": 46654
+    },
+    {
+      "name": "licensed-photo.webp",
+      "sha256": "c34bb8e2fadb1b74e670e03c979af18ed34fbeb267721fd699397e59c55311ba",
+      "size": 66894
+    }
+  ],
+  "public_deployment_status": "NOT_RELEASED_PENDING_FACT_COPYRIGHT_MOTION200",
+  "prepared_at": "2026-11-13T19:44:24.656811+09:00"
+}

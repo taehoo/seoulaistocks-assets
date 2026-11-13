@@ -1,0 +1,86 @@
+{
+  "article": "NPS 2026 Through August: 14.77% Preliminary Return and KRW 218.3tn in Gains",
+  "article_id": "8414771650244303684",
+  "desk": "nps",
+  "source_html_sha256": "d349d0ca3d72fc17bcc39621d704c18ce8368f7352c4e56ce47902b7c3dd160b",
+  "photo_rights": {
+    "file": "licensed-photo.webp",
+    "sha256": "3a8d5034cca32a8adbc54aefac62acb1bf5d9b4371680e07358c2b3c957e94ac",
+    "filename": "No Known Restrictions Trading Floor, New York Stock Exchange (Highsmith LOC) (6718386525).jpg",
+    "original_source": "https://commons.wikimedia.org/wiki/File:No_Known_Restrictions_Trading_Floor,_New_York_Stock_Exchange_(Highsmith_LOC)_(6718386525).jpg",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "author": "Carol M. Highsmith",
+    "conversion": "16:9 crop, resize to WebP (editorial adaptation)",
+    "caption": "historical New York Stock Exchange trading floor, illustrative only; not an image of NPS trading or the reported 2026 event",
+    "illustrative_only": true,
+    "source_original_dimensions": [
+      1632,
+      2048
+    ]
+  },
+  "images": [
+    {
+      "name": "feature-06.webp",
+      "sha256": "8c6462ed7dc20f72df33446c4c6717b1f49e553033896fc5ec7b9a0af374da38",
+      "size": 44762
+    },
+    {
+      "name": "feature-07.webp",
+      "sha256": "ae3266fa55cf8785a1e1c4327a3cc59deb4d83f62ee3cd141b4950f786674698",
+      "size": 43120
+    },
+    {
+      "name": "feature-08.webp",
+      "sha256": "f998afe117aa9e73540eef5ca8d7ef04cf478b48cee47f7a33fc9487b1ffe656",
+      "size": 45746
+    },
+    {
+      "name": "feature-09.webp",
+      "sha256": "0625a4773c1ced4c2cc2b2bd8a444660e3fd1ba75e270d1223d89167fa56728e",
+      "size": 45910
+    },
+    {
+      "name": "feature-10.webp",
+      "sha256": "0bc51e838018c3bff87de6828d6e3418c7ed526294c8bc7040c100e4edb33da1",
+      "size": 52658
+    },
+    {
+      "name": "feature-11.webp",
+      "sha256": "c1df4e778a10918cf96b05f9dde16eb645e3ca76e074d3048cbe3bcd3d663ee3",
+      "size": 47594
+    },
+    {
+      "name": "feature-12.webp",
+      "sha256": "6281030d58f72e3a541bd8173cd547a26b866968b34241b7506c305b8529f764",
+      "size": 46336
+    },
+    {
+      "name": "figure-01.webp",
+      "sha256": "e2b41ab0c71b9dffbb3799124b01532ff47f6c7ee1be6dd6dabd8180d2c6fafa",
+      "size": 265816
+    },
+    {
+      "name": "figure-02.webp",
+      "sha256": "127a39b4774f35f83c1c718221cc6ed19820d3feb5a0a7fc6064c25b8112ebea",
+      "size": 38896
+    },
+    {
+      "name": "figure-03.webp",
+      "sha256": "0158a23cb64e58be7837867fc1dcc63980d862729bee6f8f16e32302ec46c3fb",
+      "size": 35084
+    },
+    {
+      "name": "figure-04.webp",
+      "sha256": "97ffee1ecae7c2cc457dcfdeb7ac26f489b44f19d43cda83e605f59d08f95dfd",
+      "size": 43558
+    },
+    {
+      "name": "licensed-photo.webp",
+      "sha256": "3a8d5034cca32a8adbc54aefac62acb1bf5d9b4371680e07358c2b3c957e94ac",
+      "size": 371892
+    }
+  ],
+  "public_deployment_status": "NOT_RELEASED_PENDING_FACT_COPYRIGHT_MOTION200",
+  "prepared_at": "2026-11-13T19:44:24.851169+09:00"
+}
