@@ -1,0 +1,215 @@
+{
+  "generated_utc": "2026-11-23",
+  "description": "Unique original special-article educational graphic preserving 20 image structure, deliberately free of third-party price/market series",
+  "records": [
+    {
+      "image_index": 2,
+      "original_src": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@4f5cf4f3cb3fd516f94c23bd72334fbcc89f6bca/gpt-media/20261123/en/20261123-0850-ai-rout-nvidia-amd-memory-special/us-ai-18sessions.webp",
+      "relative_path": "r64-special-market-method-20261123/nov23-original-figure-02.webp",
+      "sha256": "15a4d1f2fa8c6138dcb6ca77531a9cb0c7575ce516670e3a7bc7f378d9874d0f",
+      "bytes": 58806,
+      "w": 1600,
+      "h": 900,
+      "original_chart_type": "MARKET_VENDOR_CHART",
+      "replacement_kind": "ORIGINAL_UNLICENSED_SERIES_FREE_READER_FRAMEWORK",
+      "title": "A SHARED BASELINE IS NOT A PRICE FORECAST",
+      "case": "Comparing Nvidia, AMD, memory and Nasdaq",
+      "bullets": [
+        "Set a single starting close",
+        "Calculate normalized returns, not nominal dollars",
+        "Separate market-wide shocks from issuer results"
+      ],
+      "source_reference": ""
+    },
+    {
+      "image_index": 3,
+      "original_src": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@4f5cf4f3cb3fd516f94c23bd72334fbcc89f6bca/gpt-media/20261123/en/20261123-0850-ai-rout-nvidia-amd-memory-special/us-selloff.webp",
+      "relative_path": "r64-special-market-method-20261123/nov23-original-figure-03.webp",
+      "sha256": "816b5c5b6e0230ad4a7682f75ea8904e7310dde713dcdd9128f02f2841fc0bda",
+      "bytes": 55080,
+      "w": 1600,
+      "h": 900,
+      "original_chart_type": "MARKET_VENDOR_CHART",
+      "replacement_kind": "ORIGINAL_UNLICENSED_SERIES_FREE_READER_FRAMEWORK",
+      "title": "ONE SESSION IS NOT THE ENTIRE DRAWDOWN",
+      "case": "Closing declines across AI-linked equities",
+      "bullets": [
+        "Identify the specific session",
+        "Use close-to-close windows consistently",
+        "Check the issuer filing before inferring causation"
+      ],
+      "source_reference": ""
+    },
+    {
+      "image_index": 4,
+      "original_src": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@4f5cf4f3cb3fd516f94c23bd72334fbcc89f6bca/gpt-media/20261123/en/20261123-0850-ai-rout-nvidia-amd-memory-special/bigtech-18sessions.webp",
+      "relative_path": "r64-special-market-method-20261123/nov23-original-figure-04.webp",
+      "sha256": "b3cc50208fc0c243bae3e3c15b7255095de6b0ab4d16e0883fa870a37b0471d9",
+      "bytes": 57960,
+      "w": 1600,
+      "h": 900,
+      "original_chart_type": "MARKET_VENDOR_CHART",
+      "replacement_kind": "ORIGINAL_UNLICENSED_SERIES_FREE_READER_FRAMEWORK",
+      "title": "WHAT BIG TECH CAPEX SAYS — AND DOES NOT",
+      "case": "Microsoft, Meta, Amazon and Alphabet",
+      "bullets": [
+        "Cloud infrastructure budgets differ from revenue",
+        "Financing and depreciation arrive over time",
+        "Company margins are the test of value creation"
+      ],
+      "source_reference": ""
+    },
+    {
+      "image_index": 5,
+      "original_src": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@4f5cf4f3cb3fd516f94c23bd72334fbcc89f6bca/gpt-media/20261123/en/20261123-0850-ai-rout-nvidia-amd-memory-special/nov11-to-nov20-drawdown.webp",
+      "relative_path": "r64-special-market-method-20261123/nov23-original-figure-05.webp",
+      "sha256": "9eedf9e3382916184074a8bf2e0e2c91a64e6c099d62f135ab2a5cbee4de736e",
+      "bytes": 56564,
+      "w": 1600,
+      "h": 900,
+      "original_chart_type": "MARKET_VENDOR_CHART",
+      "replacement_kind": "ORIGINAL_UNLICENSED_SERIES_FREE_READER_FRAMEWORK",
+      "title": "KEEP TWO RETURN WINDOWS APART",
+      "case": "The November 11 to November 20 period",
+      "bullets": [
+        "Anchor the close on the start date",
+        "Do not add intraday quotes to closing returns",
+        "Report cumulative returns separately from daily shocks"
+      ],
+      "source_reference": ""
+    },
+    {
+      "image_index": 11,
+      "original_src": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@4f5cf4f3cb3fd516f94c23bd72334fbcc89f6bca/gpt-media/20261123/en/20261123-0850-ai-rout-nvidia-amd-memory-special/precrash-vs-friday-scatter.webp",
+      "relative_path": "r64-special-market-method-20261123/nov23-original-figure-11.webp",
+      "sha256": "dc92ce0d1e3b4b4deb52e76d6c7698b9d87484819aca8ddab47d77ab7d5f2d96",
+      "bytes": 53994,
+      "w": 1600,
+      "h": 900,
+      "original_chart_type": "MARKET_VENDOR_CHART",
+      "replacement_kind": "ORIGINAL_UNLICENSED_SERIES_FREE_READER_FRAMEWORK",
+      "title": "AVOID OVERLAPPING THE TWO AXES",
+      "case": "Pre-event performance vs the event-day move",
+      "bullets": [
+        "X-axis: pre-event close-to-close window",
+        "Y-axis: event-day close-to-close change",
+        "Correlation alone is not an explanation"
+      ],
+      "source_reference": ""
+    },
+    {
+      "image_index": 12,
+      "original_src": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@4f5cf4f3cb3fd516f94c23bd72334fbcc89f6bca/gpt-media/20261123/en/20261123-0850-ai-rout-nvidia-amd-memory-special/ai-sector-stress-11stocks.webp",
+      "relative_path": "r64-special-market-method-20261123/nov23-original-figure-12.webp",
+      "sha256": "973da4ab60d5a8a5c9f4cc79324fe46d6be6fed9ebbe11963a288aa781383105",
+      "bytes": 59154,
+      "w": 1600,
+      "h": 900,
+      "original_chart_type": "MARKET_VENDOR_CHART",
+      "replacement_kind": "ORIGINAL_UNLICENSED_SERIES_FREE_READER_FRAMEWORK",
+      "title": "THREE BUSINESS MODELS, THREE RISKS",
+      "case": "Chips and memory | GPU cloud | large platforms",
+      "bullets": [
+        "Chipmakers depend on orders and margins",
+        "GPU-cloud firms face financing and utilization",
+        "Platforms face demand, depreciation and cash flow"
+      ],
+      "source_reference": ""
+    },
+    {
+      "image_index": 14,
+      "original_src": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@4f5cf4f3cb3fd516f94c23bd72334fbcc89f6bca/gpt-media/20261123/en/20261123-0850-ai-rout-nvidia-amd-memory-special/fear-greed.webp",
+      "relative_path": "r64-special-market-method-20261123/nov23-original-figure-14.webp",
+      "sha256": "0582b431a1f450551ba9b867cb6bf8b86476382a630bb79cf20765be8ec9224e",
+      "bytes": 54094,
+      "w": 1600,
+      "h": 900,
+      "original_chart_type": "MARKET_VENDOR_CHART",
+      "replacement_kind": "ORIGINAL_UNLICENSED_SERIES_FREE_READER_FRAMEWORK",
+      "title": "SENTIMENT IS A TIMESTAMPED SNAPSHOT",
+      "case": "Reading extreme fear cautiously",
+      "bullets": [
+        "Document who reported the gauge and when",
+        "Intraday sentiment can shift before close",
+        "A sentiment score is not a price target"
+      ],
+      "source_reference": ""
+    },
+    {
+      "image_index": 15,
+      "original_src": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@4f5cf4f3cb3fd516f94c23bd72334fbcc89f6bca/gpt-media/20261123/en/20261123-0850-ai-rout-nvidia-amd-memory-special/vix-18sessions.webp",
+      "relative_path": "r64-special-market-method-20261123/nov23-original-figure-15.webp",
+      "sha256": "56d62712c12053e4d2442fe33fdf5ee350d0421432342f43fdc4962c7b510039",
+      "bytes": 52556,
+      "w": 1600,
+      "h": 900,
+      "original_chart_type": "MARKET_VENDOR_CHART",
+      "replacement_kind": "ORIGINAL_UNLICENSED_SERIES_FREE_READER_FRAMEWORK",
+      "title": "VIX MEASURES IMPLIED UNCERTAINTY",
+      "case": "Option prices vs realized stock returns",
+      "bullets": [
+        "VIX reflects option-implied volatility",
+        "A close and an intraday print are different",
+        "Volatility does not predict market direction"
+      ],
+      "source_reference": ""
+    },
+    {
+      "image_index": 16,
+      "original_src": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@4f5cf4f3cb3fd516f94c23bd72334fbcc89f6bca/gpt-media/20261123/en/20261123-0850-ai-rout-nvidia-amd-memory-special/fedwatch-reuters-nov22.webp",
+      "relative_path": "r64-special-market-method-20261123/nov23-original-figure-16.webp",
+      "sha256": "9b9ccc85a284057e906cf6c39b40138a9f942ea16ac74dec480996a8ef3ace76",
+      "bytes": 56186,
+      "w": 1600,
+      "h": 900,
+      "original_chart_type": "MARKET_VENDOR_CHART",
+      "replacement_kind": "ORIGINAL_UNLICENSED_SERIES_FREE_READER_FRAMEWORK",
+      "title": "FEDWATCH IS NOT THE FED DECISION",
+      "case": "Market-implied probability vs policy outcome",
+      "bullets": [
+        "Observe the snapshot clock and contract",
+        "Pricing changes with new economic information",
+        "The FOMC ultimately decides the policy rate"
+      ],
+      "source_reference": ""
+    },
+    {
+      "image_index": 17,
+      "original_src": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@4f5cf4f3cb3fd516f94c23bd72334fbcc89f6bca/gpt-media/20261123/en/20261123-0850-ai-rout-nvidia-amd-memory-special/korea-memory.webp",
+      "relative_path": "r64-special-market-method-20261123/nov23-original-figure-17.webp",
+      "sha256": "5559a5525977e68324bbf16d7325593b1e1afa802dad0c70ae8a2735c75303e6",
+      "bytes": 55300,
+      "w": 1600,
+      "h": 900,
+      "original_chart_type": "MARKET_VENDOR_CHART",
+      "replacement_kind": "ORIGINAL_UNLICENSED_SERIES_FREE_READER_FRAMEWORK",
+      "title": "COMPARE KOREAN AND US MARKET CLOCKS",
+      "case": "Samsung, SK hynix and KOSPI timing",
+      "bullets": [
+        "Korean cash close occurs in KST",
+        "US closes on a separate overnight clock",
+        "Avoid attributing the same-session cause blindly"
+      ],
+      "source_reference": ""
+    },
+    {
+      "image_index": 18,
+      "original_src": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@4f5cf4f3cb3fd516f94c23bd72334fbcc89f6bca/gpt-media/20261123/en/20261123-0850-ai-rout-nvidia-amd-memory-special/korea-18sessions.webp",
+      "relative_path": "r64-special-market-method-20261123/nov23-original-figure-18.webp",
+      "sha256": "ce70efbdd49652c1ef198fdf7d03dc1ac4b75f463aa49be350778c85b6959ab2",
+      "bytes": 57796,
+      "w": 1600,
+      "h": 900,
+      "original_chart_type": "MARKET_VENDOR_CHART",
+      "replacement_kind": "ORIGINAL_UNLICENSED_SERIES_FREE_READER_FRAMEWORK",
+      "title": "NORMALIZE KOREAN STOCK COMPARISONS",
+      "case": "KOSPI vs Samsung vs SK hynix",
+      "bullets": [
+        "Keep all observations in Korean won",
+        "Use exactly matched exchange sessions",
+        "Do not confuse index levels with return percentages"
+      ],
+      "source_reference": ""
+    }
+  ]
+}
