@@ -1,0 +1,1807 @@
+{
+  "version": "R59",
+  "date": "2026-11-23",
+  "content_policy": "52 topic-specific covers and 37 context-specific photos, no generated synthetic photography",
+  "protected_specials": [
+    "https://seoulaistocks.blogspot.com/2026/11/nvidia-after-jensen-huang-what-ceo.html",
+    "https://seoulaistocks.blogspot.com/2026/11/revenue-operating-profit-and-net-income.html",
+    "https://seoulaistocks.blogspot.com/2026/11/samsung-and-sk-hynix-plunge-why-us-blue.html",
+    "https://seoulaistocks.blogspot.com/2026/11/semiconductor-capex-vs-cleanroom.html",
+    "https://seoulaistocks.blogspot.com/2026/11/koreas-chip-export-boom-guide-to.html"
+  ],
+  "images": [
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/foreigners-dumped-krw-21t-in-seoul-who/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@7a3b0b15ed6947e38dbee62caba619a9fcee587a/posts/20261024-2142-dart-filings-guide-reading-samsung-and-sk-hynix-notices/photo1.webp",
+      "base_asset_sha256": "fb5c26e58286b63d0a8804f191e5919f5277ac094de6ba8c2d15b2b14396089c",
+      "title_overlay": [
+        "FOREIGNERS SOLD",
+        "KRW 21.78T",
+        "WHO BOUGHT?"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/09/foreigners-dumped-krw-21t-in-seoul-who.html",
+      "topic_as_printed": "Foreigners dumped KRW 21.78T in Seoul: who bought it?",
+      "original_file_page": "",
+      "credit_artist": "",
+      "license": "inherited: check existing live article photographic source caption",
+      "license_url": "",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "9adf1e0166d168ccb7b1c5347694e1ea2081a92c1df9b91b07ce74529d850446",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "legacy original citation remains in public post; not independently recertified here"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/hbm4-packaging-battles-heat-up-in/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@51c31b8f8109ce5690c28d1f24355c28c3202464/posts/20260928-0948-samsung-and-sk-hynix-why-us-chip-moves-fail-to-carry-over/photo1.webp",
+      "base_asset_sha256": "381c968e6f39312de840dc00453fe0790f5392cb88997d8dcdc01638ede365af",
+      "title_overlay": [
+        "HBM4 PACKAGING",
+        "SEOUL'S CHIP-FAB",
+        "BATTLE"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/09/hbm4-packaging-battles-heat-up-in.html",
+      "topic_as_printed": "HBM4 packaging battles in Seoul's semiconductor fabs",
+      "original_file_page": "",
+      "credit_artist": "",
+      "license": "inherited: check existing live article photographic source caption",
+      "license_url": "",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "7b65d529a110d3715bc0bbe014819e6119196b365859f5ace6f5ad09c1022073",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "legacy original citation remains in public post; not independently recertified here"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/local-apple-silicon-engines-gemini/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@d777c03982fcdee3ec5859d9cf9202b927798004/r58-licensed-final-covers-20261123/local-apple-silicon-engines-gemini/documentary-cover.webp",
+      "base_asset_sha256": "cded16d8e7c7b37dcc98004de4ef0a0ccf434cc633fbfa5472472fa1affed6dc",
+      "title_overlay": [
+        "LOCAL AI",
+        "MEMORY KERNELS",
+        "SEOUL COMPUTE"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/09/local-apple-silicon-engines-gemini.html",
+      "topic_as_printed": "Local AI runtimes, memory kernels, and the Seoul crunch",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Nvidia_DGX-B200-HGX.jpg",
+      "credit_artist": "Pokiiri",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "3b63851da0170d7e0afb9eac53bb65b72222e97fc73fabdc4718f5a1b5b360db",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/samsung-and-sk-hynix-brutal-hbm-split/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@839dd531bae97873bed8d37f92d353d53623b3a3/posts/20261107-0411-kospi-foreign-flows-foreigners-sold-krw-10-4t-in-5-sessions/photo1.webp",
+      "base_asset_sha256": "651cc9f4b5932dd4201494f955c39d16d8c3b5ccb6e23d583b1884bbf04d970e",
+      "title_overlay": [
+        "SAMSUNG vs SK HYNIX",
+        "THE HBM DIVIDE"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/09/samsung-and-sk-hynix-brutal-hbm-split.html",
+      "topic_as_printed": "Samsung and SK hynix: The brutal HBM split in Seoul",
+      "original_file_page": "",
+      "credit_artist": "",
+      "license": "inherited: check existing live article photographic source caption",
+      "license_url": "",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "bc8a8db4061e6cfa538a2539efafb29f3919b63306820ddbe821fc39f8a801bf",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "legacy original citation remains in public post; not independently recertified here"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/samsung-and-sk-hynix-brutal-hbm-split/section-01.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://raw.githubusercontent.com/taehoo/seoulaistocks-assets/828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/samsung-and-sk-hynix-brutal-hbm-split/real-photo-01.webp",
+      "base_asset_sha256": "a516803d026b54b713abd5b5b87c9710eb62f17e195c109821dedcf22c286be4",
+      "title_overlay": [
+        "SAMSUNG vs SK HYNIX / THE HBM DIVIDE"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/09/samsung-and-sk-hynix-brutal-hbm-split.html",
+      "topic_as_printed": "Samsung and SK hynix: The brutal HBM split in Seoul",
+      "original_file_page": "",
+      "credit_artist": "",
+      "license": "inherited: check existing live article photographic source caption",
+      "license_url": "",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "871ccd2616401c897a3fdad55c5bdf07ec82881ab57cf5c0b5e31192fa1c9e44",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "legacy original citation remains in public post; not independently recertified here"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/samsung-and-sk-hynix-brutal-hbm-split/section-04.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/samsung-and-sk-hynix-brutal-hbm-split/real-photo-04.webp",
+      "base_asset_sha256": "c3f456092a6c0ce5b484bfb6efa5a90425ea28ada0c4509eed40305a559d8f0f",
+      "title_overlay": [
+        "Can Samsung bypass HBM3E?"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/09/samsung-and-sk-hynix-brutal-hbm-split.html",
+      "topic_as_printed": "Samsung and SK hynix: The brutal HBM split in Seoul",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:NVIDIA_H100_(%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan)_012.png",
+      "credit_artist": "极客湾Geekerwan",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "5c3598f759da56beec4e1cd0b0ecc7be143c53732f16ffa12c574d6fd0843791",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/samsung-and-sk-hynix-reopen-after/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@c8157832e827c32c6bd23464761049d2b986f78f/posts/20260920-2147-decoding-samsung-s-latest-shareholder-filings-on-dart/photo1.webp",
+      "base_asset_sha256": "59da512036e17d8b6370f3ca484a6806e1b05e0643f797be45e627c20fb0bd17",
+      "title_overlay": [
+        "POST-CHUSEOK",
+        "SAMSUNG + SK HYNIX",
+        "REOPEN"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/09/samsung-and-sk-hynix-reopen-after.html",
+      "topic_as_printed": "Samsung and SK hynix Reopen After Chuseok",
+      "original_file_page": "",
+      "credit_artist": "",
+      "license": "inherited: check existing live article photographic source caption",
+      "license_url": "",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "f78e629d0911292e58055f1e8c0800b0f2f26db9cc6a7e49e6758dd958f0cb6f",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "legacy original citation remains in public post; not independently recertified here"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/samsung-and-sk-hynix-split-wall-street/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@324374e090217023e1b38d305917e3ca3c330881/posts/20261031-0719-kospi-foreign-flows-institutions-buy-krw-1-1t-samsung/photo2.webp",
+      "base_asset_sha256": "0e812b999b9c5a0b23a4b63084a045cffec21b857eb295c7e978e28588e3ab60",
+      "title_overlay": [
+        "WALL STREET SPLIT",
+        "KOREAN MEMORY",
+        "STOCKS"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/09/samsung-and-sk-hynix-split-wall-street.html",
+      "topic_as_printed": "Samsung and SK hynix split Wall Street and foreign funds",
+      "original_file_page": "",
+      "credit_artist": "",
+      "license": "inherited: check existing live article photographic source caption",
+      "license_url": "",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "4bd5549c79d67c1f3c0f572ff9b0969a7bec590b3ce1962020f3614d029fdcb4",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "legacy original citation remains in public post; not independently recertified here"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/samsung-and-sk-hynix-why-us-chip-moves/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@bd7be4f018aa104a2d7b2055fc9c4d24fdd33617/posts/20260920-2158-korean-memory-stocks-split-wall-street-and-foreign-sellers/photo2.jpg",
+      "base_asset_sha256": "2de6f93148b97c475a9afd1b16328e4aa66d2c798e7f67cde585bc4abe4b7f06",
+      "title_overlay": [
+        "WHY U.S. CHIP RALLIES",
+        "DON'T ALWAYS",
+        "LIFT SEOUL"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/09/samsung-and-sk-hynix-why-us-chip-moves.html",
+      "topic_as_printed": "Why US Chip Rallies Don't Carry Over to Samsung and SK hynix",
+      "original_file_page": "",
+      "credit_artist": "",
+      "license": "inherited: check existing live article photographic source caption",
+      "license_url": "",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "02c48b80787e244b74c0de23ddad8c4dcf002a8c6faa073c468b9aee0c181167",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "legacy original citation remains in public post; not independently recertified here"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/samsung-and-sk-hynix-why-us-chip-moves/section-02.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/samsung-and-sk-hynix-why-us-chip-moves/real-photo-02.webp",
+      "base_asset_sha256": "6cdfcb136047e170d3459d03849ea66f421d6c44fcabf214f4497d5059746a18",
+      "title_overlay": [
+        "Foreign broker windows on the KRX"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/09/samsung-and-sk-hynix-why-us-chip-moves.html",
+      "topic_as_printed": "Why US Chip Rallies Don't Carry Over to Samsung and SK hynix",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:NVidia_GRID_K1_PCB.jpg",
+      "credit_artist": "Phiarc",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "35e66781cffae5937786397fb75dbeccf09da8043d84053015572e1baca5fa87",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/samsung-electronics-slides-58-as/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@d777c03982fcdee3ec5859d9cf9202b927798004/r58-licensed-final-covers-20261123/samsung-electronics-slides-58-as/documentary-cover.webp",
+      "base_asset_sha256": "ffa5f77c3f2035dd46c477104f47e3d92cbade608a74ec7e040b634262ec56b0",
+      "title_overlay": [
+        "SAMSUNG -5.43%",
+        "FOREIGN SELLING",
+        "SEPTEMBER 28"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/09/samsung-electronics-slides-58-as.html",
+      "topic_as_printed": "Samsung Electronics Slides 5.43% as Foreign Investors Sell, 28 September 2026",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:President_Biden_visited_the_Samsung_Electronics_Pyeongtaek_Campus_(1).jpg",
+      "credit_artist": "Office of the President of the United States",
+      "license": "Public domain",
+      "license_url": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "1fa788834e45f9af69623dc2dbf0198290b4392386dd0a489127318ee996cffd",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/samsung-electronics-slides-58-as/section-02.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/samsung-electronics-slides-58-as/real-photo-01.webp",
+      "base_asset_sha256": "56ff6a02611cdc82051375c039b9e1d0b1f08220549c565c62a98153aa63522f",
+      "title_overlay": [
+        "SAMSUNG -5.43% / FOREIGN SELLING"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/09/samsung-electronics-slides-58-as.html",
+      "topic_as_printed": "Samsung Electronics Slides 5.43% as Foreign Investors Sell, 28 September 2026",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Front_of_server_racks_at_NERSC.jpg",
+      "credit_artist": "Derrick Coetzee from Berkeley, CA, USA",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "735ba78d1f29354b890d69c1168c47038fc0bf9b2a3ce0e3b156cb7d64ad4003",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/samsung-electronics-slides-58-as/section-06.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/samsung-electronics-slides-58-as/real-photo-05.webp",
+      "base_asset_sha256": "b89f7a16c8d6d561ccf195757ad5cf10e18a28174e100f28d63b54eabf67fe19",
+      "title_overlay": [
+        "Equipment Orders and China Foundry Demand"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/09/samsung-electronics-slides-58-as.html",
+      "topic_as_printed": "Samsung Electronics Slides 5.43% as Foreign Investors Sell, 28 September 2026",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Nvidia_DGX-B200-HGX.jpg",
+      "credit_artist": "Pokiiri",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "8adfc15119f9af26e89b3bf87ec74dbb51161e4c4d103ef552f6f9b5c001e62e",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/samsung-inflows-hit-krw-16t-as/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@d777c03982fcdee3ec5859d9cf9202b927798004/r58-licensed-final-covers-20261123/samsung-inflows-hit-krw-16t-as/documentary-cover.webp",
+      "base_asset_sha256": "14fc9940ed6b9fa3ac452207007360757c012733d9820a42268dcb6c18658446",
+      "title_overlay": [
+        "SAMSUNG INFLOWS",
+        "KRW 1.6T",
+        "HYNIX OUTFLOWS"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/09/samsung-inflows-hit-krw-16t-as.html",
+      "topic_as_printed": "Samsung Inflows Hit KRW 1.6T as Foreigners Dump SK Hynix",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Seoul_CBD_along_Jongro_near_Gwanghwamun_post_office.jpg",
+      "credit_artist": "DtSeoul",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "5ed3e2d529051a8cd8a2a30a8832bde32a1436445e5002d977ab203de09060fa",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/samsungs-dart-filings-and-foreign/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@9554f636ca3c044325cf54e90cb1249d5bc5974e/posts/20260920-2131-hbm4-packaging-battles-heat-up-in-seoul-s-fabs/photo2.jpg",
+      "base_asset_sha256": "ab57728966fc40d929cc705cc924a1680c674e5079f021e79c3b956a1ce829e4",
+      "title_overlay": [
+        "SAMSUNG DART FILINGS",
+        "FOREIGN SELLING",
+        "UNDER REVIEW"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/09/samsungs-dart-filings-and-foreign.html",
+      "topic_as_printed": "Samsung's DART Filings and the Foreign Selling Wave",
+      "original_file_page": "",
+      "credit_artist": "",
+      "license": "inherited: check existing live article photographic source caption",
+      "license_url": "",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "70b2b1fc4dbc5222bebf2662a9870493e849c975a248e1ac04b2cb41ea2d18f1",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "legacy original citation remains in public post; not independently recertified here"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/samsungs-dart-filings-and-foreign/section-04.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/samsungs-dart-filings-and-foreign/real-photo-04.webp",
+      "base_asset_sha256": "5ec00e3eed5a3b169a67c8f58d111ee0bb628577d52fe2d94b7b8b22941d83c9",
+      "title_overlay": [
+        "The Seoul consensus"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/09/samsungs-dart-filings-and-foreign.html",
+      "topic_as_printed": "Samsung's DART Filings and the Foreign Selling Wave",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Seoul_CBD_along_Jongro_near_Gwanghwamun_post_office.jpg",
+      "credit_artist": "DtSeoul",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "4343d6bebdd1c39fc816c5399bb66b1880e335adaac1fcb12efc829136d77646",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/seouls-ai-giants-pivot-to-practical/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@d777c03982fcdee3ec5859d9cf9202b927798004/r58-licensed-final-covers-20261123/seouls-ai-giants-pivot-to-practical/documentary-cover.webp",
+      "base_asset_sha256": "56999d75bdae9381d0c55fb89c3e78328f79371317f5d5ffc8435273f452ce31",
+      "title_overlay": [
+        "SEOUL'S AI GIANTS",
+        "PRACTICAL",
+        "APPLICATIONS"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/09/seouls-ai-giants-pivot-to-practical.html",
+      "topic_as_printed": "Seoul's AI Giants Pivot to Practical Ground-Level Apps",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Servers_in_a_Rack.jpg",
+      "credit_artist": "Abigor",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "742698bae2bb613fcf69c119d99f33539d2fa15fcf8269081507a74e61b260ad",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/sk-hynix-flows-turn-positive-as-foreign/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://raw.githubusercontent.com/taehoo/seoulaistocks-assets/70be9b54bea0fa1457f7bdd188c8e7dbff30fe4c/posts/20261111-en-capex-cleanroom-audit/photo-hynix-ddr5-ccby4.webp",
+      "base_asset_sha256": "78db721e051ea5a961d1b39d4fc05f7bf2693489bf4a199476b79f823a60ae38",
+      "title_overlay": [
+        "SK HYNIX FLOWS",
+        "FOREIGN SELLING",
+        "PAUSES"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/09/sk-hynix-flows-turn-positive-as-foreign.html",
+      "topic_as_printed": "SK hynix flows turn positive as foreign selling pauses",
+      "original_file_page": "",
+      "credit_artist": "",
+      "license": "inherited: check existing live article photographic source caption",
+      "license_url": "",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "9d341ab33a2f8b583e0c89077dcbd7d688680476d49087394c629b5cb7e42ecb",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "legacy original citation remains in public post; not independently recertified here"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/sk-hynix-flows-turn-positive-as-foreign/section-01.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/sk-hynix-flows-turn-positive-as-foreign/real-photo-01.webp",
+      "base_asset_sha256": "dea4a7dba2e3c194dd5be8c6d51614d75491c5b3d230e6dfa99b30c5ef041886",
+      "title_overlay": [
+        "SK HYNIX FLOWS / FOREIGN SELLING"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/09/sk-hynix-flows-turn-positive-as-foreign.html",
+      "topic_as_printed": "SK hynix flows turn positive as foreign selling pauses",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:SK_hynix_16GB_DDR5-5600_UDIMM_HMCG78AGBUA084N_BA.jpg",
+      "credit_artist": "ITEagle Europe - Sebastiaan Broekhoven",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "acbe3ac3c3fa0f2c3d85fd6e823ae1fb0d5754e70917f0eaafe0dd41a6d74175",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/sk-hynix-flows-turn-positive-as-foreign/section-05.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/sk-hynix-flows-turn-positive-as-foreign/real-photo-05.webp",
+      "base_asset_sha256": "b96829c73220221dab6ee1866d8eedf5286e726350a2ee8e3025a7589d7eb7f2",
+      "title_overlay": [
+        "Which investor groups bought SK hynix?"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/09/sk-hynix-flows-turn-positive-as-foreign.html",
+      "topic_as_printed": "SK hynix flows turn positive as foreign selling pauses",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Samsung_8GB_DDR4-2400_ECC_Registered_RDIMM_M393A1G40EB1-CRC0Q_-_rear_view.jpg",
+      "credit_artist": "ITEagle Europe - Sebastiaan Broekhoven",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "94fdb285f22be9039875e1a0aa90906b53d178ebe28bcc4cf214a735bfe6a266",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/6-questions-foreign-investors-ask-about/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/6-questions-foreign-investors-ask-about/real-photo-00.webp",
+      "base_asset_sha256": "45da985e91b3ea65735f6d9d1b9e2b0a6aaee3d88a9c67b41545ba2915dfc0ad",
+      "title_overlay": [
+        "KOREAN AUTO + BATTERY",
+        "SIX QUESTIONS",
+        "FOR INVESTORS"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/6-questions-foreign-investors-ask-about.html",
+      "topic_as_printed": "6 Questions Foreign Investors Ask About Korea Auto and Battery Shares",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Nissan_Leaf_battery_pack_DC_03_2011_1629.jpg",
+      "credit_artist": "Mariordo Mario Roberto Duran Ortiz",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "19e8113301b06d935cb5fed75c0d5064e90aa02428480f0048c8e141fb3a433e",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/6-questions-foreign-investors-ask-about/section-01.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/6-questions-foreign-investors-ask-about/real-photo-01.webp",
+      "base_asset_sha256": "2641d9941043baaf5682cb0d13197dde1e1d090dc6adb5854c9e0b4aba105766",
+      "title_overlay": [
+        "KOREAN AUTO + BATTERY / SIX QUESTIONS"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/6-questions-foreign-investors-ask-about.html",
+      "topic_as_printed": "6 Questions Foreign Investors Ask About Korea Auto and Battery Shares",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Lithium-Ion_Battery_for_BMW_i3_-_Battery_Pack.JPG",
+      "credit_artist": "RudolfSimon",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "a0323e7cc99eb9ad400e0f70829d7a68dba1dad2a2ea9b7a7339e6d2931a5cdc",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/alphabet-capex-rose-1001-how-us-memory/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@324374e090217023e1b38d305917e3ca3c330881/posts/20261031-0719-kospi-foreign-flows-institutions-buy-krw-1-1t-samsung/photo1.webp",
+      "base_asset_sha256": "948b5c14ad8b2d8aba848d24314db6b57813623356835fc2f8eb7dbcae7479dc",
+      "title_overlay": [
+        "ALPHABET CAPEX",
+        "+100.1%",
+        "SEOUL MEMORY LINK"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/alphabet-capex-rose-1001-how-us-memory.html",
+      "topic_as_printed": "Alphabet Capex Rose 100.1%: How US Memory Swings Touch Seoul",
+      "original_file_page": "",
+      "credit_artist": "",
+      "license": "inherited: check existing live article photographic source caption",
+      "license_url": "",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "d246f06039c179d42dc7734b24d6f79f3a52ea5d0641d2966219aaf8a308b2c4",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "legacy original citation remains in public post; not independently recertified here"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/alphabet-capex-rose-1001-how-us-memory/section-01.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/alphabet-capex-rose-1001-how-us-memory/real-photo-01.webp",
+      "base_asset_sha256": "b89f7a16c8d6d561ccf195757ad5cf10e18a28174e100f28d63b54eabf67fe19",
+      "title_overlay": [
+        "ALPHABET CAPEX / +100.1%"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/alphabet-capex-rose-1001-how-us-memory.html",
+      "topic_as_printed": "Alphabet Capex Rose 100.1%: How US Memory Swings Touch Seoul",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Nvidia_DGX-B200-HGX.jpg",
+      "credit_artist": "Pokiiri",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "558f5555c05fef3806c2e6efc398c5de855e47a0800522645cf21c7ec26f2be4",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/alphabet-capex-rose-1001-how-us-memory/section-04.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/alphabet-capex-rose-1001-how-us-memory/real-photo-04.webp",
+      "base_asset_sha256": "c3f456092a6c0ce5b484bfb6efa5a90425ea28ada0c4509eed40305a559d8f0f",
+      "title_overlay": [
+        "Why are foreign investors selling Samsung and SK hynix shares?"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/alphabet-capex-rose-1001-how-us-memory.html",
+      "topic_as_printed": "Alphabet Capex Rose 100.1%: How US Memory Swings Touch Seoul",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:NVIDIA_H100_(%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan)_012.png",
+      "credit_artist": "极客湾Geekerwan",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "784202d276020b0f7097f596e4632eca7710a74a712349611b5c29b5192d5c55",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/applied-materials-revenue-reached-912/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/applied-materials-revenue-reached-912/real-photo-00.webp",
+      "base_asset_sha256": "d7626498310bf6f52c06ff2f54d067f903e2d2d59861256a6e0383d83d3d25e6",
+      "title_overlay": [
+        "APPLIED MATERIALS",
+        "$9.12B REVENUE",
+        "MARGINS EXPAND"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/applied-materials-revenue-reached-912.html",
+      "topic_as_printed": "Applied Materials: Revenue Reached $9.12 Billion as Margin Expanded",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:A_semiconductor_wafer_being_removed_from_processing_equipment.jpg",
+      "credit_artist": "YouTube — Purdue Engineering",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "06634a056bcb4ced339b560558959dac5578086b01cd60bf0f1c823b6ae3c7f5",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/arm-holdings-june-quarter-revenue-hits/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@f06d2704a5b626408f5279e16a789cc0344baf84/posts/20260927-0941-samsung-and-sk-hynix-reopen-after-chuseok/photo1.jpg",
+      "base_asset_sha256": "aa39078a79b9032e7ec367e9274737197ff11fbab7078faee4b647441a1b4801",
+      "title_overlay": [
+        "ARM HOLDINGS",
+        "$1.29B REVENUE",
+        "97.2% MARGIN"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/arm-holdings-june-quarter-revenue-hits.html",
+      "topic_as_printed": "Arm Holdings: June Quarter Revenue Hits $1.29B with 97.2% Margin",
+      "original_file_page": "",
+      "credit_artist": "",
+      "license": "inherited: check existing live article photographic source caption",
+      "license_url": "",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "4ec949cb1e6fc82796721f304a250d95e9027476adf3d35b605c2b3ad5196a22",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "legacy original citation remains in public post; not independently recertified here"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/hyundai-and-lges-7-numbers-on-korea/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/hyundai-and-lges-7-numbers-on-korea/real-photo-00.webp",
+      "base_asset_sha256": "45da985e91b3ea65735f6d9d1b9e2b0a6aaee3d88a9c67b41545ba2915dfc0ad",
+      "title_overlay": [
+        "HYUNDAI + LGES",
+        "7 NUMBERS",
+        "FOR KOREA EVS"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/hyundai-and-lges-7-numbers-on-korea.html",
+      "topic_as_printed": "Hyundai and LGES: 7 Numbers on Korea Auto and Battery Flows",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Nissan_Leaf_battery_pack_DC_03_2011_1629.jpg",
+      "credit_artist": "Mariordo Mario Roberto Duran Ortiz",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "cb68664020f52172d616c4da7185b64b08fb7269ca1e55807b30ef43f818f499",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/hyundai-and-lges-7-numbers-on-korea/section-01.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/hyundai-and-lges-7-numbers-on-korea/real-photo-01.webp",
+      "base_asset_sha256": "2641d9941043baaf5682cb0d13197dde1e1d090dc6adb5854c9e0b4aba105766",
+      "title_overlay": [
+        "HYUNDAI + LGES / 7 NUMBERS"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/hyundai-and-lges-7-numbers-on-korea.html",
+      "topic_as_printed": "Hyundai and LGES: 7 Numbers on Korea Auto and Battery Flows",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Lithium-Ion_Battery_for_BMW_i3_-_Battery_Pack.JPG",
+      "credit_artist": "RudolfSimon",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "3a7c4e9bcfa43ed1bc9926a296840c7e99b5a2eb2b0302dcac1c57ac847ee22c",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/hyundai-and-lges-7-numbers-on-korea/section-03.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/hyundai-and-lges-7-numbers-on-korea/real-photo-03.webp",
+      "base_asset_sha256": "7229518d6e0afaeb61ac05e69c9c404e834fc261af9271c2598214b451b53c34",
+      "title_overlay": [
+        "The 7.8% operating margin"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/hyundai-and-lges-7-numbers-on-korea.html",
+      "topic_as_printed": "Hyundai and LGES: 7 Numbers on Korea Auto and Battery Flows",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Pangyo_Techno_Valley_2.jpg",
+      "credit_artist": "Imtotallykorean",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "71f09bd0867b2c1cfb1156824226bf9fa9a083ec11933c74d356c5ede824cf17",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/korean-chip-tool-filings-foreign-funds/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/korean-chip-tool-filings-foreign-funds/real-photo-00.webp",
+      "base_asset_sha256": "1300558c0e4b2419eb0ce4b63ad681eb77ad9c34d943ac4bc53d9561f5e4bf95",
+      "title_overlay": [
+        "KOREAN CHIP TOOLS",
+        "DART FILINGS",
+        "FOREIGN FUNDS"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/korean-chip-tool-filings-foreign-funds.html",
+      "topic_as_printed": "Korean Chip Tool Filings: Foreign Funds Absorb Equipment Basket",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Reinraum_BBS_Automation_Blaichach.jpg",
+      "credit_artist": "Clemenspool",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "3b304b837cc2e6a951c3a88ee337d38c6b6b5384b83b4fc07f23a30e11589b8c",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/kospi-foreign-flows-krw-90t-sold-in/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@d777c03982fcdee3ec5859d9cf9202b927798004/r58-licensed-final-covers-20261123/kospi-foreign-flows-krw-90t-sold-in/documentary-cover.webp",
+      "base_asset_sha256": "dc2cd28165516c28cb2cd71bf332c21af7e374bf2224782329a5b2d5497a0adc",
+      "title_overlay": [
+        "KOSPI FOREIGN SALES",
+        "KRW 8.32T",
+        "FIVE SESSIONS"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/kospi-foreign-flows-krw-90t-sold-in.html",
+      "topic_as_printed": "KOSPI Foreign Flows: KRW 8.32T Sold in Five Sessions",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Seoul_view.jpg",
+      "credit_artist": "Andrew and Annemarie",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "54680af9272eae5dc9e2ec87c9c8fdd6319eb7e80f2561fd9eae26eddbb59b7c",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/kospi-foreign-flows-krw-90t-sold-in/section-02.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/kospi-foreign-flows-krw-90t-sold-in/real-photo-01.webp",
+      "base_asset_sha256": "a516803d026b54b713abd5b5b87c9710eb62f17e195c109821dedcf22c286be4",
+      "title_overlay": [
+        "KOSPI FOREIGN SALES / KRW 8.32T"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/kospi-foreign-flows-krw-90t-sold-in.html",
+      "topic_as_printed": "KOSPI Foreign Flows: KRW 8.32T Sold in Five Sessions",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:AMD@14nm@GCN_5th_gen@Vega10@Radeon_RX_Vega_64@HBM_DRAM_Die@_Stack-DSC08838-DSC08973_-_ZS-retouched.jpg",
+      "credit_artist": "FritzchensFritz",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "1998edc49e5af19e069d35e72898833cf9f9fd25fe99464296fcc20e42c9b6ba",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/kospi-foreign-selling-meets-krw-56t/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@87aa22a7314a312868629cdaf95dac8e527ce57d/posts/20260920-2203-foreigners-dumped-krw-21t-in-seoul-who-bought-it/photo2.webp",
+      "base_asset_sha256": "e320c97293abcec23a856a160535c598b48e962584b665a7364ddbf286ae8ee4",
+      "title_overlay": [
+        "KOSPI FOREIGN SELLING",
+        "KRW 4.93T",
+        "CORPORATE BID"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/kospi-foreign-selling-meets-krw-56t.html",
+      "topic_as_printed": "KOSPI Foreign Selling Meets KRW 4.93T Corporate Bid",
+      "original_file_page": "",
+      "credit_artist": "",
+      "license": "inherited: check existing live article photographic source caption",
+      "license_url": "",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "9f4555b5f6f5524ca6f367dd81fc10b857d55584f529a0893efbfc80e33c440c",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "legacy original citation remains in public post; not independently recertified here"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/lam-research-revenue-reached-822b-as/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/lam-research-revenue-reached-822b-as/real-photo-00.webp",
+      "base_asset_sha256": "8cc514f0d1bb9f7fdb5f270615e02050091ddb0110a9205f2212680e06dae22c",
+      "title_overlay": [
+        "LAM RESEARCH",
+        "$8.22B REVENUE",
+        "MARGIN GROWTH"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/lam-research-revenue-reached-822b-as.html",
+      "topic_as_printed": "Lam Research Revenue Reached $8.22B as Margins Expanded",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Scientist_in_the_LCN_cleanroom_photolithography_lab.jpg",
+      "credit_artist": "University College London Faculty of Mathematical & Physical Sciences",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "0075c0896edd615ab93600cb1b0b8b0a877853d220fabff5dc2be849b8afe4a7",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/marvell-technology-q2-revenue-reaches/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@3d25361c6af65eda8059945788650a48533b50f1/posts/20261106-0850-ai-blue-wave-samsung-hynix-special/photo-datacenter.webp",
+      "base_asset_sha256": "2d77bc93bab25ceb0761f929d1464537721d8513b120f16daff7eae53074a9ac",
+      "title_overlay": [
+        "MARVELL TECHNOLOGY",
+        "$2.74B REVENUE",
+        "AI DEMAND"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/marvell-technology-q2-revenue-reaches.html",
+      "topic_as_printed": "Marvell Technology: Q2 Revenue Reaches $2.74B on AI Demand",
+      "original_file_page": "",
+      "credit_artist": "",
+      "license": "inherited: check existing live article photographic source caption",
+      "license_url": "",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "79042e122daa6838b94aaf0afaad3c83a9768534b0d1f5daee21b226504259a2",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "legacy original citation remains in public post; not independently recertified here"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/microsoft-capex-jumps-1096-as-seoul/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@d777c03982fcdee3ec5859d9cf9202b927798004/r58-licensed-final-covers-20261123/microsoft-capex-jumps-1096-as-seoul/documentary-cover.webp",
+      "base_asset_sha256": "66eef8e755e945cb852b3e889e256dc36a363e2393ab6d32be6a2dcfb4a8b54b",
+      "title_overlay": [
+        "MICROSOFT CAPEX",
+        "+109.6%",
+        "SEOUL SELLOFF"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/microsoft-capex-jumps-1096-as-seoul.html",
+      "topic_as_printed": "Microsoft capex jumps 109.6% as Seoul chip stocks face selloff",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Front_of_server_racks_at_NERSC.jpg",
+      "credit_artist": "Derrick Coetzee from Berkeley, CA, USA",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "92d83d7f34d434108c79def5816438dbeeb863215320e5d8166158c93607109e",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/nymex-natural-gas-drops-145-impact-on/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/nymex-natural-gas-drops-145-impact-on/real-photo-00.webp",
+      "base_asset_sha256": "20b63629ad00cad3aa7f826859c3bf4224ad9fa7970228f7f6451a916415f440",
+      "title_overlay": [
+        "NATURAL GAS",
+        "-14.5%",
+        "SEOUL GRID IMPACT"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/nymex-natural-gas-drops-145-impact-on.html",
+      "topic_as_printed": "NYMEX Natural Gas Drops 14.5%: Impact on Seoul Grid Makers",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Natural_Gas_Pipeline_Station.jpg",
+      "credit_artist": "Mbrickn",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "df3b16be5974c77e43cacfc0345be0d3a842872262821e0d13471b946a526bc0",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/nymex-natural-gas-drops-145-impact-on/section-01.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/nymex-natural-gas-drops-145-impact-on/real-photo-01.webp",
+      "base_asset_sha256": "b1e7e3143fbbff60670a66559c93f3b16b17025d5c205a2bd6931e1253c54fa3",
+      "title_overlay": [
+        "NATURAL GAS / -14.5%"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/nymex-natural-gas-drops-145-impact-on.html",
+      "topic_as_printed": "NYMEX Natural Gas Drops 14.5%: Impact on Seoul Grid Makers",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Gas_pipeline_odourant_injection_facility.JPG",
+      "credit_artist": "Glen Dillon",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "c0b9943685d38adb3f51cbfb66bf1ebcd4282fe2393a5753bd973cddda9ce776",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/nymex-natural-gas-drops-145-impact-on/section-03.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/nymex-natural-gas-drops-145-impact-on/real-photo-03.webp",
+      "base_asset_sha256": "82a1dde8fafec44965ddcdee5cd5483f314f9733544563716e46b295458eaa97",
+      "title_overlay": [
+        "What are the primary bear case factors for heavy industrials?"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/nymex-natural-gas-drops-145-impact-on.html",
+      "topic_as_printed": "NYMEX Natural Gas Drops 14.5%: Impact on Seoul Grid Makers",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Natural_Gas_Pipeline_Over_Provo_River_-_panoramio.jpg",
+      "credit_artist": "planetary_nebula",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "e6ad7283d985cdb4e3fe0cdef5d03f9a26e69b8177abd6bf3c0522977e12e42d",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/qualcomm-june-quarter-revenue-reaches/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/qualcomm-june-quarter-revenue-reaches/real-photo-00.webp",
+      "base_asset_sha256": "201f60556e329bfec53371c72fdfb099425b7a8e1075b3cd8953811c2888491b",
+      "title_overlay": [
+        "QUALCOMM",
+        "$9.95B REVENUE",
+        "53.1% GROSS MARGIN"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/qualcomm-june-quarter-revenue-reaches.html",
+      "topic_as_printed": "Qualcomm: June Quarter Revenue Reaches $9.95B with 53.1% Gross Margin",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Samsung_Galaxy_S_III_(GT-I9300)_-_board_-_Exynos_ARM-1305.jpg",
+      "credit_artist": "Raimond Spekking",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "21ecd8865a96f2e663ab340f5602cd7ea05ac91695cf73e67c96a39c107c18fb",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/reading-dart-titles-samsung-and-sk/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@9554f636ca3c044325cf54e90cb1249d5bc5974e/posts/20260920-2131-hbm4-packaging-battles-heat-up-in-seoul-s-fabs/photo1.jpg",
+      "base_asset_sha256": "47e9a8b48cf280759949e0915d47ebd8453c01b9fdc2dd0c0dedc3d2a7908963",
+      "title_overlay": [
+        "READING DART",
+        "SAMSUNG + SK HYNIX",
+        "COMPANY FILINGS"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/reading-dart-titles-samsung-and-sk.html",
+      "topic_as_printed": "Reading DART Titles: Samsung and SK hynix Filings",
+      "original_file_page": "",
+      "credit_artist": "",
+      "license": "inherited: check existing live article photographic source caption",
+      "license_url": "",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "893bb3f2f50aed937d7631aec8f6e77a7c7378aa0efcd8a367277b395a3f942f",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "legacy original citation remains in public post; not independently recertified here"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/reading-korea-exchange-mechanics-and/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/reading-korea-exchange-mechanics-and/real-photo-00.webp",
+      "base_asset_sha256": "0b6eddd4472305155e30e13410622494dca18a0b5988b01c225b3998424b0aad",
+      "title_overlay": [
+        "KOREA EXCHANGE",
+        "FOREIGN FLOW",
+        "DATA GUIDE"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/reading-korea-exchange-mechanics-and.html",
+      "topic_as_printed": "Reading Korea Exchange Mechanics and Foreign Flow Data",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Korea_exchange.JPG",
+      "credit_artist": "hyolee2",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "88860217e970c1125dc8b7db698e6ceed1fe4c818d0edb57c47653ada76c7db4",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/reading-korea-exchange-mechanics-and/section-01.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/reading-korea-exchange-mechanics-and/real-photo-01.webp",
+      "base_asset_sha256": "d7626498310bf6f52c06ff2f54d067f903e2d2d59861256a6e0383d83d3d25e6",
+      "title_overlay": [
+        "KOREA EXCHANGE / FOREIGN FLOW"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/reading-korea-exchange-mechanics-and.html",
+      "topic_as_printed": "Reading Korea Exchange Mechanics and Foreign Flow Data",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:A_semiconductor_wafer_being_removed_from_processing_equipment.jpg",
+      "credit_artist": "YouTube — Purdue Engineering",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "82b10ea6f6ad887be6531b4a5e3b3a16309ae700c993c3ae31b83b272cd644a4",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/samsung-and-sk-hynix-flows-how-foreign/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@d777c03982fcdee3ec5859d9cf9202b927798004/r58-licensed-final-covers-20261123/samsung-and-sk-hynix-flows-how-foreign/documentary-cover.webp",
+      "base_asset_sha256": "b75ab9d5e572c177e22fb65a6bdd9246b708caa100421c77bd60502a78a81ad0",
+      "title_overlay": [
+        "FOREIGN SELLING",
+        "HOW KRX TRACKS",
+        "KOREA FLOWS"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/samsung-and-sk-hynix-flows-how-foreign.html",
+      "topic_as_printed": "Samsung and SK Hynix Flows: How Foreign Selling Works",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Seoul,_Korea-_March_2014_(13301563703).jpg",
+      "credit_artist": "Michael Sean Gallagher  from London, United Kingdom",
+      "license": "Public domain",
+      "license_url": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "07660d2b4c5e52991784e3d11b5f7b802c3c46b8e11cf1253144b9646e79133c",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/samsung-and-sk-hynix-how-krx-tracks/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@d777c03982fcdee3ec5859d9cf9202b927798004/r58-licensed-final-covers-20261123/samsung-and-sk-hynix-how-krx-tracks/documentary-cover.webp",
+      "base_asset_sha256": "f1f97704350a1710fe61151f9f7ace6b6cfa269358974a047a7ed26ea639aa0c",
+      "title_overlay": [
+        "HOW KRX TRACKS",
+        "FOREIGN CUSTODY",
+        "MEMORY STOCKS"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/samsung-and-sk-hynix-how-krx-tracks.html",
+      "topic_as_printed": "Samsung and SK hynix: How KRX Tracks Foreign Custody and Windows",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Pangyo_Techno_Valley_2.jpg",
+      "credit_artist": "Imtotallykorean",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "13955735d9c7b8b1001f3e51efbfe70d8612b85771c0970044c97c8eaa699861",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/samsung-dart-orders-drive-korean-chip/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@ffea9c9ba78b56faabf21856cb81732a34438e3c/posts/20261009-1808-korean-chip-tool-filings-foreign-funds-absorb-equipment-bask/photo2.webp",
+      "base_asset_sha256": "3a05bbf3a873517f3ee5b4d2cd05adba49cd6baffd5f2f8fb8d00a8585e22094",
+      "title_overlay": [
+        "SAMSUNG DART ORDERS",
+        "KOREAN CHIP",
+        "TOOL CONTRACTS"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/samsung-dart-orders-drive-korean-chip.html",
+      "topic_as_printed": "Samsung DART Orders Drive Korean Chip Tooling Flows",
+      "original_file_page": "",
+      "credit_artist": "",
+      "license": "inherited: check existing live article photographic source caption",
+      "license_url": "",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "6099124a78345b8d3f029d361b08b2460feb651e490428f385aaab118eadc2a4",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "legacy original citation remains in public post; not independently recertified here"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/samsung-dart-orders-drive-korean-chip/section-01.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/samsung-dart-orders-drive-korean-chip/real-photo-01.webp",
+      "base_asset_sha256": "8cc514f0d1bb9f7fdb5f270615e02050091ddb0110a9205f2212680e06dae22c",
+      "title_overlay": [
+        "SAMSUNG DART ORDERS / KOREAN CHIP"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/samsung-dart-orders-drive-korean-chip.html",
+      "topic_as_printed": "Samsung DART Orders Drive Korean Chip Tooling Flows",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Scientist_in_the_LCN_cleanroom_photolithography_lab.jpg",
+      "credit_artist": "University College London Faculty of Mathematical & Physical Sciences",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "3f2aaf3f7d13b02213faabaa17081799cd7e35c86867ae34fe05123779d620a9",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/samsung-dart-orders-drive-korean-chip/section-02.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/samsung-dart-orders-drive-korean-chip/real-photo-02.webp",
+      "base_asset_sha256": "fe100abb888194f676574554ea6809beb4f0a2d2b0ff39ffa62c48775f43d10b",
+      "title_overlay": [
+        "Hanmi Semiconductor's Thai OSAT deal"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/samsung-dart-orders-drive-korean-chip.html",
+      "topic_as_printed": "Samsung DART Orders Drive Korean Chip Tooling Flows",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Wafer_prober_service_configuration.jpg",
+      "credit_artist": "Ixnayonthetimmay",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "080e10dd02cb376039ca1b39d8188f057e37e5e734202b0935ab2d15a0bbd951",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/samsung-electronics-falls-59-seoul/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@d777c03982fcdee3ec5859d9cf9202b927798004/r58-licensed-final-covers-20261123/samsung-electronics-falls-59-seoul/documentary-cover.webp",
+      "base_asset_sha256": "cd84bd074e39ae7cbb4f6305f8471af0506f2b726738ffb254ce8ffe67d8d0f4",
+      "title_overlay": [
+        "SAMSUNG -4.13%",
+        "OCTOBER 29 KRX",
+        "FOREIGN FLOWS"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/samsung-electronics-falls-59-seoul.html",
+      "topic_as_printed": "Samsung Electronics Falls 4.13%: KRX Closes and Foreign Flows, 29 October 2026",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Korea_exchange.JPG",
+      "credit_artist": "hyolee2",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "1360f66dbda75e702f870a023402ac70b6fbc920039bfb96f189929c8c972b86",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/samsung-vs-sk-hynix-how-korean-chip/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@7a3b0b15ed6947e38dbee62caba619a9fcee587a/posts/20261024-2142-dart-filings-guide-reading-samsung-and-sk-hynix-notices/photo2.webp",
+      "base_asset_sha256": "51c9f33bb3aafe760d9b998d7e2bb1053113f0a124ab6e0c50e9a169fa7949e2",
+      "title_overlay": [
+        "SAMSUNG vs SK HYNIX",
+        "EARNINGS FILINGS",
+        "SIDE BY SIDE"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/samsung-vs-sk-hynix-how-korean-chip.html",
+      "topic_as_printed": "Samsung vs SK hynix: How Korean Chip Earnings Disclosures Differ",
+      "original_file_page": "",
+      "credit_artist": "",
+      "license": "inherited: check existing live article photographic source caption",
+      "license_url": "",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "ccbb4cdb20126e6dfcae6dcf51740f1ac86ee5f89c8a5b7eabacb743ed784518",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "legacy original citation remains in public post; not independently recertified here"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/samsung-vs-sk-hynix-how-korean-chip/section-01.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/samsung-vs-sk-hynix-how-korean-chip/real-photo-01.webp",
+      "base_asset_sha256": "b96829c73220221dab6ee1866d8eedf5286e726350a2ee8e3025a7589d7eb7f2",
+      "title_overlay": [
+        "SAMSUNG vs SK HYNIX / EARNINGS FILINGS"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/samsung-vs-sk-hynix-how-korean-chip.html",
+      "topic_as_printed": "Samsung vs SK hynix: How Korean Chip Earnings Disclosures Differ",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Samsung_8GB_DDR4-2400_ECC_Registered_RDIMM_M393A1G40EB1-CRC0Q_-_rear_view.jpg",
+      "credit_artist": "ITEagle Europe - Sebastiaan Broekhoven",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "69a5d21cb75dc6ac4136144cf6da765074b5604d4a6128d1612af842e4602590",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/samsung-vs-sk-hynix-how-korean-chip/section-04.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/samsung-vs-sk-hynix-how-korean-chip/real-photo-04.webp",
+      "base_asset_sha256": "a173795b36854062eeb28191e4c1e2a24178fe772ab3712dac6f8e6321710fba",
+      "title_overlay": [
+        "SK hynix and the single late-month disclosure"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/samsung-vs-sk-hynix-how-korean-chip.html",
+      "topic_as_printed": "Samsung vs SK hynix: How Korean Chip Earnings Disclosures Differ",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:President_Biden_visited_the_Samsung_Electronics_Pyeongtaek_Campus_(1).jpg",
+      "credit_artist": "Office of the President of the United States",
+      "license": "Public domain",
+      "license_url": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "6ed3df53eec6f86c01ed114e02af6f21522aa8ba82a492be34ef75755bbb934d",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/samsungs-krw-1074t-quarter-read-from/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@d777c03982fcdee3ec5859d9cf9202b927798004/r58-licensed-final-covers-20261123/samsungs-krw-1074t-quarter-read-from/documentary-cover.webp",
+      "base_asset_sha256": "7a6898282693f6b167f89e736ef0374fbe0b94c3dcc8571dd2a690d82c7dac71",
+      "title_overlay": [
+        "SAMSUNG QUARTER",
+        "KRW 107.4T",
+        "DART FILING"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/samsungs-krw-1074t-quarter-read-from.html",
+      "topic_as_printed": "Samsung's KRW 107.4T Quarter, Read From the DART Filing",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:A_semiconductor_wafer_being_removed_from_processing_equipment.jpg",
+      "credit_artist": "YouTube — Purdue Engineering",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "4c24333b12ebee164071e1accab4f1b15936a43bfddee3ba4cf39c0c5a32c77e",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/samsungs-krw-1074t-quarter-read-from/section-02.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/samsungs-krw-1074t-quarter-read-from/real-photo-02.webp",
+      "base_asset_sha256": "a019841c8fd5a94d7459b5539998bec2369b9863b53f529fe2e4c2557d802b23",
+      "title_overlay": [
+        "October 29 conference call notice details"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/samsungs-krw-1074t-quarter-read-from.html",
+      "topic_as_printed": "Samsung's KRW 107.4T Quarter, Read From the DART Filing",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:SK_Hynix_DDR5_Tall_MRDIMM.jpg",
+      "credit_artist": "4300streetcar",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "fa1a751818d03bd8c32993ffd903a8e3b0cf9d27663d147f00aa48a19a546749",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/sk-hynix-and-samsung-face-philadelphia/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@87aa22a7314a312868629cdaf95dac8e527ce57d/posts/20260920-2203-foreigners-dumped-krw-21t-in-seoul-who-bought-it/photo1.webp",
+      "base_asset_sha256": "1a6d964efef233928043a31736ec9554628cfe8d6bb42a4a0b974144e5506656",
+      "title_overlay": [
+        "HYNIX + SAMSUNG",
+        "PHILADELPHIA",
+        "INDEX SLUMP"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/sk-hynix-and-samsung-face-philadelphia.html",
+      "topic_as_printed": "SK hynix and Samsung Face Philadelphia Index Slump",
+      "original_file_page": "",
+      "credit_artist": "",
+      "license": "inherited: check existing live article photographic source caption",
+      "license_url": "",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "b517ec93ff1627e9a592ced66ea65a6cf142f1bf72530c411708293d442d5e5c",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "legacy original citation remains in public post; not independently recertified here"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/sk-hynix-and-samsung-face-philadelphia/section-01.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/sk-hynix-and-samsung-face-philadelphia/real-photo-01.webp",
+      "base_asset_sha256": "c3f456092a6c0ce5b484bfb6efa5a90425ea28ada0c4509eed40305a559d8f0f",
+      "title_overlay": [
+        "Philadelphia Semiconductor Index -3.8% on 2026-10-16 and Seoul Spillovers"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/sk-hynix-and-samsung-face-philadelphia.html",
+      "topic_as_printed": "SK hynix and Samsung Face Philadelphia Index Slump",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:NVIDIA_H100_(%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan)_012.png",
+      "credit_artist": "极客湾Geekerwan",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "d3314c1b3791a6795a8f31d0b7dc5d01546f64fc7e07c32ab3555fd19bbbb502",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/sk-hynix-and-samsung-face-philadelphia/section-04.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/sk-hynix-and-samsung-face-philadelphia/real-photo-04.webp",
+      "base_asset_sha256": "dea4a7dba2e3c194dd5be8c6d51614d75491c5b3d230e6dfa99b30c5ef041886",
+      "title_overlay": [
+        "Broker price-target graphic withdrawn (source transparency)"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/sk-hynix-and-samsung-face-philadelphia.html",
+      "topic_as_printed": "SK hynix and Samsung Face Philadelphia Index Slump",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:SK_hynix_16GB_DDR5-5600_UDIMM_HMCG78AGBUA084N_BA.jpg",
+      "credit_artist": "ITEagle Europe - Sebastiaan Broekhoven",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "e8158ff82c664683e48de509a31493e22237e64791ffca5f025d9ab72a62dc01",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/sk-hynix-falls-131-foreign-selling/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@d777c03982fcdee3ec5859d9cf9202b927798004/r58-licensed-final-covers-20261123/sk-hynix-falls-131-foreign-selling/documentary-cover.webp",
+      "base_asset_sha256": "24c4cfe3279ed9b85cfdaa298aa402c947a871baaadc4a336fcc426d6f8ef9c2",
+      "title_overlay": [
+        "HYNIX -11.06%",
+        "KRX SELLING",
+        "BROKER TARGETS"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/sk-hynix-falls-131-foreign-selling.html",
+      "topic_as_printed": "SK hynix Falls 11.06% on October 15: KRX Selling and Broker Targets",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:SK_hynix_16GB_DDR5-5600_UDIMM_HMCG78AGBUA084N_BA.jpg",
+      "credit_artist": "ITEagle Europe - Sebastiaan Broekhoven",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "14de11ef8dab212a93970026147a1f6bea5f524fce28dec574180b9e4a5bea41",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/sk-hynix-record-quarter-sends-kospi/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@d777c03982fcdee3ec5859d9cf9202b927798004/r58-licensed-final-covers-20261123/sk-hynix-record-quarter-sends-kospi/documentary-cover.webp",
+      "base_asset_sha256": "c9482edfc97347f86cf8b1f467f002fc213280cd1d73994210174294e5d7c9d9",
+      "title_overlay": [
+        "HYNIX RECORD QUARTER",
+        "KOSPI ABOVE 6,000",
+        "OCTOBER 28"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/sk-hynix-record-quarter-sends-kospi.html",
+      "topic_as_printed": "SK hynix Record Quarter Sends KOSPI Past 6,000 on Oct 28",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Micro-chips_wafer_(59614).jpg",
+      "credit_artist": "Syced",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "6fc403471f9267d3e4f87db43b2900293e052c7375cbc26d51f84b267fb5b380",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/tsmc-revenue-at-nt5119b-and-september/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@d4e9a0a225a31effc5d737a6d2bb278a2f35356c/posts/20261113-premium-cover-refresh-3/en12-semiconductor-earnings.webp",
+      "base_asset_sha256": "d4de6fa7af72b50e2190db50affbd31603f47a2be22bf511cc6ebe7799560c86",
+      "title_overlay": [
+        "COREWEAVE DEBT",
+        "CXMT SHADOW",
+        "CHIP SELLOFF"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/tsmc-revenue-at-nt5119b-and-september.html",
+      "topic_as_printed": "CoreWeave Debt Strain and CXMT Shadow: Samsung & SK Hynix Plunge 11-12% as KOSPI Drops 9% Despite TSMC Blowout Q3",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Front_of_server_racks_at_NERSC.jpg",
+      "credit_artist": "Derrick Coetzee from Berkeley, CA, USA",
+      "license": "CC0",
+      "license_url": "",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "5efb5bf31bd23413db3d3d2e0422a5d7699d7d76c6fadc988e1dd54368f22290",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/us-natural-gas-up-125-as-korean-grid/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/us-natural-gas-up-125-as-korean-grid/real-photo-00.webp",
+      "base_asset_sha256": "20b63629ad00cad3aa7f826859c3bf4224ad9fa7970228f7f6451a916415f440",
+      "title_overlay": [
+        "U.S. NATURAL GAS",
+        "+12.5%",
+        "KOREA POWER STOCKS"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/us-natural-gas-up-125-as-korean-grid.html",
+      "topic_as_printed": "US Natural Gas Up 12.5% As Korean Grid And Power Makers Pull Back",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Natural_Gas_Pipeline_Station.jpg",
+      "credit_artist": "Mbrickn",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "5d03135120cb3d5da8938bfad5e847de1a92bafd51774569f01769908b5eb28d",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/yc-and-nextin-book-krw-187b-in-dart/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@6793b93a2b6e9f286485d7fade317deedefc8c88/posts/20261030-2052-di-corporation-krw-15-3b-samsung-order-extends-into-late-202/photo1.webp",
+      "base_asset_sha256": "69ef5587f8c254b35200e2582a09733d6628f8eff3d08b0eb6429e67692748cd",
+      "title_overlay": [
+        "YC + NEXTIN",
+        "KRW 187B",
+        "DART CONTRACTS"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/yc-and-nextin-book-krw-187b-in-dart.html",
+      "topic_as_printed": "YC and Nextin Book KRW 187B in DART Chip Tool Contracts",
+      "original_file_page": "",
+      "credit_artist": "",
+      "license": "inherited: check existing live article photographic source caption",
+      "license_url": "",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "f77f432a947a36a0e5c9e103887bac0c5dbddaf26217b8adec31e20e6c72e565",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "legacy original citation remains in public post; not independently recertified here"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/yc-and-nextin-book-krw-187b-in-dart/section-03.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/yc-and-nextin-book-krw-187b-in-dart/real-photo-03.webp",
+      "base_asset_sha256": "d7626498310bf6f52c06ff2f54d067f903e2d2d59861256a6e0383d83d3d25e6",
+      "title_overlay": [
+        "Test board orders from DI and Exicon"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/10/yc-and-nextin-book-krw-187b-in-dart.html",
+      "topic_as_printed": "YC and Nextin Book KRW 187B in DART Chip Tool Contracts",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:A_semiconductor_wafer_being_removed_from_processing_equipment.jpg",
+      "credit_artist": "YouTube — Purdue Engineering",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "3953a708a77d79200b76cfaa8e3ae2937cbc4ad693bdd93b6b8721fbb24d3678",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/amd-revenue-hits-1338b-as-shares-swing/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/amd-revenue-hits-1338b-as-shares-swing/real-photo-00.webp",
+      "base_asset_sha256": "a516803d026b54b713abd5b5b87c9710eb62f17e195c109821dedcf22c286be4",
+      "title_overlay": [
+        "AMD'S $13.38B",
+        "REVENUE",
+        "AFTER THE RALLY"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/11/amd-revenue-hits-1338b-as-shares-swing.html",
+      "topic_as_printed": "AMD Revenue Hits $13.38B as Shares Swing After a 139% Run",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:AMD@14nm@GCN_5th_gen@Vega10@Radeon_RX_Vega_64@HBM_DRAM_Die@_Stack-DSC08838-DSC08973_-_ZS-retouched.jpg",
+      "credit_artist": "FritzchensFritz",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "77a318cf07e28e32d8b414af510be561200c02d39f04f7bea24421022901dce5",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/amd-revenue-hits-1338b-as-shares-swing/section-02.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/micron-drops-180-over-5-sessions-as/real-photo-00.webp",
+      "base_asset_sha256": "30ef6eba4a7a272acb74c9b0316d822b75ca76ce30287eaf4f4942986af48e66",
+      "title_overlay": [
+        "Gross and operating margins widen alongside revenue"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/11/amd-revenue-hits-1338b-as-shares-swing.html",
+      "topic_as_printed": "AMD Revenue Hits $13.38B as Shares Swing After a 139% Run",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Silicon_Wafer_20190210.jpg",
+      "credit_artist": "Enrique Jiménez",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "d378a2612137d3348f198f4abeda457e90b8ff39ef65d2b921889c42f3a59364",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/amd-revenue-hits-1338b-as-shares-swing/section-03.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/hbm4-packaging-battles-heat-up-in/real-photo-00.webp",
+      "base_asset_sha256": "434d42d244b54bd3d29cf446c5b99276fa58afc84260fd4a9075f6d81d52aff8",
+      "title_overlay": [
+        "AMD accelerators rely on Korean memory"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/11/amd-revenue-hits-1338b-as-shares-swing.html",
+      "topic_as_printed": "AMD Revenue Hits $13.38B as Shares Swing After a 139% Run",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:AMD_Fiji_GPU_package_with_GPU,_HBM_memory_and_interposer.jpg",
+      "credit_artist": "C. Spille/pcgameshardware.de",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "5f0d9a21be2c9e698a777bb323242ce020b4d901a6f939d9d657bd2d242428af",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/amd-revenue-hits-1338b-as-shares-swing/section-04.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/alphabet-capex-rose-1001-how-us-memory/real-photo-00.webp",
+      "base_asset_sha256": "56ff6a02611cdc82051375c039b9e1d0b1f08220549c565c62a98153aa63522f",
+      "title_overlay": [
+        "How AMD connects to Korean memory manufacturers"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/11/amd-revenue-hits-1338b-as-shares-swing.html",
+      "topic_as_printed": "AMD Revenue Hits $13.38B as Shares Swing After a 139% Run",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Front_of_server_racks_at_NERSC.jpg",
+      "credit_artist": "Derrick Coetzee from Berkeley, CA, USA",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "2a0632eb4d9b8c64a6db29fd335c8982f5447c565921ce1eb2d8cb5c546e6acd",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/asml-revenue-hits-eur-1166b-as-shares/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@7276a3b/liveedit/seoulaistocks/asml-evidence-20261118/cover.webp",
+      "base_asset_sha256": "d650cb96f98f0beaf0adb24f99cb04aa0eb56ebfeac1be22e20afba41c40a258",
+      "title_overlay": [
+        "ASML REVENUE",
+        "EUR 11.66B",
+        "SHARES LAG"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/11/asml-revenue-hits-eur-1166b-as-shares.html",
+      "topic_as_printed": "ASML Revenue Hits EUR 11.66B as Shares Sit 22.2% Off High",
+      "original_file_page": "",
+      "credit_artist": "",
+      "license": "inherited: check existing live article photographic source caption",
+      "license_url": "",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "dee0e567a2cabd60b2f43560a33349c62aead1c5f55b07d082039370accf9036",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "legacy original citation remains in public post; not independently recertified here"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/di-corporation-krw-153b-samsung-order/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@15f330a71fd5c1869b8916e9add685df5c5c4245/posts/20261115-2106-sk-hynix-equipment-orders-tes-logs-krw-48-1b-supply-contract/photo1.webp",
+      "base_asset_sha256": "03a03460647eb52d6b83e58477b5bd503203cae8ef7a00dbb5b2cb1b557dfbb6",
+      "title_overlay": [
+        "DI CORPORATION",
+        "KRW 15.3B",
+        "SAMSUNG ORDER"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/11/di-corporation-krw-153b-samsung-order.html",
+      "topic_as_printed": "DI Corporation: KRW 15.3B Samsung Order Extends into Late 2027",
+      "original_file_page": "",
+      "credit_artist": "",
+      "license": "inherited: check existing live article photographic source caption",
+      "license_url": "",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "f1fc773d988d81c1eda1548bf87637c79a2534fc42846b6f2e391592d169e04a",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "legacy original citation remains in public post; not independently recertified here"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/kospi-foreign-flows-institutions-buy/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@d777c03982fcdee3ec5859d9cf9202b927798004/r58-licensed-final-covers-20261123/kospi-foreign-flows-institutions-buy/documentary-cover.webp",
+      "base_asset_sha256": "daf5325284468a0add5d67682f1b42ce3a5a298bc7ad35b3455be3a2f23aff81",
+      "title_overlay": [
+        "INSTITUTIONS BUY",
+        "KRW 1.1T",
+        "SAMSUNG"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/11/kospi-foreign-flows-institutions-buy.html",
+      "topic_as_printed": "KOSPI Foreign Flows: Institutions Buy KRW 1.1T Samsung",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:63_Building,_Seoul_(15494852338).jpg",
+      "credit_artist": "Aleksandr Zykov  from Russia",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "a8d84671267a1e089f7c8bd7bbed27395ecc83b667bbf98b80f37f3aca20c8af",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/kospi-weekly-foreigners-buy-krw-476b-as/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@bd7be4f018aa104a2d7b2055fc9c4d24fdd33617/posts/20260920-2158-korean-memory-stocks-split-wall-street-and-foreign-sellers/photo1.jpg",
+      "base_asset_sha256": "fe27a4b978cb60f8778f2e3fc3589098eabf7fb1839c24dda0ce0022890ef37b",
+      "title_overlay": [
+        "KOSPI WEEKLY FLOWS",
+        "FOREIGN BUYING",
+        "MEMORY DIVERGENCE"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/11/kospi-weekly-foreigners-buy-krw-476b-as.html",
+      "topic_as_printed": "KOSPI Weekly Foreign Flows Rebound as Samsung and SK hynix Diverge",
+      "original_file_page": "",
+      "credit_artist": "",
+      "license": "inherited: check existing live article photographic source caption",
+      "license_url": "",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "fe6d34917e26d273092b8c7b26e0d973716e0d83548a4fb0ec89cc74ad961ecc",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "legacy original citation remains in public post; not independently recertified here"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/micron-drops-180-over-5-sessions-as/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/micron-drops-180-over-5-sessions-as/real-photo-00.webp",
+      "base_asset_sha256": "30ef6eba4a7a272acb74c9b0316d822b75ca76ce30287eaf4f4942986af48e66",
+      "title_overlay": [
+        "MICRON -18.0%",
+        "FIVE SESSIONS",
+        "REVENUE $54.23B"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/11/micron-drops-180-over-5-sessions-as.html",
+      "topic_as_printed": "Micron Drops 18.0% Over 5 Sessions as Revenue Hits $54.23B",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Silicon_Wafer_20190210.jpg",
+      "credit_artist": "Enrique Jiménez",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "94e8ff76449dec38e0190e013e2190851c5c3a5433948a6e0316d62719a03967",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/qualcomm-drops-111-revenue-slips-to-995/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/qualcomm-drops-111-revenue-slips-to-995/real-photo-00.webp",
+      "base_asset_sha256": "c6a17436a39e87b81b0c8422ac24835f6ceceae1cc1666eb66a9eecb2ac0bfc4",
+      "title_overlay": [
+        "QUALCOMM -11.1%",
+        "$9.95B REVENUE"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/11/qualcomm-drops-111-revenue-slips-to-995.html",
+      "topic_as_printed": "Qualcomm Drops 11.1%: Revenue Slips to $9.95 Billion",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Micro-chips_wafer_(83846).jpg",
+      "credit_artist": "Syced",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "1915a330c4ecb108f8c10b45bf85d3e24b958d2544a62a8227386f0fc6daaf2f",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/sk-hynix-and-samsung-us-tech-rout-and/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@d777c03982fcdee3ec5859d9cf9202b927798004/r58-licensed-final-covers-20261123/sk-hynix-and-samsung-us-tech-rout-and/documentary-cover.webp",
+      "base_asset_sha256": "ea3857300268c2a1c09871d128d886e3e9dfc9ede9e6aecaa2d4e504eec40abf",
+      "title_overlay": [
+        "U.S. TECH ROUT",
+        "SAMSUNG · SK HYNIX",
+        "MEMORY SHARES"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/11/sk-hynix-and-samsung-us-tech-rout-and.html",
+      "topic_as_printed": "SK hynix and Samsung: US Tech Rout and Memory Shares",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Datacenter_Server_Racks_(22370909788).jpg",
+      "credit_artist": "Carl Lender  from Sunrise, USA",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "5a76c390609564f03e1e851460f78e25de11cb5f0b4c7433d70bff15b45b423d",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/sk-hynix-drops-111-what-korean-press/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@d777c03982fcdee3ec5859d9cf9202b927798004/r58-licensed-final-covers-20261123/sk-hynix-drops-111-what-korean-press/documentary-cover.webp",
+      "base_asset_sha256": "b001ecf045ee56d82aeab22b87b2c70d0dfaa3d9e6f733398abefa3cc94e64b9",
+      "title_overlay": [
+        "HYNIX -9.46%",
+        "NOVEMBER 5",
+        "KRX FOREIGN FLOWS"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/11/sk-hynix-drops-111-what-korean-press.html",
+      "topic_as_printed": "SK hynix Falls 9.46% on November 5: KRX Foreign Flows and Korean Press",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Cleanroom_inside.jpg",
+      "credit_artist": "Stan Zurek",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "e55d637617be5f9bef0f465c83a0ace85d2660e854591bc94717228a93a49ac4",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/sk-hynix-drops-111-what-korean-press/section-02.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/sk-hynix-drops-111-what-korean-press/real-photo-01.webp",
+      "base_asset_sha256": "8cc514f0d1bb9f7fdb5f270615e02050091ddb0110a9205f2212680e06dae22c",
+      "title_overlay": [
+        "HYNIX -9.46% / NOVEMBER 5"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/11/sk-hynix-drops-111-what-korean-press.html",
+      "topic_as_printed": "SK hynix Falls 9.46% on November 5: KRX Foreign Flows and Korean Press",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Scientist_in_the_LCN_cleanroom_photolithography_lab.jpg",
+      "credit_artist": "University College London Faculty of Mathematical & Physical Sciences",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "48ceb6fd1b1e5277bf875d56fa96be09580027c31f25d86eda36899e66d74c79",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/sk-hynix-drops-111-what-korean-press/section-04.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/sk-hynix-drops-111-what-korean-press/real-photo-03.webp",
+      "base_asset_sha256": "fe100abb888194f676574554ea6809beb4f0a2d2b0ff39ffa62c48775f43d10b",
+      "title_overlay": [
+        "What are Korean press and brokers saying about SK hynix?"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/11/sk-hynix-drops-111-what-korean-press.html",
+      "topic_as_printed": "SK hynix Falls 9.46% on November 5: KRX Foreign Flows and Korean Press",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Wafer_prober_service_configuration.jpg",
+      "credit_artist": "Ixnayonthetimmay",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "8d4179b99cf79bb19db40678c3e80566bd7df4ec96cd3d48b6697b9b6cfcaed1",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/sk-hynix-equipment-orders-tes-logs-krw/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@55cbd8442122c13165dac6488a62a73e627ce908/posts/20261029-0134-applied-materials-revenue-reached-9-12-billion-as-margin-exp/photo1.webp",
+      "base_asset_sha256": "5fdde3b8359f068d4088f5a65b26eedc1a382bee3537fdcf8f610b991b23c2e4",
+      "title_overlay": [
+        "TES EQUIPMENT ORDER",
+        "KRW 48.1B",
+        "SK HYNIX"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/11/sk-hynix-equipment-orders-tes-logs-krw.html",
+      "topic_as_printed": "SK hynix Equipment Orders: TES Logs KRW 48.1B Supply Contract",
+      "original_file_page": "",
+      "credit_artist": "",
+      "license": "inherited: check existing live article photographic source caption",
+      "license_url": "",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "a682b76cf1971dd8b4f0dc2da2e12053d8698943e3645faff226f0b1014f9ade",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "legacy original citation remains in public post; not independently recertified here"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/sk-hynix-equipment-orders-tes-logs-krw/section-02.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/sk-hynix-equipment-orders-tes-logs-krw/real-photo-02.webp",
+      "base_asset_sha256": "fe100abb888194f676574554ea6809beb4f0a2d2b0ff39ffa62c48775f43d10b",
+      "title_overlay": [
+        "How much wafer inspection capacity is SK hynix adding with Nextin?"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/11/sk-hynix-equipment-orders-tes-logs-krw.html",
+      "topic_as_printed": "SK hynix Equipment Orders: TES Logs KRW 48.1B Supply Contract",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Wafer_prober_service_configuration.jpg",
+      "credit_artist": "Ixnayonthetimmay",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "0a9535df3a06cda8d320e0677cbf22529e2e8e4fa91763dca27ff01ec9d6f35a",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/sk-hynix-equipment-orders-tes-logs-krw/section-04.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/sk-hynix-equipment-orders-tes-logs-krw/real-photo-04.webp",
+      "base_asset_sha256": "d7626498310bf6f52c06ff2f54d067f903e2d2d59861256a6e0383d83d3d25e6",
+      "title_overlay": [
+        "Delivery schedules across equipment filings map 2027 memory ramp-ups"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/11/sk-hynix-equipment-orders-tes-logs-krw.html",
+      "topic_as_printed": "SK hynix Equipment Orders: TES Logs KRW 48.1B Supply Contract",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:A_semiconductor_wafer_being_removed_from_processing_equipment.jpg",
+      "credit_artist": "YouTube — Purdue Engineering",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "9f2c70872b17e718527765ada13da406183f59f6bc0e088f3fc14ef3233b8915",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/sk-hynix-gains-on-record-profit-despite/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://raw.githubusercontent.com/taehoo/seoulaistocks-assets/70be9b54bea0fa1457f7bdd188c8e7dbff30fe4c/posts/20261111-en-capex-cleanroom-audit/photo-hynix-ddr5-ccby4.webp",
+      "base_asset_sha256": "78db721e051ea5a961d1b39d4fc05f7bf2693489bf4a199476b79f823a60ae38",
+      "title_overlay": [
+        "HYNIX RECORD PROFIT",
+        "U.S. CHIP SELLOFF",
+        "SEOUL REACTION"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/11/sk-hynix-gains-on-record-profit-despite.html",
+      "topic_as_printed": "SK hynix gains on record profit despite US semiconductor selloff",
+      "original_file_page": "",
+      "credit_artist": "",
+      "license": "inherited: check existing live article photographic source caption",
+      "license_url": "",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "74f440b7c720ac568d14dedc96f4c498f413620585427c95c9160961d56404b8",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "legacy original citation remains in public post; not independently recertified here"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/sk-hynix-gains-on-record-profit-despite/section-01.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/sk-hynix-gains-on-record-profit-despite/real-photo-01.webp",
+      "base_asset_sha256": "18553ebd886255660d23104ab5dfb35ab39c3bc5cf3b4e7f699459d13fa8eb68",
+      "title_overlay": [
+        "HYNIX RECORD PROFIT / U.S. CHIP SELLOFF"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/11/sk-hynix-gains-on-record-profit-despite.html",
+      "topic_as_printed": "SK hynix gains on record profit despite US semiconductor selloff",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Cleanroom_-_photolithography_lab_(9150584696).jpg",
+      "credit_artist": "UCL Mathematical and Physical Sciences from London, UK",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "164975e61ef19f71f1c86a9048beb0dfa8654c1c4c2262f2c38a19ed2ae8a443",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/sk-hynix-gains-on-record-profit-despite/section-03.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/sk-hynix-gains-on-record-profit-despite/real-photo-03.webp",
+      "base_asset_sha256": "d7626498310bf6f52c06ff2f54d067f903e2d2d59861256a6e0383d83d3d25e6",
+      "title_overlay": [
+        "Who bought the dip?"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/11/sk-hynix-gains-on-record-profit-despite.html",
+      "topic_as_printed": "SK hynix gains on record profit despite US semiconductor selloff",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:A_semiconductor_wafer_being_removed_from_processing_equipment.jpg",
+      "credit_artist": "YouTube — Purdue Engineering",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "f1bd6ef79faff3e67bd758d23cb8cf3082dc505a2a28cf46bd3cf4f32aa7f4a7",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/sox-jumped-42-on-nov-6-what-ai-capex/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@3d25361c6af65eda8059945788650a48533b50f1/posts/20261106-0850-ai-blue-wave-samsung-hynix-special/photo-datacenter.webp",
+      "base_asset_sha256": "2d77bc93bab25ceb0761f929d1464537721d8513b120f16daff7eae53074a9ac",
+      "title_overlay": [
+        "SOX +4.2%",
+        "NOVEMBER 6",
+        "AI CAPEX + SEOUL"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/11/sox-jumped-42-on-nov-6-what-ai-capex.html",
+      "topic_as_printed": "SOX Jumped 4.2% on Nov 6: What AI Capex Means for Seoul",
+      "original_file_page": "",
+      "credit_artist": "",
+      "license": "inherited: check existing live article photographic source caption",
+      "license_url": "",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "297e9ae90b32ec29b2ed842d2e262e53710705b342529f6ab1dc6f5fcea241c3",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "legacy original citation remains in public post; not independently recertified here"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/sox-jumped-42-on-nov-6-what-ai-capex/section-01.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/sox-jumped-42-on-nov-6-what-ai-capex/real-photo-01.webp",
+      "base_asset_sha256": "9a5f3edac1345bb596437e00d93737d36f88ed8b10a7b3f47fd6376ec5e5528d",
+      "title_overlay": [
+        "SOX +4.2% / NOVEMBER 6"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/11/sox-jumped-42-on-nov-6-what-ai-capex.html",
+      "topic_as_printed": "SOX Jumped 4.2% on Nov 6: What AI Capex Means for Seoul",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Photolithography_lab_in_the_LCN_cleanroom.jpg",
+      "credit_artist": "University College London Faculty of Mathematical & Physical Sciences",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "5aaa4fc29ce5617f5bffd542ccf5fe65aa5db1d91931a20a1b730da8ad3d1af2",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/sox-jumped-42-on-nov-6-what-ai-capex/section-04.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/sox-jumped-42-on-nov-6-what-ai-capex/real-photo-04.webp",
+      "base_asset_sha256": "30ef6eba4a7a272acb74c9b0316d822b75ca76ce30287eaf4f4942986af48e66",
+      "title_overlay": [
+        "How are foreign investors reading hyperscaler capex against Korean memory stocks?"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/11/sox-jumped-42-on-nov-6-what-ai-capex.html",
+      "topic_as_printed": "SOX Jumped 4.2% on Nov 6: What AI Capex Means for Seoul",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Silicon_Wafer_20190210.jpg",
+      "credit_artist": "Enrique Jiménez",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "fa61c7c067b14cd56803b8a2485356327c4cfbbab39b2d37c2bd125e06b633f1",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/tsmc-revenue-hit-nt149t-as-margins/cover-topic.webp",
+      "editorial_type": "cover",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/tsmc-revenue-hit-nt149t-as-margins/real-photo-00.webp",
+      "base_asset_sha256": "75fd39d324e86dd9d6b71599b3bb189b065e5102134ba6d7f62b009834cd88a5",
+      "title_overlay": [
+        "TSMC REVENUE",
+        "NT$1.49T",
+        "MARGIN 58.7%"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/11/tsmc-revenue-hit-nt149t-as-margins.html",
+      "topic_as_printed": "TSMC Revenue Hit NT$1.49T as Margins Reached 58.7%",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Wafer_-_2.jpg",
+      "credit_artist": "Windell Oskay",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "0cf6a3568bdf4feefedce39c45654d74bf466120bd91874724d4e1f9da9d7e56",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    },
+    {
+      "editorial_image": "r59-topic-headline-editorial-20261123/kospi-foreign-flows-foreigners-sold-krw/section-06.webp",
+      "editorial_type": "body",
+      "base_image_url": "https://cdn.jsdelivr.net/gh/taehoo/seoulaistocks-assets@828224ab08647bb6f467330d6aaf42c083bbd321/r58-licensed-editorial-photos-20261123/kospi-foreign-flows-foreigners-sold-krw/real-photo-06.webp",
+      "base_asset_sha256": "0b6eddd4472305155e30e13410622494dca18a0b5988b01c225b3998424b0aad",
+      "title_overlay": [
+        "Battery and auto sector revisions follow earnings disclosures"
+      ],
+      "article_url": "https://seoulaistocks.blogspot.com/2026/11/kospi-foreign-flows-foreigners-sold-krw.html",
+      "topic_as_printed": "KOSPI Foreign Flows: Foreigners Sold KRW 10.4T in 5 Sessions",
+      "original_file_page": "https://commons.wikimedia.org/wiki/File:Korea_exchange.JPG",
+      "credit_artist": "hyolee2",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "transformations": "Crop to 16:9; add factual article-title typography and nondeceptive contextual archival-photo footer; no generative image synthesis",
+      "output_sha256": "c597453f7ca5aee51da060fd40e631ffcf16e14e6f9b6731a50a4ea487a6941f",
+      "caption_policy": "Keep current Blogger photo caption and licence/artist text unchanged; for archived replacement photo, replace outdated caption with attribution.",
+      "rights_status": "existing documented Wikimedia Commons/CC source"
+    }
+  ]
+}
