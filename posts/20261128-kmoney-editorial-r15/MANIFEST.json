@@ -1,0 +1,594 @@
+[
+  {
+    "n": 1,
+    "file": "cover-01.webp",
+    "w": 1200,
+    "h": 720,
+    "bytes": 41810,
+    "sha256": "1fc520d02fd823d607ee9a3efa05d6359ba1bacc67ce71a8078157467fd85cd6",
+    "alt": "Compare exchange rates correctly: 1 Use the same date (Do not mix market closing times.); 2 Check the quotation unit (KRW per currency vs currency per KRW.); 3 Compare a real transfer quote (Include fees and the customer rate.)",
+    "caption": "Original editorial infographic made for Korea Money Desk; ECB reference-rate series. No third-party image assets. See the cited guide for conditions.",
+    "source": "https://data.ecb.europa.eu/data/datasets/EXR/EXR.D.KRW.EUR.SP00.A",
+    "source_label": "ECB reference-rate series",
+    "design_data": {
+      "title": "Compare exchange rates correctly",
+      "items": [
+        [
+          "1",
+          "Use the same date",
+          "Do not mix market closing times."
+        ],
+        [
+          "2",
+          "Check the quotation unit",
+          "KRW per currency vs currency per KRW."
+        ],
+        [
+          "3",
+          "Compare a real transfer quote",
+          "Include fees and the customer rate."
+        ]
+      ],
+      "src": "https://data.ecb.europa.eu/data/datasets/EXR/EXR.D.KRW.EUR.SP00.A",
+      "source": "ECB reference-rate series",
+      "type": "checklist"
+    },
+    "creation": "Pillow: original geometry and typography; DejaVu Sans font; no third-party photo or generative model",
+    "rights": "Original editorial graphic created for blog from stated data or editorial checklist"
+  },
+  {
+    "n": 3,
+    "file": "cover-03.webp",
+    "w": 1200,
+    "h": 720,
+    "bytes": 42426,
+    "sha256": "a7ae7bed8818fcaeb60c70ddc5d68bcf4367dd6502677cf2c977e5d4d7f6015a",
+    "alt": "Freelancer tax: from records to filing: 30m Illustrative receipts (KRW 30 million); 8m Illustrative expenses (KRW 8 million, if allowable); 22m Remaining business income (Before other income and deductions)",
+    "caption": "Original editorial infographic made for Korea Money Desk; Income Tax Act, Article 70; hypothetical arithmetic. No third-party image assets. See the cited guide for conditions.",
+    "source": "https://www.law.go.kr/LSW/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1031182013",
+    "source_label": "Income Tax Act, Article 70; hypothetical arithmetic",
+    "design_data": {
+      "title": "Freelancer tax: from records to filing",
+      "items": [
+        [
+          "30m",
+          "Illustrative receipts",
+          "KRW 30 million"
+        ],
+        [
+          "8m",
+          "Illustrative expenses",
+          "KRW 8 million, if allowable"
+        ],
+        [
+          "22m",
+          "Remaining business income",
+          "Before other income and deductions"
+        ]
+      ],
+      "src": "https://www.law.go.kr/LSW/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1031182013",
+      "source": "Income Tax Act, Article 70; hypothetical arithmetic",
+      "type": "example"
+    },
+    "creation": "Pillow: original geometry and typography; DejaVu Sans font; no third-party photo or generative model",
+    "rights": "Original editorial graphic created for blog from stated data or editorial checklist"
+  },
+  {
+    "n": 5,
+    "file": "cover-05.webp",
+    "w": 1200,
+    "h": 720,
+    "bytes": 40942,
+    "sha256": "017579e1ae309d103beba7a770d07870531366b2185003d000231c11e437ea2c",
+    "alt": "Check identity records before retrying: 1 Residence document (Confirm the registered spelling.); 2 Mobile subscription (Check the verified subscriber name.); 3 Bank account (Ask which format must match.)",
+    "caption": "Original editorial infographic made for Korea Money Desk; Bank product conditions; editorial checklist. No third-party image assets. See the cited guide for conditions.",
+    "source": "https://www.kakaobank.com/products/withdrawal",
+    "source_label": "Bank product conditions; editorial checklist",
+    "design_data": {
+      "title": "Check identity records before retrying",
+      "items": [
+        [
+          "1",
+          "Residence document",
+          "Confirm the registered spelling."
+        ],
+        [
+          "2",
+          "Mobile subscription",
+          "Check the verified subscriber name."
+        ],
+        [
+          "3",
+          "Bank account",
+          "Ask which format must match."
+        ]
+      ],
+      "src": "https://www.kakaobank.com/products/withdrawal",
+      "source": "Bank product conditions; editorial checklist",
+      "type": "checklist"
+    },
+    "creation": "Pillow: original geometry and typography; DejaVu Sans font; no third-party photo or generative model",
+    "rights": "Original editorial graphic created for blog from stated data or editorial checklist"
+  },
+  {
+    "n": 6,
+    "file": "cover-06.webp",
+    "w": 1200,
+    "h": 720,
+    "bytes": 48334,
+    "sha256": "9150d28cead266ff82fc328a9ddff6d309e35a708c202133174012f7a305705b",
+    "alt": "Hometown donation: read the tax calculation: 100k First KRW 100,000 (National credit: 100/110 of donation); 100k Next KRW 100,000 (National credit: 40%); 130,909 Illustrative national credit (KRW, for a qualifying 200,000 donation)",
+    "caption": "Original editorial infographic made for Korea Money Desk; Special Taxation Act Art. 58; conditions and tax cap apply. No third-party image assets. See the cited guide for conditions.",
+    "source": "https://law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1025814561",
+    "source_label": "Special Taxation Act Art. 58; conditions and tax cap apply",
+    "design_data": {
+      "title": "Hometown donation: read the tax calculation",
+      "items": [
+        [
+          "100k",
+          "First KRW 100,000",
+          "National credit: 100/110 of donation"
+        ],
+        [
+          "100k",
+          "Next KRW 100,000",
+          "National credit: 40%"
+        ],
+        [
+          "130,909",
+          "Illustrative national credit",
+          "KRW, for a qualifying 200,000 donation"
+        ]
+      ],
+      "src": "https://law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1025814561",
+      "source": "Special Taxation Act Art. 58; conditions and tax cap apply",
+      "type": "example"
+    },
+    "creation": "Pillow: original geometry and typography; DejaVu Sans font; no third-party photo or generative model",
+    "rights": "Original editorial graphic created for blog from stated data or editorial checklist"
+  },
+  {
+    "n": 13,
+    "file": "cover-13.webp",
+    "w": 1200,
+    "h": 720,
+    "bytes": 46280,
+    "sha256": "e30c015ac315222cff81bc55c476c82af204470793d3a9f727bb228a77782adc",
+    "alt": "Business registration is not one single tax: 1 Activity permission (Check immigration and sector rules.); 2 National tax registration (Confirm your business reporting category.); 3 Local licence or registration (Check the particular legal tax category.)",
+    "caption": "Original editorial infographic made for Korea Money Desk; Local Tax Act Arts. 23–24; separate procedures. No third-party image assets. See the cited guide for conditions.",
+    "source": "https://www.law.go.kr/LSW/lsInfoP.do?efYd=20260424&lsiSeq=282559",
+    "source_label": "Local Tax Act Arts. 23–24; separate procedures",
+    "design_data": {
+      "title": "Business registration is not one single tax",
+      "items": [
+        [
+          "1",
+          "Activity permission",
+          "Check immigration and sector rules."
+        ],
+        [
+          "2",
+          "National tax registration",
+          "Confirm your business reporting category."
+        ],
+        [
+          "3",
+          "Local licence or registration",
+          "Check the particular legal tax category."
+        ]
+      ],
+      "src": "https://www.law.go.kr/LSW/lsInfoP.do?efYd=20260424&lsiSeq=282559",
+      "source": "Local Tax Act Arts. 23–24; separate procedures",
+      "type": "checklist"
+    },
+    "creation": "Pillow: original geometry and typography; DejaVu Sans font; no third-party photo or generative model",
+    "rights": "Original editorial graphic created for blog from stated data or editorial checklist"
+  },
+  {
+    "n": 16,
+    "file": "cover-16.webp",
+    "w": 1200,
+    "h": 720,
+    "bytes": 43866,
+    "sha256": "2694f9f2d54ab3d8e23a4b699ca197dea34f37004dae1d25b3a76e5b27b30470",
+    "alt": "Progressive tax: use the taxable base: 840k First KRW 14 million (6% national income tax); 900k Next KRW 6 million (15% national income tax); 1.74m Illustrative calculated tax (Before credits; not gross salary)",
+    "caption": "Original editorial infographic made for Korea Money Desk; NTS tax-base bands; KRW 20m hypothetical base. No third-party image assets. See the cited guide for conditions.",
+    "source": "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7873&mi=2227",
+    "source_label": "NTS tax-base bands; KRW 20m hypothetical base",
+    "design_data": {
+      "title": "Progressive tax: use the taxable base",
+      "items": [
+        [
+          "840k",
+          "First KRW 14 million",
+          "6% national income tax"
+        ],
+        [
+          "900k",
+          "Next KRW 6 million",
+          "15% national income tax"
+        ],
+        [
+          "1.74m",
+          "Illustrative calculated tax",
+          "Before credits; not gross salary"
+        ]
+      ],
+      "src": "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7873&mi=2227",
+      "source": "NTS tax-base bands; KRW 20m hypothetical base",
+      "type": "example"
+    },
+    "creation": "Pillow: original geometry and typography; DejaVu Sans font; no third-party photo or generative model",
+    "rights": "Original editorial graphic created for blog from stated data or editorial checklist"
+  },
+  {
+    "n": 17,
+    "file": "cover-17.webp",
+    "w": 1200,
+    "h": 720,
+    "bytes": 45418,
+    "sha256": "34c1b93d54ed86e713a4b669447b03f3ac7aae1083f4bfc5e17dbaeffe6f85d4",
+    "alt": "2026 payroll example: 142,500 Employee pension (KRW; 4.75% of assumed 3m base); 107,850 Employee health premium (KRW; 3.595% of assumed 3m base); 14,172 Long-term care premium (KRW; before payroll rounding)",
+    "caption": "Original editorial infographic made for Korea Money Desk; NPS and NHIS 2026 rates; assumed bases, before rounding. No third-party image assets. See the cited guide for conditions.",
+    "source": "https://edi.nhis.or.kr/portal/images/popup/20251204_pop01longdesc.html",
+    "source_label": "NPS and NHIS 2026 rates; assumed bases, before rounding",
+    "design_data": {
+      "title": "2026 payroll example",
+      "items": [
+        [
+          "142,500",
+          "Employee pension",
+          "KRW; 4.75% of assumed 3m base"
+        ],
+        [
+          "107,850",
+          "Employee health premium",
+          "KRW; 3.595% of assumed 3m base"
+        ],
+        [
+          "14,172",
+          "Long-term care premium",
+          "KRW; before payroll rounding"
+        ]
+      ],
+      "src": "https://edi.nhis.or.kr/portal/images/popup/20251204_pop01longdesc.html",
+      "source": "NPS and NHIS 2026 rates; assumed bases, before rounding",
+      "type": "example"
+    },
+    "creation": "Pillow: original geometry and typography; DejaVu Sans font; no third-party photo or generative model",
+    "rights": "Original editorial graphic created for blog from stated data or editorial checklist"
+  },
+  {
+    "n": 18,
+    "file": "cover-18.webp",
+    "w": 1200,
+    "h": 720,
+    "bytes": 44260,
+    "sha256": "64afb2d8a98725bb838e40ca6d20b74c9a1df216d4a8e5c10e0abeec1a416c40",
+    "alt": "Won to yuan: ECB reference cross-rate: 4,640.01 CNY per KRW 1 million (May 4, 2026); 4,982.44 CNY per KRW 1 million (October 30, 2026); +7.38% Change in CNY received (Before fees; reference observations)",
+    "caption": "Original editorial infographic made for Korea Money Desk; ECB CNY/EUR and KRW/EUR; cross-rate arithmetic. No third-party image assets. See the cited guide for conditions.",
+    "source": "https://data.ecb.europa.eu/data/datasets/EXR/EXR.D.CNY.EUR.SP00.A",
+    "source_label": "ECB CNY/EUR and KRW/EUR; cross-rate arithmetic",
+    "design_data": {
+      "title": "Won to yuan: ECB reference cross-rate",
+      "items": [
+        [
+          "4,640.01",
+          "CNY per KRW 1 million",
+          "May 4, 2026"
+        ],
+        [
+          "4,982.44",
+          "CNY per KRW 1 million",
+          "October 30, 2026"
+        ],
+        [
+          "+7.38%",
+          "Change in CNY received",
+          "Before fees; reference observations"
+        ]
+      ],
+      "src": "https://data.ecb.europa.eu/data/datasets/EXR/EXR.D.CNY.EUR.SP00.A",
+      "source": "ECB CNY/EUR and KRW/EUR; cross-rate arithmetic",
+      "type": "example"
+    },
+    "creation": "Pillow: original geometry and typography; DejaVu Sans font; no third-party photo or generative model",
+    "rights": "Original editorial graphic created for blog from stated data or editorial checklist"
+  },
+  {
+    "n": 23,
+    "file": "cover-23.webp",
+    "w": 1200,
+    "h": 720,
+    "bytes": 45032,
+    "sha256": "8a05f882b4364ff48cae9b835bcd243b62c53ad88d1b0436131ba40c265e3316",
+    "alt": "Euro conversion: compare the same amount: 578.18 EUR per KRW 1 million (April 21, 2026); 670.08 EUR per KRW 1 million (October 19, 2026); +15.90% Change in EUR received (ECB reference observations; before fees)",
+    "caption": "Original editorial infographic made for Korea Money Desk; ECB KRW/EUR reference series; reciprocal calculation. No third-party image assets. See the cited guide for conditions.",
+    "source": "https://data.ecb.europa.eu/data/datasets/EXR/EXR.D.KRW.EUR.SP00.A",
+    "source_label": "ECB KRW/EUR reference series; reciprocal calculation",
+    "design_data": {
+      "title": "Euro conversion: compare the same amount",
+      "items": [
+        [
+          "578.18",
+          "EUR per KRW 1 million",
+          "April 21, 2026"
+        ],
+        [
+          "670.08",
+          "EUR per KRW 1 million",
+          "October 19, 2026"
+        ],
+        [
+          "+15.90%",
+          "Change in EUR received",
+          "ECB reference observations; before fees"
+        ]
+      ],
+      "src": "https://data.ecb.europa.eu/data/datasets/EXR/EXR.D.KRW.EUR.SP00.A",
+      "source": "ECB KRW/EUR reference series; reciprocal calculation",
+      "type": "example"
+    },
+    "creation": "Pillow: original geometry and typography; DejaVu Sans font; no third-party photo or generative model",
+    "rights": "Original editorial graphic created for blog from stated data or editorial checklist"
+  },
+  {
+    "n": 24,
+    "file": "cover-24.webp",
+    "w": 1200,
+    "h": 720,
+    "bytes": 40398,
+    "sha256": "a5c8bb56952bcaae34d20e42e7c448feff0139c86e845a0d52925d4bb80fa235",
+    "alt": "Mobile pay: troubleshoot in the right order: 1 Eligibility (Check the provider's supported accounts.); 2 Identity (Compare bank and phone subscriber records.); 3 Recovery (Use official support; never share PINs.)",
+    "caption": "Original editorial infographic made for Korea Money Desk; Editorial verification checklist; service-specific rules apply. No third-party image assets. See the cited guide for conditions.",
+    "source": "https://www.fss.or.kr/eng/main/main.do",
+    "source_label": "Editorial verification checklist; service-specific rules apply",
+    "design_data": {
+      "title": "Mobile pay: troubleshoot in the right order",
+      "items": [
+        [
+          "1",
+          "Eligibility",
+          "Check the provider's supported accounts."
+        ],
+        [
+          "2",
+          "Identity",
+          "Compare bank and phone subscriber records."
+        ],
+        [
+          "3",
+          "Recovery",
+          "Use official support; never share PINs."
+        ]
+      ],
+      "src": "https://www.fss.or.kr/eng/main/main.do",
+      "source": "Editorial verification checklist; service-specific rules apply",
+      "type": "checklist"
+    },
+    "creation": "Pillow: original geometry and typography; DejaVu Sans font; no third-party photo or generative model",
+    "rights": "Original editorial graphic created for blog from stated data or editorial checklist"
+  },
+  {
+    "n": 26,
+    "file": "cover-26.webp",
+    "w": 1200,
+    "h": 720,
+    "bytes": 47682,
+    "sha256": "148f6ce45ec09c1014234f6795d6f5faa7aa91bfff13d6f4501310467f7b9c28",
+    "alt": "A deduction is not the same as a credit: 225k Hypothetical tax saving (1.5m deduction x 15% marginal rate); 130k Hypothetical tax credit (Reduces calculated tax, subject to limits); Check Permitted alternatives (Do not combine benefits automatically)",
+    "caption": "Original editorial infographic made for Korea Money Desk; Income Tax Act provisions; illustrative calculation. No third-party image assets. See the cited guide for conditions.",
+    "source": "https://www.law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1032880697",
+    "source_label": "Income Tax Act provisions; illustrative calculation",
+    "design_data": {
+      "title": "A deduction is not the same as a credit",
+      "items": [
+        [
+          "225k",
+          "Hypothetical tax saving",
+          "1.5m deduction x 15% marginal rate"
+        ],
+        [
+          "130k",
+          "Hypothetical tax credit",
+          "Reduces calculated tax, subject to limits"
+        ],
+        [
+          "Check",
+          "Permitted alternatives",
+          "Do not combine benefits automatically"
+        ]
+      ],
+      "src": "https://www.law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1032880697",
+      "source": "Income Tax Act provisions; illustrative calculation",
+      "type": "example"
+    },
+    "creation": "Pillow: original geometry and typography; DejaVu Sans font; no third-party photo or generative model",
+    "rights": "Original editorial graphic created for blog from stated data or editorial checklist"
+  },
+  {
+    "n": 27,
+    "file": "cover-27.webp",
+    "w": 1200,
+    "h": 720,
+    "bytes": 47182,
+    "sha256": "4b6ace6febb28bd1ca4caec2ee7baaa5e7d466191ec1fbb8602339db027e9f54",
+    "alt": "Variable loan rate: isolate the effect: 4.0% Hypothetical old rate (KRW 100 million principal); 4.5% Hypothetical new rate (Same principal; no amortization assumed); +500k Annual interest difference (KRW, approximately 41,667 per month)",
+    "caption": "Original editorial infographic made for Korea Money Desk; BOK policy rate context; hypothetical contract calculation. No third-party image assets. See the cited guide for conditions.",
+    "source": "https://www.bok.or.kr/portal/singl/baseRate/list.do?menuNo=200761",
+    "source_label": "BOK policy rate context; hypothetical contract calculation",
+    "design_data": {
+      "title": "Variable loan rate: isolate the effect",
+      "items": [
+        [
+          "4.0%",
+          "Hypothetical old rate",
+          "KRW 100 million principal"
+        ],
+        [
+          "4.5%",
+          "Hypothetical new rate",
+          "Same principal; no amortization assumed"
+        ],
+        [
+          "+500k",
+          "Annual interest difference",
+          "KRW, approximately 41,667 per month"
+        ]
+      ],
+      "src": "https://www.bok.or.kr/portal/singl/baseRate/list.do?menuNo=200761",
+      "source": "BOK policy rate context; hypothetical contract calculation",
+      "type": "example"
+    },
+    "creation": "Pillow: original geometry and typography; DejaVu Sans font; no third-party photo or generative model",
+    "rights": "Original editorial graphic created for blog from stated data or editorial checklist"
+  },
+  {
+    "n": 29,
+    "file": "cover-29.webp",
+    "w": 1200,
+    "h": 720,
+    "bytes": 50566,
+    "sha256": "dc5b08301698b7e1240895beaa695b16ebe25936d97a9fd17bd538fca3286a7f",
+    "alt": "October 22, 2026: two reference observations: 1,326.23 KRW per USD (Federal Reserve DEXKOUS); 1,324.63 KRW per USD (ECB-derived cross-rate, rounded); Compare Separate observation methods (Neither is a bank's executable quote)",
+    "caption": "Original editorial infographic made for Korea Money Desk; Federal Reserve DEXKOUS and ECB cross-rate; dated observations. No third-party image assets. See the cited guide for conditions.",
+    "source": "https://fred.stlouisfed.org/data/DEXKOUS",
+    "source_label": "Federal Reserve DEXKOUS and ECB cross-rate; dated observations",
+    "design_data": {
+      "title": "October 22, 2026: two reference observations",
+      "items": [
+        [
+          "1,326.23",
+          "KRW per USD",
+          "Federal Reserve DEXKOUS"
+        ],
+        [
+          "1,324.63",
+          "KRW per USD",
+          "ECB-derived cross-rate, rounded"
+        ],
+        [
+          "Compare",
+          "Separate observation methods",
+          "Neither is a bank's executable quote"
+        ]
+      ],
+      "src": "https://fred.stlouisfed.org/data/DEXKOUS",
+      "source": "Federal Reserve DEXKOUS and ECB cross-rate; dated observations",
+      "type": "example"
+    },
+    "creation": "Pillow: original geometry and typography; DejaVu Sans font; no third-party photo or generative model",
+    "rights": "Original editorial graphic created for blog from stated data or editorial checklist"
+  },
+  {
+    "n": 30,
+    "file": "cover-30.webp",
+    "w": 1200,
+    "h": 720,
+    "bytes": 47452,
+    "sha256": "b2b809aca4dc6ce61b755e4a67de5fb73e47693b83f3fb80926ed3b809e5a28b",
+    "alt": "Which document should you request?: Income Income certificate (Reported income for the relevant year.); Work Employment certificate (Current employment or employer record.); Check Ask the recipient (Confirm period, format and translation.)",
+    "caption": "Original editorial infographic made for Korea Money Desk; Government24 income certificate; recipient-specific requirements. No third-party image assets. See the cited guide for conditions.",
+    "source": "https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=12100000021&HighCtgCD=-",
+    "source_label": "Government24 income certificate; recipient-specific requirements",
+    "design_data": {
+      "title": "Which document should you request?",
+      "items": [
+        [
+          "Income",
+          "Income certificate",
+          "Reported income for the relevant year."
+        ],
+        [
+          "Work",
+          "Employment certificate",
+          "Current employment or employer record."
+        ],
+        [
+          "Check",
+          "Ask the recipient",
+          "Confirm period, format and translation."
+        ]
+      ],
+      "src": "https://www.gov.kr/mw/AA020InfoCappView.do?CappBizCD=12100000021&HighCtgCD=-",
+      "source": "Government24 income certificate; recipient-specific requirements",
+      "type": "checklist"
+    },
+    "creation": "Pillow: original geometry and typography; DejaVu Sans font; no third-party photo or generative model",
+    "rights": "Original editorial graphic created for blog from stated data or editorial checklist"
+  },
+  {
+    "n": 33,
+    "file": "cover-33.webp",
+    "w": 1200,
+    "h": 720,
+    "bytes": 46278,
+    "sha256": "ce9ea4eda27aeb4ed50d14ebb9f4666edc73de8bf055c19052f3242e79dd0118",
+    "alt": "Credit records: check before applying: NICE Review your record (Check identity and reported information.); KCB Review separately (A different score may be reported.); Bank Ask about lending criteria (A score does not guarantee approval.)",
+    "caption": "Original editorial infographic made for Korea Money Desk; Editorial checklist; check NICE and KCB directly. No third-party image assets. See the cited guide for conditions.",
+    "source": "https://www.allcredit.co.kr/",
+    "source_label": "Editorial checklist; check NICE and KCB directly",
+    "design_data": {
+      "title": "Credit records: check before applying",
+      "items": [
+        [
+          "NICE",
+          "Review your record",
+          "Check identity and reported information."
+        ],
+        [
+          "KCB",
+          "Review separately",
+          "A different score may be reported."
+        ],
+        [
+          "Bank",
+          "Ask about lending criteria",
+          "A score does not guarantee approval."
+        ]
+      ],
+      "src": "https://www.allcredit.co.kr/",
+      "source": "Editorial checklist; check NICE and KCB directly",
+      "type": "checklist"
+    },
+    "creation": "Pillow: original geometry and typography; DejaVu Sans font; no third-party photo or generative model",
+    "rights": "Original editorial graphic created for blog from stated data or editorial checklist"
+  },
+  {
+    "n": 36,
+    "file": "cover-36.webp",
+    "w": 1200,
+    "h": 720,
+    "bytes": 49606,
+    "sha256": "4e37ad3ea03845fb052cdf43ba3814aa0f0af0121d672d215e768ade4bdc6bd8",
+    "alt": "Compare the actual transfer, not the headline: Debit Total KRW paid (Include all sender-side charges.); Receive Destination amount (Use the provider's executable quote.); Verify Delivery and legal eligibility (Record limits, timing and complaints route.)",
+    "caption": "Original editorial infographic made for Korea Money Desk; FX Transactions Regulation Art. 2-32; practical quote checklist. No third-party image assets. See the cited guide for conditions.",
+    "source": "https://www.law.go.kr/LSW/admRulLsInfoR.do?admRulId=22029&admRulSeq=2100000287720&chrClsCd=010202&joTpYn=Y&languageType=KO",
+    "source_label": "FX Transactions Regulation Art. 2-32; practical quote checklist",
+    "design_data": {
+      "title": "Compare the actual transfer, not the headline",
+      "items": [
+        [
+          "Debit",
+          "Total KRW paid",
+          "Include all sender-side charges."
+        ],
+        [
+          "Receive",
+          "Destination amount",
+          "Use the provider's executable quote."
+        ],
+        [
+          "Verify",
+          "Delivery and legal eligibility",
+          "Record limits, timing and complaints route."
+        ]
+      ],
+      "src": "https://www.law.go.kr/LSW/admRulLsInfoR.do?admRulId=22029&admRulSeq=2100000287720&chrClsCd=010202&joTpYn=Y&languageType=KO",
+      "source": "FX Transactions Regulation Art. 2-32; practical quote checklist",
+      "type": "checklist"
+    },
+    "creation": "Pillow: original geometry and typography; DejaVu Sans font; no third-party photo or generative model",
+    "rights": "Original editorial graphic created for blog from stated data or editorial checklist"
+  }
+]
